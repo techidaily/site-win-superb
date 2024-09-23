@@ -1,7 +1,7 @@
 ---
 title: Microsoft Challenges Me on Creativity in Excel - My Ingenious Response Featured on ZDNet
-date: 2024-09-17 13:19:28
-updated: 2024-09-20 10:50:34
+date: 2024-09-22T16:38:29.789Z
+updated: 2024-09-23T16:13:21.017Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,44 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-basic-to-spectaculr-the-best-cams-gear-guide/"><u>[New] From Basic to Spectaculr The Best Cams' Gear Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>[New] Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-implementing-invisible-sound-transitions-in-premiere-pro/"><u>[Updated] Implementing Invisible Sound Transitions in Premiere Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-love-in-motion-youtube-and-vimeos-top-9-premium-marriage-films/"><u>2024 Approved Love in Motion YouTube & Vimeo's Top 9 Premium Marriage Films</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mmf/"><u>互動式無限MMF發送 - 移動維阿韋</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversao-de-audio-livre-para-mp3-e-mp4-suportando-3gpp-com-o-servico-on-line-do-movavi/"><u>Conversão De Áudio Livre Para MP3 E MP4, Suportando 3GPP Com O Serviço On-Line Do Movavi</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/dispelling-myths-about-tiktok-bans-for-2024/"><u>Dispelling Myths About TikTok Bans for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
+<li><a href="https://win-superb.techidaily.com/gratuit-qt-films-in-mp4-konverteren-online-de-gratis-bewerking-van-movavi/"><u>Gratuit QT-Films in MP4 Konverteren Online - De Gratis Bewerking Van Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-meizu-21-by-drfone-android/"><u>How to Bypass FRP on Meizu 21?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Asus ROG Phone 7 Ultimate.</u></a></li>
+<li><a href="https://win-superb.techidaily.com/kostenloze-veiligheidstitel-toegeven-aan-je-videokampagneen-doen-het-nog-goed/"><u>Kostenloze Veiligheidstitel Toegeven Aan Je Videokampagneën - Doen Het Nog Goed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-microphone-not-working-solved/"><u>Logitech G Pro X Microphone Not Working [Solved]</u></a></li>
+<li><a href="https://win-superb.techidaily.com/m4a-mp4/"><u>M4A에서 MP4 전환하기 - 속도 위해 무료 온라인 해상보</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726223866951-movavi/"><u>Movavi客户服务团队：专业帮助与技术指导</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transcodage-gratuit-de-fichier-voc-vers-mp4-sur-internet-moovavi/"><u>Transcodage Gratuit De Fichier VOC Vers MP4 Sur Internet - Moovavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/aacmp3-mpe/"><u>オンラインで自由に使えるAACフォーマットへのMP3変換サービス - MPE</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

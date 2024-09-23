@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's Growing Paranoia Impacts Us All - A Deep Dive on ZDNet
-date: 2024-09-17 17:27:26
-updated: 2024-09-20 10:13:28
+date: 2024-09-16T16:34:04.375Z
+updated: 2024-09-23T16:30:13.750Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-exploring-and-locating-videos-on-facebook-platform-for-2024/"><u>[New] Exploring and Locating Videos on Facebook Platform for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-best-internet-recording-tools-2023-for-2024/"><u>[New] Ultimate Guide to Best Internet Recording Tools 2023 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hashtag-hacks-for-amplifying-gamer-content-for-2024/"><u>[Updated] Hashtag Hacks for Amplifying Gamer Content for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-tools-for-live-gameplay-screen-grabs/"><u>2024 Approved Best Tools for Live Gameplay Screen Grabs</u></a></li>
+<li><a href="https://win-superb.techidaily.com/web-movavi/"><u>無料で簡単なWEBムービーから動画ファイルへの変換 - Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clear-screen-clear-content-how-to-disable-youtube-channels-efficiently/"><u>Clear Screen, Clear Content How to Disable YouTube Channels Efficiently</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comprendiendo-los-tecnicos-del-compresion-wav-guia-practica-para-reducir-el-tamano-de-archivos-musicales-usando-movavis-solucion/"><u>Comprendiendo Los Técnicos Del Compresión WAV: Guía Práctica Para Reducir El Tamaño De Archivos Musicales Usando Movavi's Solución</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversor-livre-de-wav-para-ogg-online-ferramenta-eficiente-pela-movavi/"><u>Conversor Livre De WAV Para OGG Online - Ferramenta Eficiente Pela Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargador-y-convertidor-de-podcasts-gratuito-cambie-sus-mp4-a-m4b-usando-movavi-en-linea/"><u>Descargador Y Convertidor De Podcasts Gratuito: Cambie Sus MP4 a M4B Usando Movavi en Línea</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargar-y-convertir-de-formato-mp3-a-wav-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir De Formato MP3 a WAV Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-a-new-world-playing-battle-royale-on-iphone-and-nvidia/"><u>Discover a New World: Playing Battle Royale on iPhone and Nvidia</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-mp4-to-wav-file-converter-moveave-convert-videos-online-and-offline/"><u>Free MP4 to WAV File Converter - Moveave Convert Videos Online and Offline</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-handling-of-driver-hiccups/"><u>Hassle-Free Handling of Driver Hiccups</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-image-and-video-compression-expliquee-techniques-pour-reduire-facilement-la-taille-des-fichiers-multimedias/"><u>Movavi Image & Video Compression Expliquée - Techniques Pour Réduire Facilement La Taille Des Fichiers Multimédias</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proper-planning-essential-steps-for-using-wsl-2-right/"><u>Proper Planning: Essential Steps for Using WSL 2 Right</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-reno-11-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Reno 11 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transferir-archivos-raw-a-jpeg-gratuita-y-directa-con-movavi/"><u>Transferir Archivos RAW a JPEG Gratuita Y Directa Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-restarts-plague-win10-systems/"><u>Unexpected Restarts Plague Win10 Systems</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mp3mmf/"><u>ムーヴァヴィ - 無料で最新のMP3変換機能を備えたオンラインMMFコンバータ</u></a></li>
+</ul></div>
+

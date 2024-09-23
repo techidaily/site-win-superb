@@ -1,7 +1,7 @@
 ---
 title: Movavi Image & Video Compression Expliquée - Techniques Pour Réduire Facilement La Taille Des Fichiers Multimédias
-date: 2024-09-18T00:44:50.552Z
-updated: 2024-09-18T19:17:59.115Z
+date: 2024-09-17T16:33:03.588Z
+updated: 2024-09-23T16:08:53.195Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e3fcfc62e0e226f7ec4a0419.jpg
@@ -210,6 +210,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -228,13 +235,6 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -242,13 +242,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -279,6 +272,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -324,13 +324,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -351,13 +344,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
@@ -367,10 +353,10 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
@@ -430,13 +416,34 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -455,9 +462,29 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -580,18 +607,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-streamlining-your-creative-process-with-effective-instagram-video-editing-tips/"><u>[New] 2024 Approved Streamlining Your Creative Process with Effective Instagram Video Editing Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-video-quality-enabling-av1-on-youtube/"><u>[New] Maximizing Video Quality Enabling AV1 on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-upload-and-share-your-visual-content-on-youtube-for-2024/"><u>[New] Upload & Share Your Visual Content on YouTube for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/jpg-jpeg-web-based/"><u>移動瓦維的 JPG 到 JPEG：免費 Web-Based 過渡工具</u></a></li>
-<li><a href="https://win-superb.techidaily.com/free-online-conversion-change-mp2-files-into-wmv-format-with-ease-movavi/"><u>Free Online Conversion: Change MP2 Files Into WMV Format with Ease - Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-superb.techidaily.com/online-gratis-converter-von-arw-zu-jpeg-mit-movavi-fugen-sie-ihrer-collection-farbe/"><u>Online Gratis Converter Von ARW Zu JPEG Mit Movavi - Fügen Sie Ihrer Collection Farbe</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/trasforma-i-tuoi-video-mxf-in-gif-con-lonline-free-service-di-movavi/"><u>Trasforma I Tuoi Video MXF in GIF Con L'Online Free Service Di Movavi</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-youtubes-algorithm-title-and-tag-optimization-for-2024/"><u>Unlocking YouTube's Algorithm Title & Tag Optimization for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-fails-to-respond-post-suspend-win7/"><u>USB Printer Fails to Respond Post Suspend, Win7</u></a></li>
-<li><a href="https://win-superb.techidaily.com/pdf-11/"><u>이 분야에서 가장 뛰어난 PDF 조정기를 위해 11개의 신중한 선택 - 무료 토포</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-minecraft-domicile-easy-to-build-residential-plans/"><u>[Updated] In 2024, Minecraft Domicile Easy-To-Build Residential Plans</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-streamline-your-vimeo-video-subtitles/"><u>2024 Approved How to Streamline Your Vimeo Video Subtitles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-ps5-performance-for-ultra-smooth-visuals-at-120-frames-per-second/"><u>Boosting PS5 Performance for Ultra-Smooth Visuals at 120 Frames Per Second</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comprendiendo-los-tecnicos-del-compresion-wav-guia-practica-para-reducir-el-tamano-de-archivos-musicales-usando-movavis-solucion/"><u>Comprendiendo Los Técnicos Del Compresión WAV: Guía Práctica Para Reducir El Tamaño De Archivos Musicales Usando Movavi's Solución</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargador-y-convertidor-de-podcasts-gratuito-cambie-sus-mp4-a-m4b-usando-movavi-en-linea/"><u>Descargador Y Convertidor De Podcasts Gratuito: Cambie Sus MP4 a M4B Usando Movavi en Línea</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-mp4-to-wav-file-converter-moveave-convert-videos-online-and-offline/"><u>Free MP4 to WAV File Converter - Moveave Convert Videos Online and Offline</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x50i-lock-screen-password-by-drfone-android/"><u>How To Change Honor X50i Lock Screen Password?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-resolve-your-apex-legends-cheating-detection-glitch/"><u>How to Quickly Resolve Your Apex Legends Cheating Detection Glitch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-itel-p55-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Itel P55? Fixed | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-moto-g24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Moto G24</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transferir-archivos-raw-a-jpeg-gratuita-y-directa-con-movavi/"><u>Transferir Archivos RAW a JPEG Gratuita Y Directa Con Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mp3mmf/"><u>ムーヴァヴィ - 無料で最新のMP3変換機能を備えたオンラインMMFコンバータ</u></a></li>
 </ul></div>
 

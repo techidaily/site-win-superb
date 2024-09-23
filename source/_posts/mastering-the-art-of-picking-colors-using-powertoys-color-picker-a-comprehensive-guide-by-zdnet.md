@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Picking Colors Using PowerToys' Color Picker - A Comprehensive Guide by ZDNet
-date: 2024-09-17 18:36:49
-updated: 2024-09-20 11:49:40
+date: 2024-09-18T16:08:56.108Z
+updated: 2024-09-23T16:47:19.637Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ro-youtuber-essentials-studio-choice-over-beta-alternative-for-2024/"><u>[New] Pro YouTuber Essentials Studio Choice Over Beta Alternative for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-by-step-procedure-to-effective-video-capturing-using-zds-tools/"><u>[New] Step-by-Step Procedure to Effective Video Capturing Using ZD's Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cheapest-facetime-on-android-highest-rated-apps-for-2024/"><u>[Updated] Cheapest FaceTime on Android Highest Rated Apps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streamlined-multitasking-in-safari-with-pip/"><u>[Updated] Streamlined Multitasking in Safari with PIP</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726219405991-2024/"><u>2024頂級照片輔助文字設計工具 - 如何高效書寫於影像</u></a></li>
+<li><a href="https://win-superb.techidaily.com/5-techniques-innovantes-pour-ameliorer-la-visibilite-de-vos-photos-en-2024/"><u>5 Techniques Innovantes Pour Améliorer La Visibilité De Vos Photos en 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-rival-why-samsungs-galaxy-buds-ebutt-airpods-pro-with-superior-sound-quality/"><u>Beat the Rival: Why Samsung's Galaxy Buds Ebutt AirPods Pro with Superior Sound Quality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a38-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock A38 Phone Forgot Password</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-high-disk-usage-caused-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows 10 Performance by Managing High Disk Usage Caused by Microsoft Compatibility Telemetry</u></a></li>
+<li><a href="https://win-superb.techidaily.com/regulamentos-completos-de-embalagem-entrega-e-retorno-do-servico-movavi/"><u>Regulamentos Completos De Embalagem, Entrega E Retorno Do Serviço Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcome-easy-anti-cheat-missing-error-for-smooth-gameplay-on-pc/"><u>Resolved: Overcome Easy Anti-Cheat Missing Error for Smooth Gameplay on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-11-expert-solutions-to-common-problems/"><u>Restoring Audio Functionality in Windows 11: Expert Solutions to Common Problems</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transforming-wtv-to-wmv-seamlessly-a-cost-free-guide-using-movieavi/"><u>Transforming WTV to WMV Seamlessly: A Cost-Free Guide Using Movieavi</u></a></li>
+</ul></div>
+

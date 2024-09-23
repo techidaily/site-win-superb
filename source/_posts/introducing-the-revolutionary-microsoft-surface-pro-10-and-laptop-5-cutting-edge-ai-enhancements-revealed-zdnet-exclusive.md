@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Revolutionary Microsoft Surface Pro 10 & Laptop #5: Cutting-Edge AI Enhancements Revealed - ZDNet Exclusive"
-date: 2024-09-19 17:49:47
-updated: 2024-09-20 12:18:30
+date: 2024-09-19T16:35:17.791Z
+updated: 2024-09-23T16:51:04.044Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-comprerante-audio-from-computers-the-essential-guide-of-eight-tips/"><u>[New] Comprerante Audio From Computers The Essential Guide of Eight Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-cut-to-the-chase-how-to-zoom-effectively-in-minecraft/"><u>[Updated] 2024 Approved Cut to the Chase How to Zoom Effectively in Minecraft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-free-chromebook-screen-recording-tools-ranked/"><u>[Updated] FREE Chromebook Screen Recording Tools Ranked</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-ultimate-selection-of-free-youtube-introduction-makers/"><u>[Updated] In 2024, Ultimate Selection of Free YouTube Introduction Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-on-the-go-gyroscopic-footage-smoother/"><u>[Updated] On-the-Go Gyroscopic Footage Smoother</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/opusogg-movavi/"><u>完全自由的在线OPUS到OGG转换 – 锁定你的音乐体验：使用Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/web-movavi/"><u>無料で簡単なWEBムービーから動画ファイルへの変換 - Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/capturando-imagens-de-vista-parcial-no-windows-10-guia-completo/"><u>Capturando Imagens De Vista Parcial No Windows 10: Guia Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversion-libre-y-gratuita-de-aiff-a-avi-online-con-movavi-tecnicas-faciles-para-todo-usuario/"><u>Conversión Libre Y Gratuita De AIFF a AVI Online Con Movavi: Técnicas Fáciles Para Todo Usuario</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convertissez-votre-fichier-avi-en-3gp-gratuitement-sur-le-web-avec-moviavi/"><u>Convertissez Votre Fichier AVI en 3GP Gratuitement Sur Le Web Avec Moviavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 Lite 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-style-vs-functionality-an-in-depth-look-at-amazfit-gts-wearable-tech/"><u>Navigating Style vs Functionality: An In-Depth Look at Amazfit GTS Wearable Tech.</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-i-file-wmv-in-formato-ogg-gratuitamente-on-line-utilizzando-movavi-tutorial-completo/"><u>Trasforma I File WMV in Formato Ogg Gratuitamente On-Line Utilizzando Movavi - Tutorial Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-il-tuo-audio-ogg-in-qualita-flac-gratuitamente-tramite-movavi-passaggi-facili-da-seguire/"><u>Trasforma Il Tuo Audio OGG in Qualità FLAC Gratuitamente Tramite Movavi - Passaggi Facili Da Seguire</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-first-steps-in-the-digital-world-course-recommendations-for-2024/"><u>Your First Steps in the Digital World Course Recommendations for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Good News From Southwest Airlines: Affecting You but Not Bill Gates? Find Out on ZDNet"
-date: 2024-09-19 20:54:32
-updated: 2024-09-20 12:59:21
+date: 2024-09-21T16:48:21.723Z
+updated: 2024-09-23T16:30:06.565Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -121,6 +142,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
@@ -159,11 +187,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-strategizing-against-the-phantom-follower-phenomenon/"><u>[Updated] 2024 Approved Strategizing Against the Phantom Follower Phenomenon</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfect-your-android-experience-with-screen-and-video-tech/"><u>2024 Approved Perfect Your Android Experience with Screen & Video Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quick-guide-to-recording-presentations-using-webcam/"><u>2024 Approved Quick Guide to Recording Presentations Using Webcam</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/opusogg-movavi/"><u>完全自由的在线OPUS到OGG转换 – 锁定你的音乐体验：使用Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-http-overload-in-win-based-software-0x80860010/"><u>Bypassing HTTP Overload in Win-Based Software (0X80860010)</u></a></li>
+<li><a href="https://win-superb.techidaily.com/capturando-imagens-de-vista-parcial-no-windows-10-guia-completo/"><u>Capturando Imagens De Vista Parcial No Windows 10: Guia Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversion-libre-y-gratuita-de-aiff-a-avi-online-con-movavi-tecnicas-faciles-para-todo-usuario/"><u>Conversión Libre Y Gratuita De AIFF a AVI Online Con Movavi: Técnicas Fáciles Para Todo Usuario</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convertissez-votre-fichier-avi-en-3gp-gratuitement-sur-le-web-avec-moviavi/"><u>Convertissez Votre Fichier AVI en 3GP Gratuitement Sur Le Web Avec Moviavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-spark-10-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Spark 10 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-zoom-video-conferencing-via-email-client/"><u>Navigating Zoom Video Conferencing via Email Client</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/toms-tech-review-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-i-file-wmv-in-formato-ogg-gratuitamente-on-line-utilizzando-movavi-tutorial-completo/"><u>Trasforma I File WMV in Formato Ogg Gratuitamente On-Line Utilizzando Movavi - Tutorial Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-il-tuo-audio-ogg-in-qualita-flac-gratuitamente-tramite-movavi-passaggi-facili-da-seguire/"><u>Trasforma Il Tuo Audio OGG in Qualità FLAC Gratuitamente Tramite Movavi - Passaggi Facili Da Seguire</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-android-toolset-for-3d-video-players-for-2024/"><u>Ultimate Android Toolset for 3D Video Players for 2024</u></a></li>
+</ul></div>
+

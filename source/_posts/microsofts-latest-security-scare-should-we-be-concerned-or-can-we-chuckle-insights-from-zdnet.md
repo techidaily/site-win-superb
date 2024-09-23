@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Security Scare: Should We Be Concerned or Can We Chuckle? Insights From ZDNet"
-date: 2024-09-19 11:36:40
-updated: 2024-09-20 12:16:46
+date: 2024-09-22T16:30:34.202Z
+updated: 2024-09-23T16:45:03.396Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -121,9 +141,29 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +199,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-high-def-gaming-gpu-recommendations/"><u>[New] High-Def Gaming GPU Recommendations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-optimize-visual-design-top-10-must-have-type-plugins-for-ae/"><u>[Updated] In 2024, Optimize Visual Design Top 10 Must-Have Type Plugins for AE</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfect-timing-for-on-screen-dialogue-in-your-youtube-productions-for-2024/"><u>[Updated] Perfect Timing for On-Screen Dialogue in Your YouTube Productions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/adapting-oculus-quest-3-for-windows-os-vr-environment/"><u>Adapting Oculus Quest 3 for Windows OS VR Environment</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversor-livre-de-wav-para-ogg-online-ferramenta-eficiente-pela-movavi/"><u>Conversor Livre De WAV Para OGG Online - Ferramenta Eficiente Pela Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargar-y-convertir-de-formato-mp3-a-wav-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir De Formato MP3 a WAV Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-emotion-and-imagination-in-tiktok-creations/"><u>Elevate Emotion and Imagination in TikTok Creations</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-mp4-to-wav-file-converter-moveave-convert-videos-online-and-offline/"><u>Free MP4 to WAV File Converter - Moveave Convert Videos Online and Offline</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-105-classic-phone-without-pin-by-drfone-android/"><u>How to Unlock Nokia 105 Classic Phone without PIN</u></a></li>
+<li><a href="https://win-superb.techidaily.com/jon-martindale-unveiling-the-art-of-professional-photography-with-movavi/"><u>Jon Martindale: Unveiling the Art of Professional Photography with Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/online-gratis-converter-von-arw-zu-jpeg-mit-movavi-fugen-sie-ihrer-collection-farbe/"><u>Online Gratis Converter Von ARW Zu JPEG Mit Movavi - Fügen Sie Ihrer Collection Farbe</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shutter-societys-top-six-elite-4k-dslr-picks-for-2024/"><u>Shutter Society's Top Six Elite 4K DSLR Picks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-and-electronics-reviews/"><u>Tom's Tech Insights: Comprehensive Computer and Electronics Reviews</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-i-tuoi-video-mxf-in-gif-con-lonline-free-service-di-movavi/"><u>Trasforma I Tuoi Video MXF in GIF Con L'Online Free Service Di Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/vobaacmp3-movavi-audio-converter/"><u>VOBフォーマットを無料でAACまたはMP3に変換するオンラインツール – Movavi Audio Converter</u></a></li>
+<li><a href="https://win-superb.techidaily.com/pdf-11/"><u>이 분야에서 가장 뛰어난 PDF 조정기를 위해 11개의 신중한 선택 - 무료 토포</u></a></li>
+</ul></div>
+

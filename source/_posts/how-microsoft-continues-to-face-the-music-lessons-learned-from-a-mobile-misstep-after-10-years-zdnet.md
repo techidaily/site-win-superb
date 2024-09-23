@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Continues to Face the Music: Lessons Learned From a Mobile Misstep After 10 Years | ZDNET"
-date: 2024-09-18 18:21:19
-updated: 2024-09-20 10:53:17
+date: 2024-09-20T16:13:36.471Z
+updated: 2024-09-23T16:07:22.249Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easing-into-your-youtube-watches-3-methods-50-chars/"><u>[New] In 2024, Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-magixs-masterpiece-an-in-depth-look-at-video-pro-x/"><u>[New] Magix's Masterpiece An In-Depth Look at Video Pro X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>[Updated] Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mxfwindowsmac-osmov/"><u>簡単なガイド: MXF画像をWindows/Mac OS用MOVファイルに変更する方法</u></a></li>
+<li><a href="https://win-superb.techidaily.com/opusogg-movavi/"><u>完全自由的在线OPUS到OGG转换 – 锁定你的音乐体验：使用Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/capturando-imagens-de-vista-parcial-no-windows-10-guia-completo/"><u>Capturando Imagens De Vista Parcial No Windows 10: Guia Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversion-libre-y-gratuita-de-aiff-a-avi-online-con-movavi-tecnicas-faciles-para-todo-usuario/"><u>Conversión Libre Y Gratuita De AIFF a AVI Online Con Movavi: Técnicas Fáciles Para Todo Usuario</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convertissez-votre-fichier-avi-en-3gp-gratuitement-sur-le-web-avec-moviavi/"><u>Convertissez Votre Fichier AVI en 3GP Gratuitement Sur Le Web Avec Moviavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-narzo-n53-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme Narzo N53 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726223866951-movavi/"><u>Movavi客户服务团队：专业帮助与技术指导</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/optimizing-zoom-conferences-the-power-of-filters-for-2024/"><u>Optimizing Zoom Conferences The Power of Filters for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-i-file-wmv-in-formato-ogg-gratuitamente-on-line-utilizzando-movavi-tutorial-completo/"><u>Trasforma I File WMV in Formato Ogg Gratuitamente On-Line Utilizzando Movavi - Tutorial Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-il-tuo-audio-ogg-in-qualita-flac-gratuitamente-tramite-movavi-passaggi-facili-da-seguire/"><u>Trasforma Il Tuo Audio OGG in Qualità FLAC Gratuitamente Tramite Movavi - Passaggi Facili Da Seguire</u></a></li>
+</ul></div>
+

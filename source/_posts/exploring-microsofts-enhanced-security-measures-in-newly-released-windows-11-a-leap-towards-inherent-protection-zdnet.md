@@ -1,7 +1,7 @@
 ---
 title: Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet
-date: 2024-09-19 17:51:23
-updated: 2024-09-20 12:22:36
+date: 2024-09-20T16:49:25.457Z
+updated: 2024-09-23T16:43:36.747Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-seamless-blending-of-voice-and-text-in-powerpoint-decks/"><u>[Updated] In 2024, Seamless Blending of Voice and Text in PowerPoint Decks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-most-anticipated-facebook-trends-for-24/"><u>[Updated] The Most Anticipated Facebook Trends for '24</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comprendiendo-los-tecnicos-del-compresion-wav-guia-practica-para-reducir-el-tamano-de-archivos-musicales-usando-movavis-solucion/"><u>Comprendiendo Los Técnicos Del Compresión WAV: Guía Práctica Para Reducir El Tamaño De Archivos Musicales Usando Movavi's Solución</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargador-y-convertidor-de-podcasts-gratuito-cambie-sus-mp4-a-m4b-usando-movavi-en-linea/"><u>Descargador Y Convertidor De Podcasts Gratuito: Cambie Sus MP4 a M4B Usando Movavi en Línea</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-image-and-video-compression-expliquee-techniques-pour-reduire-facilement-la-taille-des-fichiers-multimedias/"><u>Movavi Image & Video Compression Expliquée - Techniques Pour Réduire Facilement La Taille Des Fichiers Multimédias</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tailored-approaches-to-pc-screen-recordings-using-dell-for-2024/"><u>Tailored Approaches to PC Screen Recordings Using Dell for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transferir-archivos-raw-a-jpeg-gratuita-y-directa-con-movavi/"><u>Transferir Archivos RAW a JPEG Gratuita Y Directa Con Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/transition-to-quietude-guiding-gradual-volume-reduction-in-premiere-for-2024/"><u>Transition to Quietude Guiding Gradual Volume Reduction In Premiere for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tsmp4movavi/"><u>TS到MP4轉換技巧：Movavi的全面教程</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/video-mastery-share-stunning-images-on-youtube-efficiently/"><u>Video Mastery Share Stunning Images on YouTube Efficiently</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-ki-leitfaden-expertenratgeber-fur-hochwertiges-videomachen-und-verarbeiten-bearbeiten-speichern-reduzieren-and-konvertieren/"><u>Winxvideo KI-Leitfaden: Expertenratgeber Für Hochwertiges Videomachen Und Verarbeiten – Bearbeiten, Speichern, Reduzieren & Konvertieren</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mp3mmf/"><u>ムーヴァヴィ - 無料で最新のMP3変換機能を備えたオンラインMMFコンバータ</u></a></li>
+</ul></div>
+

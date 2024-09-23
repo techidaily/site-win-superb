@@ -1,7 +1,7 @@
 ---
 title: The Elusive Window of Opportunity Closes as MSQuietly Dashes Windows 10 Support Hopes | ZDNET
-date: 2024-09-19 12:56:52
-updated: 2024-09-20 11:16:41
+date: 2024-09-17T16:30:06.663Z
+updated: 2024-09-23T16:14:35.165Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/uture-of-virtual-game-viewership-income-for-2024/"><u>[New] Future of Virtual Game Viewership Income for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tools-that-enhance-your-travel-videos/"><u>[New] Tools That Enhance Your Travel Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-techniques-for-stunning-android-time-lapse-captures-for-2024/"><u>[Updated] Top Techniques for Stunning Android Time-Lapse Captures for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/web-movavi/"><u>無料で簡単なWEBムービーから動画ファイルへの変換 - Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/capturando-imagens-de-vista-parcial-no-windows-10-guia-completo/"><u>Capturando Imagens De Vista Parcial No Windows 10: Guia Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comprendiendo-los-tecnicos-del-compresion-wav-guia-practica-para-reducir-el-tamano-de-archivos-musicales-usando-movavis-solucion/"><u>Comprendiendo Los Técnicos Del Compresión WAV: Guía Práctica Para Reducir El Tamaño De Archivos Musicales Usando Movavi's Solución</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversion-libre-y-gratuita-de-aiff-a-avi-online-con-movavi-tecnicas-faciles-para-todo-usuario/"><u>Conversión Libre Y Gratuita De AIFF a AVI Online Con Movavi: Técnicas Fáciles Para Todo Usuario</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargador-y-convertidor-de-podcasts-gratuito-cambie-sus-mp4-a-m4b-usando-movavi-en-linea/"><u>Descargador Y Convertidor De Podcasts Gratuito: Cambie Sus MP4 a M4B Usando Movavi en Línea</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-geforce-rtx-80-drivers-for-windows-operating-systems-10-8-and-7/"><u>Download Updated GeForce RTX 지오80 Drivers for Windows Operating Systems: 10, 8 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-12windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 12/Windows/Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s17t-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S17t Screen | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-image-and-video-compression-expliquee-techniques-pour-reduire-facilement-la-taille-des-fichiers-multimedias/"><u>Movavi Image & Video Compression Expliquée - Techniques Pour Réduire Facilement La Taille Des Fichiers Multimédias</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-conversion-techniques-transforming-mkv-files-into-prores-format/"><u>Seamless Conversion Techniques: Transforming MKV Files Into ProRes Format</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-usb-sound-card-drivers-in-windows-11-10-and-7/"><u>Step-by-Step Guide: Updating Your USB Sound Card Drivers in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater/"><u>Through the Fins Pro Techniques for Taking Superior GoPro Videos Underwater</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transferir-archivos-raw-a-jpeg-gratuita-y-directa-con-movavi/"><u>Transferir Archivos RAW a JPEG Gratuita Y Directa Con Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mp3mmf/"><u>ムーヴァヴィ - 無料で最新のMP3変換機能を備えたオンラインMMFコンバータ</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Role of Windows in Shaping the Hybrid Work Revolution: Exclusive Coverage by Microsoft | Powered by ZDNet"
-date: 2024-09-17 23:36:37
-updated: 2024-09-20 12:28:10
+date: 2024-09-20T16:00:12.962Z
+updated: 2024-09-23T16:46:04.279Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-money-making-techniques-for-short-videos/"><u>[New] 2024 Approved Top Money-Making Techniques for Short Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebooks-most-noteworthy-tweaks-for-todays-users/"><u>[New] In 2024, Facebook's Most Noteworthy Tweaks for Today’s Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premium-cutters-the-8-must-have-linux-apps/"><u>[New] Premium Cutters The 8 Must-Have Linux Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-hidden-potential-of-screen-recording-on-mi-11-devices-for-2024/"><u>[New] Unveiling the Hidden Potential of Screen Recording on Mi 11 Devices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-budget-switch-emulation-tools-for-2024/"><u>[Updated] Best Budget Switch Emulation Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed-for-2024/"><u>[Updated] Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726219405991-2024/"><u>2024頂級照片輔助文字設計工具 - 如何高效書寫於影像</u></a></li>
+<li><a href="https://win-superb.techidaily.com/5-techniques-innovantes-pour-ameliorer-la-visibilite-de-vos-photos-en-2024/"><u>5 Techniques Innovantes Pour Améliorer La Visibilité De Vos Photos en 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/jpg-jpeg-web-based/"><u>移動瓦維的 JPG 到 JPEG：免費 Web-Based 過渡工具</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audiophiles-handbook-keeping-your-home-stereo-speakers-dust-and-grime-free/"><u>Audiophile's Handbook: Keeping Your Home Stereo Speakers Dust and Grime Free</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/demystifying-quick-fixes-for-pcl-xl-glitches/"><u>Demystifying Quick Fixes for PCL XL Glitches</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726219470265-f4vavi-movavi/"><u>F4VからAVIへの無料オンライン変換 - MOVAVI使用ガイド</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-online-conversion-change-mp2-files-into-wmv-format-with-ease-movavi/"><u>Free Online Conversion: Change MP2 Files Into WMV Format with Ease - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-apple-iphone-11-pro-max-location-on-viber-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Fake Your Apple iPhone 11 Pro Max Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession/"><u>New In 2024, Using Slow Motion in Adobe After Effects A Step-by-Step Procession</u></a></li>
+<li><a href="https://win-superb.techidaily.com/regulamentos-completos-de-embalagem-entrega-e-retorno-do-servico-movavi/"><u>Regulamentos Completos De Embalagem, Entrega E Retorno Do Serviço Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transforma-imagenes-jpg-a-formato-png-sin-costo-alguno-mediante-servicios-online-eficientes/"><u>Transforma Imágenes JPG a Formato PNG Sin Costo Alguno Mediante Servicios Online Eficientes</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transforming-wtv-to-wmv-seamlessly-a-cost-free-guide-using-movieavi/"><u>Transforming WTV to WMV Seamlessly: A Cost-Free Guide Using Movieavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-i-tuoi-video-mxf-in-gif-con-lonline-free-service-di-movavi/"><u>Trasforma I Tuoi Video MXF in GIF Con L'Online Free Service Di Movavi</u></a></li>
+</ul></div>
+

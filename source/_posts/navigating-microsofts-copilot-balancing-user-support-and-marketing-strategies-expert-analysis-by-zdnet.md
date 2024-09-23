@@ -1,7 +1,7 @@
 ---
 title: "Navigating Microsoft's Copilot: Balancing User Support and Marketing Strategies | Expert Analysis by ZDNET"
-date: 2024-09-19 16:28:29
-updated: 2024-09-20 10:41:21
+date: 2024-09-18T16:04:08.446Z
+updated: 2024-09-23T16:37:04.688Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -115,15 +122,42 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +193,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-functionality-of-instagram-story-features/"><u>[Updated] In 2024, The Functionality of Instagram Story Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/command-attention-elevating-your-page-to-the-social-summit-for-2024/"><u>Command Attention Elevating Your Page to the Social Summit for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversor-livre-de-wav-para-ogg-online-ferramenta-eficiente-pela-movavi/"><u>Conversor Livre De WAV Para OGG Online - Ferramenta Eficiente Pela Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools/"><u>In 2024, Capturing Every Word A Comprehensive Guide to Zoom Transcription Tools</u></a></li>
+<li><a href="https://win-superb.techidaily.com/jon-martindale-unveiling-the-art-of-professional-photography-with-movavi/"><u>Jon Martindale: Unveiling the Art of Professional Photography with Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/most-effective-windows-11-dvd-regions-bypass-tool-reviews-and-comparisons/"><u>Most Effective Windows 11 DVD Regions Bypass Tool: Reviews & Comparisons</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-creative-commons-rights-step-by-step-tutorial-for-2024/"><u>Navigating Creative Commons Rights Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-lip-sync-mastery-unlock-the-power-of-these-5-amazing-apps/"><u>New 2024 Approved Lip Sync Mastery Unlock the Power of These 5 Amazing Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>New Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
+<li><a href="https://win-superb.techidaily.com/online-gratis-converter-von-arw-zu-jpeg-mit-movavi-fugen-sie-ihrer-collection-farbe/"><u>Online Gratis Converter Von ARW Zu JPEG Mit Movavi - Fügen Sie Ihrer Collection Farbe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-turning-pictures-into-animated-gifs/"><u>Step-by-Step Guide: Turning Pictures Into Animated GIFs</u></a></li>
+<li><a href="https://win-superb.techidaily.com/vobaacmp3-movavi-audio-converter/"><u>VOBフォーマットを無料でAACまたはMP3に変換するオンラインツール – Movavi Audio Converter</u></a></li>
+<li><a href="https://win-superb.techidaily.com/pdf-11/"><u>이 분야에서 가장 뛰어난 PDF 조정기를 위해 11개의 신중한 선택 - 무료 토포</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Revamps Consumer Strategy Focus Yet Once More – Insights From ZDNet
-date: 2024-09-18 22:27:52
-updated: 2024-09-20 10:45:10
+date: 2024-09-17T16:52:27.998Z
+updated: 2024-09-23T16:15:48.099Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-gaming-power-up-perfecting-your-switch-pro-on-steam/"><u>[New] In 2024, Gaming Power-Up Perfecting Your Switch Pro on Steam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>[Updated] Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-master-strategies-for-crafting-impactful-testimonials/"><u>[Updated] In 2024, Master Strategies for Crafting Impactful Testimonials</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-retro-social-media-revelations-mastering-outdated-fb-functionality/"><u>[Updated] In 2024, Retro Social Media Revelations Mastering Outdated FB Functionality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/10-powerful-igtv-video-tips-for-amplified-brand-impact-for-2024/"><u>10 Powerful IGTV Video Tips for Amplified Brand Impact for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comparative-overview-of-googles-ar-stickers-and-its-counterparts/"><u>2024 Approved Comparative Overview of Google's AR Stickers & Its Counterparts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-rapid-film-techniques-make-your-own-studio-at-home/"><u>2024 Approved Rapid Film Techniques Make Your Own Studio At Home</u></a></li>
+<li><a href="https://win-superb.techidaily.com/opusogg-movavi/"><u>完全自由的在线OPUS到OGG转换 – 锁定你的音乐体验：使用Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/web-movavi/"><u>無料で簡単なWEBムービーから動画ファイルへの変換 - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/android-vs-ios-vs-windows-vs-mac-comprehensive-guide-to-understanding-the-key-differences-among-popular-mobile-and-desktop-platforms/"><u>Android vs iOS vs Windows vs Mac: Comprehensive Guide to Understanding the Key Differences Among Popular Mobile and Desktop Platforms</u></a></li>
+<li><a href="https://win-superb.techidaily.com/capturando-imagens-de-vista-parcial-no-windows-10-guia-completo/"><u>Capturando Imagens De Vista Parcial No Windows 10: Guia Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comprendiendo-los-tecnicos-del-compresion-wav-guia-practica-para-reducir-el-tamano-de-archivos-musicales-usando-movavis-solucion/"><u>Comprendiendo Los Técnicos Del Compresión WAV: Guía Práctica Para Reducir El Tamaño De Archivos Musicales Usando Movavi's Solución</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversion-libre-y-gratuita-de-aiff-a-avi-online-con-movavi-tecnicas-faciles-para-todo-usuario/"><u>Conversión Libre Y Gratuita De AIFF a AVI Online Con Movavi: Técnicas Fáciles Para Todo Usuario</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convertissez-votre-fichier-avi-en-3gp-gratuitement-sur-le-web-avec-moviavi/"><u>Convertissez Votre Fichier AVI en 3GP Gratuitement Sur Le Web Avec Moviavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-image-and-video-compression-expliquee-techniques-pour-reduire-facilement-la-taille-des-fichiers-multimedias/"><u>Movavi Image & Video Compression Expliquée - Techniques Pour Réduire Facilement La Taille Des Fichiers Multimédias</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-i-file-wmv-in-formato-ogg-gratuitamente-on-line-utilizzando-movavi-tutorial-completo/"><u>Trasforma I File WMV in Formato Ogg Gratuitamente On-Line Utilizzando Movavi - Tutorial Completo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-il-tuo-audio-ogg-in-qualita-flac-gratuitamente-tramite-movavi-passaggi-facili-da-seguire/"><u>Trasforma Il Tuo Audio OGG in Qualità FLAC Gratuitamente Tramite Movavi - Passaggi Facili Da Seguire</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-magic5-ultimate-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor Magic5 Ultimate Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+

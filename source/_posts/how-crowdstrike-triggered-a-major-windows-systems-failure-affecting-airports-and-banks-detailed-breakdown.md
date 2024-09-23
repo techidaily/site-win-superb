@@ -1,7 +1,7 @@
 ---
 title: How CrowdStrike Triggered a Major Windows Systems Failure Affecting Airports and Banks | Detailed Breakdown
-date: 2024-09-18 10:14:58
-updated: 2024-09-20 11:44:19
+date: 2024-09-19T16:12:06.704Z
+updated: 2024-09-23T16:03:28.223Z
 tags:
   - windows
 categories:
@@ -27,17 +27,44 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -65,6 +92,13 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -119,11 +153,34 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-video-popularity-12-key-strategies-unveiled/"><u>[New] 2024 Approved Elevate Video Popularity 12 Key Strategies Unveiled</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-best-alternative-editors-for-youtube-creators-seeking-new-horizons/"><u>[New] Best Alternative Editors for YouTube Creators Seeking New Horizons</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>2024 Approved Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mmf/"><u>互動式無限MMF發送 - 移動維阿韋</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversao-de-audio-livre-para-mp3-e-mp4-suportando-3gpp-com-o-servico-on-line-do-movavi/"><u>Conversão De Áudio Livre Para MP3 E MP4, Suportando 3GPP Com O Serviço On-Line Do Movavi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cost-effective-options-top-10-free-high-quality-desktop-recorders-for-2024/"><u>Cost-Effective Options Top 10 Free, High-Quality Desktop Recorders for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726219470265-f4vavi-movavi/"><u>F4VからAVIへの無料オンライン変換 - MOVAVI使用ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-of-security-insights-into-tomorrows-cyber-threat-landscape/"><u>Future of Security: Insights Into Tomorrow's Cyber Threat Landscape</u></a></li>
+<li><a href="https://win-superb.techidaily.com/gratuit-qt-films-in-mp4-konverteren-online-de-gratis-bewerking-van-movavi/"><u>Gratuit QT-Films in MP4 Konverteren Online - De Gratis Bewerking Van Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-honor-play-7t-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Honor Play 7T using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-high-quality-hdr-experience-for-your-computer/"><u>In 2024, Streamlined High-Quality HDR Experience for Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-tecno-pop-7-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Tecno Pop 7 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/kostenloze-veiligheidstitel-toegeven-aan-je-videokampagneen-doen-het-nog-goed/"><u>Kostenloze Veiligheidstitel Toegeven Aan Je Videokampagneën - Doen Het Nog Goed</u></a></li>
+<li><a href="https://win-superb.techidaily.com/m4a-mp4/"><u>M4A에서 MP4 전환하기 - 속도 위해 무료 온라인 해상보</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-motorola-converter-convert-mov-files-for-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Motorola converter-convert .mov files for Motorola</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726223866951-movavi/"><u>Movavi客户服务团队：专业帮助与技术指导</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transcodage-gratuit-de-fichier-voc-vers-mp4-sur-internet-moovavi/"><u>Transcodage Gratuit De Fichier VOC Vers MP4 Sur Internet - Moovavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-wtv-to-wmv-seamlessly-a-cost-free-guide-using-movieavi/"><u>Transforming WTV to WMV Seamlessly: A Cost-Free Guide Using Movieavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/wav-to-mp3-movavi/"><u>WAV to MP3 결속: 원탁스위트 내에서 자유롭게 바이널로 전환 - Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/aacmp3-mpe/"><u>オンラインで自由に使えるAACフォーマットへのMP3変換サービス - MPE</u></a></li>
+</ul></div>
+

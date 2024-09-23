@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Insider Exposes the Truth About Pursuing a Career Within the Tech Giant
-date: 2024-09-17 16:58:46
-updated: 2024-09-20 10:37:44
+date: 2024-09-18T16:49:15.166Z
+updated: 2024-09-23T16:09:22.812Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -114,6 +135,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-discovering-latest-fb-watches-a-step-by-step-guide/"><u>[New] In 2024, Discovering Latest FB Watches A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-steps-for-professional-level-youtube-promos/"><u>[Updated] Strategic Steps for Professional-Level YouTube Promos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/building-a-foundation-french-language-sound-basics/"><u>Building a Foundation: French Language Sound Basics</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversor-livre-de-wav-para-ogg-online-ferramenta-eficiente-pela-movavi/"><u>Conversor Livre De WAV Para OGG Online - Ferramenta Eficiente Pela Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visual-magic-the-power-of-luts-in-ar-environments/"><u>Crafting Visual Magic The Power of LUTs in AR Environments</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargador-y-convertidor-de-podcasts-gratuito-cambie-sus-mp4-a-m4b-usando-movavi-en-linea/"><u>Descargador Y Convertidor De Podcasts Gratuito: Cambie Sus MP4 a M4B Usando Movavi en Línea</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargar-y-convertir-de-formato-mp3-a-wav-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir De Formato MP3 a WAV Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-mp4-to-wav-file-converter-moveave-convert-videos-online-and-offline/"><u>Free MP4 to WAV File Converter - Moveave Convert Videos Online and Offline</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscapes-startups-the-best-10-music-pieces-for-podcast-intros/"><u>In 2024, Soundscapes Startups The Best 10 Music Pieces for Podcast Intros</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-13-proplus-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 13 Pro+ 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win-superb.techidaily.com/jon-martindale-unveiling-the-art-of-professional-photography-with-movavi/"><u>Jon Martindale: Unveiling the Art of Professional Photography with Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-how-to-perfectly-record-your-pc-screen-and-voice-using-windows-11/"><u>Step-by-Step Tutorial: How to Perfectly Record Your PC Screen & Voice Using Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-two-methods-for-streaming-and-downloading-iqiyi-content-a-comprehensive-guide/"><u>Top Two Methods for Streaming and Downloading iQiyi Content: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transferir-archivos-raw-a-jpeg-gratuita-y-directa-con-movavi/"><u>Transferir Archivos RAW a JPEG Gratuita Y Directa Con Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-play-8t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor Play 8T to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/vobaacmp3-movavi-audio-converter/"><u>VOBフォーマットを無料でAACまたはMP3に変換するオンラインツール – Movavi Audio Converter</u></a></li>
+<li><a href="https://win-superb.techidaily.com/pdf-11/"><u>이 분야에서 가장 뛰어난 PDF 조정기를 위해 11개의 신중한 선택 - 무료 토포</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mp3mmf/"><u>ムーヴァヴィ - 無料で最新のMP3変換機能を備えたオンラインMMFコンバータ</u></a></li>
+</ul></div>
+
