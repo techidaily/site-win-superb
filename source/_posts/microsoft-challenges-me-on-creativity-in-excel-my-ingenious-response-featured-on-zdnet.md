@@ -1,7 +1,7 @@
 ---
 title: Microsoft Challenges Me on Creativity in Excel - My Ingenious Response Featured on ZDNet
-date: 2024-09-22T16:38:29.789Z
-updated: 2024-09-23T16:13:21.017Z
+date: 2024-09-25T07:02:22.447Z
+updated: 2024-09-27T18:02:57.613Z
 tags:
   - microsoft
 categories:
@@ -112,18 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>[New] In 2024, Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-pro-level-editing-10-must-have-applications-for-insta-videos-for-2024/"><u>[New] Pro-Level Editing 10 Must-Have Applications for Insta Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-superior-zero-price-switch-emulators-for-2024/"><u>[New] Superior Zero Price Switch Emulators for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-building-visual-story-arcs-for-2024/"><u>[Updated] Building Visual Story Arcs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-giants-which-is-superior-google-bard-or-microsofts-bing-chat/"><u>Comparing Giants: Which Is Superior - Google Bard or Microsoft's Bing Chat?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/discover-exceptional-replacements-for-mp3juices-on-windows-and-mac-os-with-allavsofts-solutions/"><u>Discover Exceptional Replacements for MP3Juices on Windows & Mac OS with Allavsoft's Solutions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/download-vidspot-content-in-various-formats-simple-guide-to-saving-mp4-mov-avi-files-from-vidspot/"><u>Download Vidspot Content in Various Formats - Simple Guide to Saving MP4, MOV, AVI Files From Vidspot</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elite-editions-high-end-macpc-video-decode-tools/"><u>Elite Editions High-End Mac/PC Video Decode Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-astro-a50-microphone-issues-troubleshooting-guide/"><u>Fixing Astro A50 Microphone Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-tunes-unleashed-effortless-downloads-of-songs-from-audiomack-in-high-quality-mp3-and-wav-formats/"><u>Free Tunes Unleashed - Effortless Downloads of Songs From AudioMack in High-Quality MP3 and WAV Formats</u></a></li>
+<li><a href="https://win-superb.techidaily.com/get-full-movie-of-deadpool-gratis-in-high-quality-mp4-format-from-top-downloads-and-seeding-community/"><u>Get 'Full Movie of Deadpool' Gratis in High-Quality MP4 Format From Top Downloads and Seeding Community</u></a></li>
+<li><a href="https://win-superb.techidaily.com/guide-to-downloading-brazzers-content-best-methods-and-tips/"><u>Guide to Downloading Brazzers Content - Best Methods and Tips</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-aol-videos-in-mp4-avi-and-mov-formats-for-pc-and-mac-users/"><u>How to Save Your Favorite AOL Videos in MP4, AVI, and MOV Formats - For PC & Mac Users</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-episodes-downloading-audio-from-audioboom/"><u>How to Save Your Favorite Episodes: Downloading Audio From Audioboom</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-transfer-your-favorite-kabel-eins-shows-convert-and-save-episodes-as-mp4-files/"><u>How to Transfer Your Favorite Kabel Eins Shows: Convert and Save Episodes as MP4 Files</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-11-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 11 Pro Max/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workspace-dragging-tabs-window-explorer-ways/"><u>Optimize Your Workspace: Dragging Tabs, Window Explorer Ways</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
