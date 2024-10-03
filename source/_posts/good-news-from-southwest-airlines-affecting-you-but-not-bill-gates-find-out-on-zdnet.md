@@ -1,7 +1,7 @@
 ---
 title: "Good News From Southwest Airlines: Affecting You but Not Bill Gates? Find Out on ZDNet"
-date: 2024-09-26T18:28:44.947Z
-updated: 2024-09-28T01:00:12.596Z
+date: 2024-10-01T17:13:21.924Z
+updated: 2024-10-02T16:02:10.816Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,15 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>[New] 2024 Approved Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-x6-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco X6 Pro</u></a></li>
-<li><a href="https://win-superb.techidaily.com/accelerate-legacy-systems-proven-strategies-by-zdnet-to-boost-old-windows-11-pcs-or-macbooks/"><u>Accelerate Legacy Systems: Proven Strategies by ZDNet to Boost Old Windows 11 PCs or Macbooks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/animated-photos-made-easy-top-picks-for-2024/"><u>Animated Photos Made Easy Top Picks for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/seamlessly-integrate-with-microsofts-ecosystem-using-the-launcher-on-android-phones-digital-solutions-guide/"><u>Seamlessly Integrate with Microsoft's Ecosystem Using the Launcher on Android Phones | Digital Solutions Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/stay-updated-with-windows-11-longer-microsofts-new-payment-based-support-options-unveiled-by-zdnet/"><u>Stay Updated with Windows 11 Longer: Microsoft's New Payment-Based Support Options Unveiled by ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/techniques-to-overcome-blackout-during-obs-fullscreen/"><u>Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-smudge-free-sequence-eliminating-gopro-fog/"><u>The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-the-leading-fitness-activity-monitors-for-the-year-2024/"><u>Ultimate Selection: The Leading Fitness Activity Monitors for the Year 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/unlocking-your-documents-secrets-discover-5-techniques-for-viewing-any-file-on-windows-sans-applications-digitalprospector/"><u>Unlocking Your Document's Secrets: Discover 5 Techniques for Viewing Any File on Windows Sans Applications | DigitalProspector</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-audio-how-to-download-and-customize-whatsapp-tones-on-devices/"><u>[New] Tailoring Audio How to Download & Customize WhatsApp Tones on Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimizing-titles-and-tags-for-improved-youtube-visibility/"><u>2024 Approved Optimizing Titles and Tags for Improved YouTube Visibility</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversao-de-audio-livre-para-mp3-e-mp4-suportando-3gpp-com-o-servico-on-line-do-movavi/"><u>Conversão De Áudio Livre Para MP3 E MP4, Suportando 3GPP Com O Serviço On-Line Do Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/gratuit-qt-films-in-mp4-konverteren-online-de-gratis-bewerking-van-movavi/"><u>Gratuit QT-Films in MP4 Konverteren Online - De Gratis Bewerking Van Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immersive-audio-awaits-discover-the-best-15-dolby-atmos-films-to-stream-at-home/"><u>Immersive Audio Awaits: Discover the Best 15 Dolby Atmos Films to Stream at Home</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reviewing-and-selecting-the-ultimate-5-book-tt-list/"><u>In 2024, Reviewing and Selecting The Ultimate 5 Book TT List</u></a></li>
+<li><a href="https://win-superb.techidaily.com/m4a-mp4/"><u>M4A에서 MP4 전환하기 - 속도 위해 무료 온라인 해상보</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-procesamiento-gratuito-de-archivos-oma-online-descubra-como/"><u>Movavi Procesamiento Gratuito De Archivos OMA Online: Descubra Como</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/portraying-paradoxes-with-teleportation-cgi-for-2024/"><u>Portraying Paradoxes with Teleportation CGI for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-content-with-360-degree-footage/"><u>Revolutionizing Content with 360-Degree Footage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-methodology-for-erasing-canvas-backdrops/"><u>Step-by-Step Methodology for Erasing Canvas Backdrops</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transcodage-gratuit-de-fichier-voc-vers-mp4-sur-internet-moovavi/"><u>Transcodage Gratuit De Fichier VOC Vers MP4 Sur Internet - Moovavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/wav-to-mp3-movavi/"><u>WAV to MP3 결속: 원탁스위트 내에서 자유롭게 바이널로 전환 - Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/aacmp3-mpe/"><u>オンラインで自由に使えるAACフォーマットへのMP3変換サービス - MPE</u></a></li>
 </ul></div>
 

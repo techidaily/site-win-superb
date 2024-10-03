@@ -1,7 +1,7 @@
 ---
 title: Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet
-date: 2024-09-21T16:32:15.175Z
-updated: 2024-09-28T04:20:37.863Z
+date: 2024-09-26T08:33:31.281Z
+updated: 2024-10-03T10:06:28.751Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-explore-deep-with-these-immersive-vr-clips/"><u>[New] 2024 Approved Explore Deep with These Immersive VR Clips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-tiktok-to-twitter-for-2024/"><u>[New] Navigating TikTok to Twitter for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capturing-moments-expert-tips-on-downloading-social-media-lives/"><u>[Updated] In 2024, Capturing Moments Expert Tips on Downloading Social Media Lives</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/10-standout-educational-websites-for-self-paced-learning-for-2024/"><u>10 Standout Educational Websites for Self-Paced Learning for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/can-you-rotate-images-professionally-using-flipbuilder/"><u>Can You Rotate Images Professionally Using FlipBuilder?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-steam-slowness-proven-strategies-for-smoother-gameplay/"><u>Eliminate Steam Slowness: Proven Strategies for Smoother Gameplay</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-file-conversion-possibilities-in-flip-office-find-out-what-you-can-transform/"><u>Exploring File Conversion Possibilities in Flip Office - Find Out What You Can Transform!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-virtual-add-ons-to-reality/"><u>Exploring Virtual Add-Ons to Reality</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-can-i-embed-swf-videos-in-your-platforms-playlists-learn-with-flipbuildercom/"><u>How Can I Embed SWF Videos in Your Platform's Playlists - Learn with [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-design-a-sturdy-hardcover-flipbook-using-flipbuilder-a-comprehensive-guide/"><u>How to Design a Sturdy Hardcover Flipbook Using FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-display-an-interactive-corners-flippable-ebook-on-your-website-using-flipbuilder-make-reading-engaging/"><u>How to Display an Interactive Corners-Flippable Ebook on Your Website Using FlipBuilder - Make Reading Engaging!</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-navigate-a-flippingbook-pdf-in-reverse-right-to-left-reading-tips-for-bidirectional-text/"><u>How to Navigate a FlippingBook PDF in Reverse (Right-to-Left Reading) - Tips for Bidirectional Text</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/immersive-french-learning-with-iconic-27-sayings-and-idioms/"><u>Immersive French Learning with Iconic 27 Sayings & Idioms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-instrumental-integration-elevating-your-facebook-video-experience/"><u>In 2024, Instrumental Integration Elevating Your Facebook Video Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-video-dimension-guide-for-best-video-format-2023-for-2024/"><u>Instagram Video Dimension [Guide for Best Video Format 2023] for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/retrieve-your-missing-flipbuildercom-register-account-access-a-comprehensive-guide/"><u>Retrieve Your Missing FlipBuilder.com Register Account Access: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/solucion-de-problemas-en-la-reproduccion-de-videos-con-servidores-iis-guia-completa-para-arreglar-tus-videos-en-flipbuildercom/"><u>Solución De Problemas en La Reproducción De Vídeos Con Servidores IIS: Guía Completa Para Arreglar Tus Videos en FlipBuilder.com</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-guide-publishing-and-sharing-your-flipbook-creation-with-flipbuilder-on-the-web/"><u>Step-by-Step Guide: Publishing and Sharing Your FlipBook Creation with FlipBuilder on the Web</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077-wont-utilize-graphics-card-in-windows-10/"><u>Troubleshooting: Cyberpunk 2077 Won't Utilize Graphics Card in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-secrets-to-sizzling-unboxing-reels-on-social-media/"><u>[New] 10 Secrets to Sizzling Unboxing Reels on Social Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-stats-spotlight-pinpointing-viewers-of-your-photos/"><u>[New] In 2024, Insta Stats Spotlight Pinpointing Viewers of Your Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-impact-of-multi-view-video-technology-on-home-surveillance/"><u>[New] In 2024, The Impact of Multi-View Video Technology on Home Surveillance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[New] Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>[Updated] Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alternative-methods-for-removing-iphone-sim-card-without-official-tool/"><u>Alternative Methods for Removing iPhone SIM Card Without Official Tool</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easy-ways-to-save-motorsport-showdown-footage-on-your-computer-macwindows/"><u>Easy Ways to Save Motorsport Showdown Footage on Your Computer (Mac/Windows)</u></a></li>
+<li><a href="https://win-superb.techidaily.com/efficient-strategies-for-downloading-educational-content-from-video-teleconferencing-platforms/"><u>Efficient Strategies for Downloading Educational Content From Video Teleconferencing Platforms</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-download-of-rammsteins-wustenfeld-in-multiple-formats-including-mp4-mp3-and-more/"><u>Free Download of Rammstein's 'Wüstenfeld' In Multiple Formats Including MP4, MP3 & More</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-gigabyte-gc-wb867d-integrated-graphics-drivers/"><u>Get the Latest Gigabyte GC-WB867D Integrated Graphics Drivers</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-safely-retrieve-videos-from-canalplus-using-your-pc-or-mac/"><u>How to Safely Retrieve Videos From Canal+ Using Your PC or Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-optimize-your-instagram-media-flow-desktopmobile/"><u>In 2024, Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-ranked-techniques-for-capturing-online-sport-spectacles/"><u>In 2024, Top-Ranked Techniques for Capturing Online Sport Spectacles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-pro-manycam-virtual-cam-app/"><u>Live Streaming Pro - ManyCam Virtual Cam App</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mp4-format-extraction-for-staatsoper-streaming-effortless-guide-and-tools-online/"><u>MP4 Format Extraction for Staatsoper Streaming: Effortless Guide & Tools Online</u></a></li>
+<li><a href="https://win-superb.techidaily.com/resolving-linuxacademy-download-problems-for-macos-and-windows-users-a-comprehensive-solution-guide/"><u>Resolving Linuxacademy Download Problems for macOS & Windows Users: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-converting-francetv-info-streams-into-downloadable-files/"><u>Step-by-Step Guide to Converting Francetv Info Streams Into Downloadable Files</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-notch-download-tool-the-ultimate-youtube-dl-replacement-for-macos-and-windows-by-allavsoft/"><u>Top Notch Download Tool: The Ultimate YouTube-DL Replacement for macOS & Windows by AllAvsoft</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-alternatives-to-bandicam-for-cross-platform-video-capture-on-macwindows-systems/"><u>Ultimate Guide: Alternatives to Bandicam for Cross-Platform Video Capture on Mac/Windows Systems</u></a></li>
 </ul></div>
 
