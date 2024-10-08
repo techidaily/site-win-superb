@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's Growing Paranoia Impacts Us All - A Deep Dive on ZDNet
-date: 2024-09-30T00:22:02.340Z
-updated: 2024-10-02T19:23:07.509Z
+date: 2024-10-01T17:06:28.567Z
+updated: 2024-10-08T17:33:40.189Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-crafting-cinematic-magic-a-filmmakers-guide-to-light/"><u>[New] In 2024, Crafting Cinematic Magic A Filmmaker's Guide to Light</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig/"><u>[New] Uploading in Bulk A Comprehensive Guide to Multimedia on IG</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-sony-xperia-5-v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Sony Xperia 5 V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/conversor-livre-de-wav-para-ogg-online-ferramenta-eficiente-pela-movavi/"><u>Conversor Livre De WAV Para OGG Online - Ferramenta Eficiente Pela Movavi</u></a></li>
-<li><a href="https://win-superb.techidaily.com/descargador-y-convertidor-de-podcasts-gratuito-cambie-sus-mp4-a-m4b-usando-movavi-en-linea/"><u>Descargador Y Convertidor De Podcasts Gratuito: Cambie Sus MP4 a M4B Usando Movavi en Línea</u></a></li>
-<li><a href="https://win-superb.techidaily.com/descargar-y-convertir-de-formato-mp3-a-wav-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir De Formato MP3 a WAV Sin Coste: Guía Completa Con Movavi</u></a></li>
-<li><a href="https://win-superb.techidaily.com/free-mp4-to-wav-file-converter-moveave-convert-videos-online-and-offline/"><u>Free MP4 to WAV File Converter - Moveave Convert Videos Online and Offline</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-v2-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor Magic V2</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-c12-plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia C12 Plus Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/insight-into-the-finest-iphone-tools-for-image-watermarks-for-2024/"><u>Insight Into the Finest iPhone Tools for Image Watermarks for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/jon-martindale-unveiling-the-art-of-professional-photography-with-movavi/"><u>Jon Martindale: Unveiling the Art of Professional Photography with Movavi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-potential-budget-friendly-action-in-stunning-4k/"><u>Unleash Your Potential: Budget-Friendly Action in Stunning 4K</u></a></li>
-<li><a href="https://win-superb.techidaily.com/vobaacmp3-movavi-audio-converter/"><u>VOBフォーマットを無料でAACまたはMP3に変換するオンラインツール – Movavi Audio Converter</u></a></li>
-<li><a href="https://win-superb.techidaily.com/pdf-11/"><u>이 분야에서 가장 뛰어난 PDF 조정기를 위해 11개의 신중한 선택 - 무료 토포</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-freely-accessible-platforms-for-professional-photography-edits-for-2024/"><u>[New] Freely Accessible Platforms for Professional Photography Edits for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-asus-rog-phone-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Asus ROG Phone 8 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/beyond-google-workspace-discover-the-best-android-based-office-suite-options-for-ultimate-productivity-indepth-analysis/"><u>Beyond Google Workspace: Discover the Best Android-Based Office Suite Options for Ultimate Productivity | InDepth Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-huawei-nova-y71-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Huawei Nova Y71 Phone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/introducing-the-revolutionary-microsoft-surface-pro-10-and-laptop-5-cutting-edge-ai-enhancements-revealed-zdnet-exclusive/"><u>Introducing the Revolutionary Microsoft Surface Pro 10 & Laptop #5: Cutting-Edge AI Enhancements Revealed - ZDNet Exclusive</u></a></li>
+<li><a href="https://win-superb.techidaily.com/masterclass-on-microsoft-exchange-breach-critical-facts-revealed-by-zdnets-investigation/"><u>Masterclass on Microsoft Exchange Breach: Critical Facts Revealed by ZDNet's Investigation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-ns-user-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest N's User Profile</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-ranking-windows-laptop-picks-thoroughly-evaluated-by-tech-experts-zdnet/"><u>Top-Ranking Windows Laptop Picks: Thoroughly Evaluated by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-lag-between-sound-and-picture-in-mpeg-4-movies/"><u>Troubleshooting Lag Between Sound and Picture in MPEG-4 Movies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Windows Copilot Into a User-Friendly Application by Microsoft: Benefits Unveiled | Digital Trends"
-date: 2024-09-28T03:22:25.681Z
-updated: 2024-10-02T17:58:08.698Z
+date: 2024-10-03T16:58:53.979Z
+updated: 2024-10-08T17:11:31.588Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nalyzing-youtube-shorts-economic-impact/"><u>[New] Analyzing YouTube Shorts Economic Impact</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-live-feed-capture-via-obs-for-instagram-for-2024/"><u>[New] Live Feed Capture via OBS for Instagram for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-dive-into-broadcasting-proficiency-with-obs-on-youtube-and-twitch/"><u>[Updated] Dive Into Broadcasting Proficiency with OBS on YouTube and Twitch</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-tutorial-designing-striking-video-thumbnails-for-social-media-success/"><u>[Updated] Step-by-Step Tutorial Designing Striking Video Thumbnails for Social Media Success</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1726219405991-2024/"><u>2024頂級照片輔助文字設計工具 - 如何高效書寫於影像</u></a></li>
-<li><a href="https://win-superb.techidaily.com/5-techniques-innovantes-pour-ameliorer-la-visibilite-de-vos-photos-en-2024/"><u>5 Techniques Innovantes Pour Améliorer La Visibilité De Vos Photos en 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1726219470265-f4vavi-movavi/"><u>F4VからAVIへの無料オンライン変換 - MOVAVI使用ガイド</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-note-30-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Note 30 Pro FRP Locks</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-footage-to-film-how-to-edit-gopro-videos-with-ease-on-macbook/"><u>New In 2024, From Footage to Film How to Edit GoPro Videos with Ease on MacBook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
-<li><a href="https://win-superb.techidaily.com/regulamentos-completos-de-embalagem-entrega-e-retorno-do-servico-movavi/"><u>Regulamentos Completos De Embalagem, Entrega E Retorno Do Serviço Movavi</u></a></li>
-<li><a href="https://win-superb.techidaily.com/transforma-imagenes-jpg-a-formato-png-sin-costo-alguno-mediante-servicios-online-eficientes/"><u>Transforma Imágenes JPG a Formato PNG Sin Costo Alguno Mediante Servicios Online Eficientes</u></a></li>
-<li><a href="https://win-superb.techidaily.com/transforming-wtv-to-wmv-seamlessly-a-cost-free-guide-using-movieavi/"><u>Transforming WTV to WMV Seamlessly: A Cost-Free Guide Using Movieavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-visuals-accompanied-by-audio/"><u>[New] 2024 Approved Quick Visuals Accompanied by Audio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-prosperous-social-media-gurus/"><u>[Updated] Prosperous Social Media Gurus</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-mechanisms-guiding-high-stakes-business-conclusions-for-2024/"><u>Brain Mechanisms Guiding High-Stakes Business Conclusions for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-elevate-your-websites-user-experience-insights/"><u>Cookiebot: Elevate Your Website's User Experience Insights</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-microsoft-powered-ai-coaching-available-for-us-educators-with-khan-academy-collaboration-insights-on-zdnet/"><u>Free Microsoft-Powered AI Coaching Available for U.S. Educators with Khan Academy Collaboration - Insights on ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>Masterclass Guide Screen Recording Hulu Videos Effortlessly</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsoft-challenges-me-on-creativity-in-excel-my-ingenious-response-featured-on-zdnet/"><u>Microsoft Challenges Me on Creativity in Excel - My Ingenious Response Featured on ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsoft-revamps-consumer-strategy-focus-yet-once-more-insights-from-zdnet/"><u>Microsoft Revamps Consumer Strategy Focus Yet Once More – Insights From ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsofts-copilot-vs-copilot-pro-evaluating-value-in-ai-assistance-a-cost-benefit-analysis-on-zdnet/"><u>Microsoft's Copilot Vs. Copilot Pro: Evaluating Value in AI Assistance – A Cost-Benefit Analysis on ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/reverting-from-windows-11-to-windows-10-essential-steps-and-important-considerations-insights-for-seamless-transition/"><u>Reverting From Windows 11 to Windows 10: Essential Steps and Important Considerations - Insights for Seamless Transition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-the-potential-of-capturing-digital-entertainment/"><u>Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/vocal-variety-made-simple-utilize-no-cost-effects-enhancers-for-2024/"><u>Vocal Variety Made Simple Utilize No-Cost Effects Enhancers for 2024</u></a></li>
 </ul></div>
 

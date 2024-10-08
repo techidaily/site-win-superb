@@ -1,7 +1,7 @@
 ---
 title: Microsoft Revamps Consumer Strategy Focus Yet Once More – Insights From ZDNet
-date: 2024-10-01T18:36:06.280Z
-updated: 2024-10-02T16:01:17.648Z
+date: 2024-10-07T16:31:46.389Z
+updated: 2024-10-08T16:29:02.191Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-optimal-strategies-for-enhancing-vhs-photos-digitally-for-2024/"><u>[New] Optimal Strategies for Enhancing VHS Photos Digitally for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-prime-facebook-extra-tools-secure-file-grabber-optimized-for-ff/"><u>[New] Prime Facebook Extra Tools Secure File Grabber, Optimized For FF</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-team-ups-finding-perfect-co-stars/"><u>[Updated] Mastering YouTube Team-Ups Finding Perfect Co-Stars</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-sonic-pixels-turning-sound-into-visual-storytelling-for-2024/"><u>[Updated] Sonic Pixels Turning Sound Into Visual Storytelling for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-microsofts-enhanced-security-measures-in-newly-released-windows-11-a-leap-towards-inherent-protection-zdnet/"><u>Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/good-news-from-southwest-airlines-affecting-you-but-not-bill-gates-find-out-on-zdnet/"><u>Good News From Southwest Airlines: Affecting You but Not Bill Gates? Find Out on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-phony-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing Phony Friend Requests Online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nokia-130-music-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nokia 130 Music?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-open-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Open to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/microsoft-challenges-me-on-creativity-in-excel-my-ingenious-response-featured-on-zdnet/"><u>Microsoft Challenges Me on Creativity in Excel - My Ingenious Response Featured on ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/microsofts-latest-security-scare-should-we-be-concerned-or-can-we-chuckle-insights-from-zdnet/"><u>Microsoft's Latest Security Scare: Should We Be Concerned or Can We Chuckle? Insights From ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/notepad-enhancements-microsoft-introduces-spellcheck-and-autocorrect-features-after-decades/"><u>Notepad Enhancements: Microsoft Introduces Spellcheck & Autocorrect Features After Decades</u></a></li>
-<li><a href="https://win-superb.techidaily.com/save-big-with-a-discounted-microsoft-office-2019-key-get-windows-or-mac-access-now-at-only-25-on-zdnet/"><u>Save Big with a Discounted Microsoft Office 2019 Key - Get Windows or Mac Access Now at Only $25 on ZDNET!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ess-video-transfer-from-youtube-to-instagram/"><u>Seamless Video Transfer From YouTube to Instagram</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-preventing-pc-crashes-during-horizon-forbidden-west-complete-playthrough/"><u>Step-by-Step Solutions for Preventing PC Crashes During 'Horizon Forbidden West' Complete Playthrough</u></a></li>
-<li><a href="https://win-superb.techidaily.com/transforming-low-code-into-no-code-how-generative-ai-adds-the-x-factor-insights-and-predictions-techzine/"><u>Transforming Low-Code Into No-Code: How Generative AI Adds the X Factor - Insights & Predictions | TechZine</u></a></li>
-<li><a href="https://win-superb.techidaily.com/windows-11-update-fees-by-microsoft-to-kick-off-next-year-explore-the-potential-price-breakdown-and-implications/"><u>Windows 11 Update Fees by Microsoft to Kick Off Next Year; Explore the Potential Price Breakdown and Implications</u></a></li>
-<li><a href="https://win-superb.techidaily.com/windows-control-panel-survives-redesign-rumors-microsoft-affirms-ongoing-commitment-and-enhancements/"><u>Windows Control Panel Survives Redesign Rumors - Microsoft Affirms Ongoing Commitment and Enhancements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-youtube-to-watch-facebook-content-on-apple-tv/"><u>[New] Mastering YouTube to Watch Facebook Content on Apple TV</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-comprehensive-guide-to-cross-posting-youtube-video-on-fb/"><u>[Updated] 2024 Approved Comprehensive Guide to Cross-Posting YouTube Video on FB</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726219405991-2024/"><u>2024頂級照片輔助文字設計工具 - 如何高效書寫於影像</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726219470265-f4vavi-movavi/"><u>F4VからAVIへの無料オンライン変換 - MOVAVI使用ガイド</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-intel-chipset-control-panel-driver-updates-and-downloads-for-windows-111087/"><u>Free Intel Chipset Control Panel Driver Updates and Downloads for Windows 11/10/8/7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-itel-a05s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Itel A05s with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nuavancen-screen-ejendoms-applikationer-priskurse-og-indkomster/"><u>Nuavancen Screen-Ejendoms Applikationer - Priskurse Og Indkomster</u></a></li>
+<li><a href="https://win-superb.techidaily.com/regulamentos-completos-de-embalagem-entrega-e-retorno-do-servico-movavi/"><u>Regulamentos Completos De Embalagem, Entrega E Retorno Do Serviço Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-excel-201nce-shortcut-keys-for-special-characters/"><u>Setting Up Excel 201Nce Shortcut Keys for Special Characters</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transcodage-gratuit-de-fichier-voc-vers-mp4-sur-internet-moovavi/"><u>Transcodage Gratuit De Fichier VOC Vers MP4 Sur Internet - Moovavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-blizzards-battlenet-server-is-down/"><u>Troubleshooting Connection Issues: How To Tell If Blizzard's Battle.Net Server Is Down</u></a></li>
+<li><a href="https://win-superb.techidaily.com/wav-to-mp3-movavi/"><u>WAV to MP3 결속: 원탁스위트 내에서 자유롭게 바이널로 전환 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Inside the Design of the Freshly Unveiled Surface Laptop 5 | ZDNET Hands-On Analysis
-date: 2024-09-28T16:38:53.543Z
-updated: 2024-10-02T17:00:20.089Z
+date: 2024-10-04T16:00:54.294Z
+updated: 2024-10-08T17:55:53.449Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-camera-clash-which-wins-obs-or-twitch-studio-for-2024/"><u>[New] Camera Clash - Which Wins? OBS or Twitch Studio for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-strategy-for-quick-removal-on-youtube/"><u>[New] Step-by-Step Strategy for Quick Removal on YouTube</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1-seamless-integration-a-step-by-step-guide-to-implementing-themes-in-flipoffice-pro-flipbuildercom/"><u>1) Seamless Integration: A Step-by-Step Guide to Implementing Themes in FlipOffice Pro | flipbuilder.com</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-12r-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus 12R to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/adding-flv-movie-playback-feature-on-individual-flipbook-pages-with-ease-a-step-by-step-guide/"><u>Adding Flv Movie Playback Feature on Individual FlipBook Pages with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/crafting-your-custom-icon-with-ease-discover-tips-for-utilizing-flipbuildercom/"><u>Crafting Your Custom Icon with Ease - Discover Tips for Utilizing FlipBuilder.com</u></a></li>
-<li><a href="https://win-superb.techidaily.com/duration-of-flippdf-pros-activation-key-period-find-out-now/"><u>Duration of FlipPDF Pro's Activation Key Period - Find Out Now!</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-file-conversion-possibilities-in-flip-office-find-out-what-you-can-transform/"><u>Exploring File Conversion Possibilities in Flip Office - Find Out What You Can Transform!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g34-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G34 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/obs-capture-directly-on-instagram-for-2024/"><u>OBS Capture Directly on Instagram for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-post-update-black-screen-issue-on-windows-10/"><u>Resolve Post-Update Black Screen Issue on Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-team-sessions-with-chatgpt-integration/"><u>Revolutionizing Team Sessions with ChatGPT Integration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-tips-enhancing-focus-in-your-youtube-video-for-2024/"><u>[New] Essential Tips Enhancing Focus in Your YouTube Video for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-youtube-performance-consistency-in-cc-usage/"><u>[New] In 2024, Elevating YouTube Performance Consistency in CC Usage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-15-youtube-openers-that-boost-viewership-and-engagement/"><u>[New] Top 15 YouTube Openers That Boost Viewership and Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-nonfunctional-lenovo-mousepads-on-windows-operating-systems/"><u>Effective Fixes for Nonfunctional Lenovo Mousepads on Windows Operating Systems</u></a></li>
+<li><a href="https://win-superb.techidaily.com/exploring-microsofts-enhanced-security-measures-in-newly-released-windows-11-a-leap-towards-inherent-protection-zdnet/"><u>Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/good-news-from-southwest-airlines-affecting-you-but-not-bill-gates-find-out-on-zdnet/"><u>Good News From Southwest Airlines: Affecting You but Not Bill Gates? Find Out on ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic5-ultimate-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor Magic5 Ultimate?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-d3dcompiler47dll-error-comprehensive-guide/"><u>How to Fix D3DCOMPILER_47.dll Error - Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x6-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X6 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/macbook-vs-microsoft-duo-why-i-might-trade-in-my-old-favorite-for-a-new-tech-experiment/"><u>MacBook vs Microsoft Duo: Why I Might Trade in My Old Favorite for a New Tech Experiment</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsofts-latest-security-scare-should-we-be-concerned-or-can-we-chuckle-insights-from-zdnet/"><u>Microsoft's Latest Security Scare: Should We Be Concerned or Can We Chuckle? Insights From ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/navigating-microsofts-copilot-balancing-user-support-and-marketing-strategies-expert-analysis-by-zdnet/"><u>Navigating Microsoft's Copilot: Balancing User Support and Marketing Strategies | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-8-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 8 You Should Try Out</u></a></li>
+<li><a href="https://win-superb.techidaily.com/the-role-of-windows-in-shaping-the-hybrid-work-revolution-exclusive-coverage-by-microsoft-powered-by-zdnet/"><u>The Role of Windows in Shaping the Hybrid Work Revolution: Exclusive Coverage by Microsoft | Powered by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y78-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-11-update-fees-by-microsoft-to-kick-off-next-year-explore-the-potential-price-breakdown-and-implications/"><u>Windows 11 Update Fees by Microsoft to Kick Off Next Year; Explore the Potential Price Breakdown and Implications</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-control-panel-survives-redesign-rumors-microsoft-affirms-ongoing-commitment-and-enhancements/"><u>Windows Control Panel Survives Redesign Rumors - Microsoft Affirms Ongoing Commitment and Enhancements</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Microsoft's Copilot: Balancing User Support and Marketing Strategies | Expert Analysis by ZDNET"
-date: 2024-09-29T09:54:35.506Z
-updated: 2024-10-02T17:07:25.084Z
+date: 2024-10-01T17:22:26.114Z
+updated: 2024-10-08T16:59:23.215Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-array-of-unique-video-cameras-by-type/"><u>2024 Approved Array of Unique Video Cameras by Type</u></a></li>
-<li><a href="https://win-superb.techidaily.com/can-you-rotate-images-professionally-using-flipbuilder/"><u>Can You Rotate Images Professionally Using FlipBuilder?</u></a></li>
-<li><a href="https://win-superb.techidaily.com/comprehensive-resource-on-advanced-image-flipping-using-flip-builder-technology/"><u>Comprehensive Resource on Advanced Image Flipping Using Flip Builder Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-transcodificar-archivos-hevc-en-formato-mp4-sin-comprometer-la-calidad/"><u>Guía Paso a Paso Para Transcodificar Archivos HEVC en Formato MP4 Sin Comprometer La Calidad</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-modify-flipbuildercom-thumbnail-background-colors-a-step-by-step-guide/"><u>How to Modify FlipBuilder.com Thumbnail Background Colors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/master-the-art-of-crafting-attention-grabbing-titles-for-ebooks-leveraging-flipbuilders-power-tools/"><u>Master the Art of Crafting Attention-Grabbing Titles for eBooks: Leveraging FlipBuilder's Power Tools!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-escort-ix-the-smart-gps-jammer-with-adaptive-learning-technology/"><u>Review of Escort iX: The Smart GPS Jammer with Adaptive Learning Technology</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-guide-publishing-and-sharing-your-flipbook-creation-with-flipbuilder-on-the-web/"><u>Step-by-Step Guide: Publishing and Sharing Your FlipBook Creation with FlipBuilder on the Web</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackle-freezing-xbox-apps-in-windows-easily/"><u>Tackle Freezing Xbox Apps in Windows Easily</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-lost-ark-game-crashes/"><u>Troubleshooting Steps to Resolve 'Lost Ark' Game Crashes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-android-and-ios-top-asmr-audio-picks-for-2024/"><u>[Updated] Android and iOS Top ASMR Audio Picks for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-avoiding-pitfalls-tiktok-video-copyright-verification-guide-for-2024/"><u>[Updated] Avoiding Pitfalls TikTok Video Copyright Verification Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-smartest-approach-to-launching-your-youtube-businesspersonal-brand-from-phone/"><u>[Updated] In 2024, The Smartest Approach to Launching Your YouTube Business/Personal Brand From Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/beyond-mundane-chores-how-abbyy-is-transforming-standard-operations/"><u>Beyond Mundane Chores: How ABBYY Is Transforming Standard Operations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-and-install-ibooks-app-your-ultimate-guide-to-reading-ebooks-on-mac-and-pc/"><u>Download and Install iBooks App: Your Ultimate Guide to Reading eBooks on Mac & PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-to-flawless-printing-secure-hp-deskjet-3520-wireless-printer-drivers-for-windows-and-macos/"><u>Fast Track to Flawless Printing: Secure HP Deskjet 3520 Wireless Printer Drivers for Windows and macOS</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-apple-playfully-jabs-at-windows-portables-discovering-the-focus/"><u>How Apple Playfully Jabs at Windows Portables - Discovering the Focus</u></a></li>
+<li><a href="https://win-superb.techidaily.com/lost-your-windows-pro-license-after-a-pc-reset-reclaim-it-in-5-simple-steps-expert-guide/"><u>Lost Your Windows Pro License After a PC Reset? Reclaim It in 5 Simple Steps - Expert Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsofts-unspoken-decision-on-windows-11-extends-user-disappointment-a-detailed-analysis-by-zdnet/"><u>Microsoft's Unspoken Decision on Windows 11 Extends User Disappointment – A Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-of-performance-new-samsung-bdplus-review-for-2024/"><u>Pinnacle of Performance - New Samsung BD+ Review for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/revitalize-your-aging-pc-boosting-performance-on-windows-10-and-mac-tips-from-zdnet/"><u>Revitalize Your Aging PC: Boosting Performance on Windows 10 and Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/reviving-your-aging-pc-with-windows-10-top-5-free-methods-before-time-runs-out-insights-from-zdnet/"><u>Reviving Your Aging PC with Windows 10: Top 5 Free Methods Before Time Runs Out - Insights From ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/seamlessly-integrate-with-microsofts-ecosystem-using-the-launcher-on-android-phones-digital-solutions-guide/"><u>Seamlessly Integrate with Microsoft's Ecosystem Using the Launcher on Android Phones | Digital Solutions Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/stay-updated-with-windows-11-longer-microsofts-new-payment-based-support-options-unveiled-by-zdnet/"><u>Stay Updated with Windows 11 Longer: Microsoft's New Payment-Based Support Options Unveiled by ZDNet</u></a></li>
 </ul></div>
 

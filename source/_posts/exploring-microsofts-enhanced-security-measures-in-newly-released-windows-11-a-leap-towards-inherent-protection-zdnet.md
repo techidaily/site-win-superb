@@ -1,7 +1,7 @@
 ---
 title: Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet
-date: 2024-09-26T08:33:31.281Z
-updated: 2024-10-03T10:06:28.751Z
+date: 2024-10-01T16:27:53.053Z
+updated: 2024-10-08T16:26:12.560Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-10-secrets-to-sizzling-unboxing-reels-on-social-media/"><u>[New] 10 Secrets to Sizzling Unboxing Reels on Social Media</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-stats-spotlight-pinpointing-viewers-of-your-photos/"><u>[New] In 2024, Insta Stats Spotlight Pinpointing Viewers of Your Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-impact-of-multi-view-video-technology-on-home-surveillance/"><u>[New] In 2024, The Impact of Multi-View Video Technology on Home Surveillance</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[New] Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>[Updated] Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
-<li><a href="https://techtrends.techidaily.com/alternative-methods-for-removing-iphone-sim-card-without-official-tool/"><u>Alternative Methods for Removing iPhone SIM Card Without Official Tool</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-ways-to-save-motorsport-showdown-footage-on-your-computer-macwindows/"><u>Easy Ways to Save Motorsport Showdown Footage on Your Computer (Mac/Windows)</u></a></li>
-<li><a href="https://win-superb.techidaily.com/efficient-strategies-for-downloading-educational-content-from-video-teleconferencing-platforms/"><u>Efficient Strategies for Downloading Educational Content From Video Teleconferencing Platforms</u></a></li>
-<li><a href="https://win-superb.techidaily.com/free-download-of-rammsteins-wustenfeld-in-multiple-formats-including-mp4-mp3-and-more/"><u>Free Download of Rammstein's 'Wüstenfeld' In Multiple Formats Including MP4, MP3 & More</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-gigabyte-gc-wb867d-integrated-graphics-drivers/"><u>Get the Latest Gigabyte GC-WB867D Integrated Graphics Drivers</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-safely-retrieve-videos-from-canalplus-using-your-pc-or-mac/"><u>How to Safely Retrieve Videos From Canal+ Using Your PC or Mac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-optimize-your-instagram-media-flow-desktopmobile/"><u>In 2024, Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-ranked-techniques-for-capturing-online-sport-spectacles/"><u>In 2024, Top-Ranked Techniques for Capturing Online Sport Spectacles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-pro-manycam-virtual-cam-app/"><u>Live Streaming Pro - ManyCam Virtual Cam App</u></a></li>
-<li><a href="https://win-superb.techidaily.com/mp4-format-extraction-for-staatsoper-streaming-effortless-guide-and-tools-online/"><u>MP4 Format Extraction for Staatsoper Streaming: Effortless Guide & Tools Online</u></a></li>
-<li><a href="https://win-superb.techidaily.com/resolving-linuxacademy-download-problems-for-macos-and-windows-users-a-comprehensive-solution-guide/"><u>Resolving Linuxacademy Download Problems for macOS & Windows Users: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-converting-francetv-info-streams-into-downloadable-files/"><u>Step-by-Step Guide to Converting Francetv Info Streams Into Downloadable Files</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-notch-download-tool-the-ultimate-youtube-dl-replacement-for-macos-and-windows-by-allavsoft/"><u>Top Notch Download Tool: The Ultimate YouTube-DL Replacement for macOS & Windows by AllAvsoft</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ultimate-guide-alternatives-to-bandicam-for-cross-platform-video-capture-on-macwindows-systems/"><u>Ultimate Guide: Alternatives to Bandicam for Cross-Platform Video Capture on Mac/Windows Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-screen-capture-teams-meetings-on-pctablet/"><u>[Updated] Perfecting Screen Capture Teams' Meetings on PC/Tablet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-access-essential-windows-10-tips/"><u>[Updated] Quick Access Essential Windows 10 Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-add-clearer-subtitles-on-youtube-for-2024/"><u>[Updated] Step-By-Step Guide to Add Clearer Subtitles on YouTube for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-ultimate-tips-to-prevent-garrys-mod-game-crashes-and-improve-stability/"><u>2024 Ultimate Tips to Prevent Garry's Mod Game Crashes and Improve Stability</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mmf/"><u>互動式無限MMF發送 - 移動維阿韋</u></a></li>
+<li><a href="https://win-superb.techidaily.com/opusogg-movavi/"><u>完全自由的在线OPUS到OGG转换 – 锁定你的音乐体验：使用Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-guide-converting-high-quality-youtube-videos-1080p-4k-8k-into-mp4-format/"><u>Easy Guide: Converting High-Quality YouTube Videos (1080P, 4K, 8K) Into MP4 Format</u></a></li>
+<li><a href="https://win-superb.techidaily.com/excellent-internet-imagery-toolset-transform-your-pictures-with-a-clean-white-canvas-option/"><u>Excellent Internet Imagery Toolset - Transform Your Pictures with a Clean White Canvas Option</u></a></li>
+<li><a href="https://win-superb.techidaily.com/exploring-the-basics-of-wav-sound-formats-and-digital-music-storage/"><u>Exploring the Basics of WAV Sound Formats and Digital Music Storage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/kostenloze-veiligheidstitel-toegeven-aan-je-videokampagneen-doen-het-nog-goed/"><u>Kostenloze Veiligheidstitel Toegeven Aan Je Videokampagneën - Doen Het Nog Goed</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726223866951-movavi/"><u>Movavi客户服务团队：专业帮助与技术指导</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726028538356-pc/"><u>ノートPCユーザーにおすすめ!プロのテクニックを使った動画編集ガイド</u></a></li>
 </ul></div>
 

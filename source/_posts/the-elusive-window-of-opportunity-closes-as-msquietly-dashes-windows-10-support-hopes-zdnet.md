@@ -1,7 +1,7 @@
 ---
 title: The Elusive Window of Opportunity Closes as MSQuietly Dashes Windows 10 Support Hopes | ZDNET
-date: 2024-09-30T23:59:09.760Z
-updated: 2024-10-02T18:19:51.562Z
+date: 2024-10-03T17:25:03.343Z
+updated: 2024-10-08T16:53:49.146Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,18 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-breaking-barriers-to-sound-in-twitters-visual-share/"><u>[Updated] Breaking Barriers to Sound in Twitter's Visual Share</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>[Updated] Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
-<li><a href="https://win-superb.techidaily.com/beyond-google-workspace-discover-the-best-android-based-office-suite-options-for-ultimate-productivity-indepth-analysis/"><u>Beyond Google Workspace: Discover the Best Android-Based Office Suite Options for Ultimate Productivity | InDepth Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862865384-experiencing-chilly-performance-on-gigabytes-pricey-but-high-quality-b65t-aorus-elite-ax-ice-mobo-usb-galore-included/"><u>Experiencing Chilly Performance on Gigabyte's Pricey, But High-Quality B65t Aorus Elite AX Ice Mobo: USB Galore Included</u></a></li>
-<li><a href="https://common-error.techidaily.com/flipping-the-script-wow-unleashes-immersive-3d-experience/"><u>Flipping the Script: WoW Unleashes Immersive 3D Experience</u></a></li>
-<li><a href="https://win-superb.techidaily.com/free-windows-10-upgrade-offer-from-microsoft-is-it-still-available/"><u>Free Windows 10 Upgrade Offer From Microsoft – Is It Still Available?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972491052-get-your-free-qualcomm-atheros-ar3011-bluetooth-driver-here/"><u>Get Your Free Qualcomm Atheros AR3011 Bluetooth Driver Here!</u></a></li>
-<li><a href="https://win-superb.techidaily.com/introducing-the-revolutionary-microsoft-surface-pro-10-and-laptop-5-cutting-edge-ai-enhancements-revealed-zdnet-exclusive/"><u>Introducing the Revolutionary Microsoft Surface Pro 10 & Laptop #5: Cutting-Edge AI Enhancements Revealed - ZDNet Exclusive</u></a></li>
-<li><a href="https://win-superb.techidaily.com/masterclass-on-microsoft-exchange-breach-critical-facts-revealed-by-zdnets-investigation/"><u>Masterclass on Microsoft Exchange Breach: Critical Facts Revealed by ZDNet's Investigation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/netgear-a6100-wifi-card-drivers-download-and-installation-guide-on-windows-1087/"><u>Netgear A6100 WiFi Card Drivers Download & Installation Guide on Windows 10/8/7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-problems-with-microsoft-edge-a-step-by-step-tutorial/"><u>Resolving Problems with Microsoft Edge - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-ranking-windows-laptop-picks-thoroughly-evaluated-by-tech-experts-zdnet/"><u>Top-Ranking Windows Laptop Picks: Thoroughly Evaluated by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/windows-10-challenges-loom-ahead-for-microsoft-only-one-year-remaining-to-address-issues-insights-from-zdnet/"><u>Windows 10 Challenges Loom Ahead for Microsoft: Only One Year Remaining to Address Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-toolkit-capture-windows-11-displays/"><u>[New] In 2024, Ultimate Toolkit Capture Windows 11 Displays</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-vlogging-tools-for-beginners-for-2024/"><u>[Updated] Essential Vlogging Tools for Beginners for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-setting-up-sports-content-sharing-on-a-mac-device/"><u>2024 Approved Setting Up Sports Content Sharing on a Mac Device</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversor-livre-de-wav-para-ogg-online-ferramenta-eficiente-pela-movavi/"><u>Conversor Livre De WAV Para OGG Online - Ferramenta Eficiente Pela Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargar-y-convertir-de-formato-mp3-a-wav-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir De Formato MP3 a WAV Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/easy-steps-to-rotate-video-in-vlc-for-2024/"><u>Easy Steps to Rotate Video in VLC for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-mp4-to-wav-file-converter-moveave-convert-videos-online-and-offline/"><u>Free MP4 to WAV File Converter - Moveave Convert Videos Online and Offline</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-graphics-best-open-source-ai-portfolio-apps/"><u>Gratis Graphics: Best Open Source AI Portfolio Apps</u></a></li>
+<li><a href="https://win-superb.techidaily.com/jon-martindale-unveiling-the-art-of-professional-photography-with-movavi/"><u>Jon Martindale: Unveiling the Art of Professional Photography with Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-using-ps5-on-windows-devices/"><u>Mastering the Art of Using PS5 on Windows Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
+<li><a href="https://win-superb.techidaily.com/vobaacmp3-movavi-audio-converter/"><u>VOBフォーマットを無料でAACまたはMP3に変換するオンラインツール – Movavi Audio Converter</u></a></li>
 </ul></div>
 
