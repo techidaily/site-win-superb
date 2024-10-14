@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Security Scare: Should We Be Concerned or Can We Chuckle? Insights From ZDNet"
-date: 2024-10-02T17:48:13.213Z
-updated: 2024-10-08T17:19:11.642Z
+date: 2024-10-11T16:17:04.836Z
+updated: 2024-10-14T16:03:02.075Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,21 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-funniest-punchlines-reddit-vs-twitter-memes/"><u>[New] Funniest Punchlines Reddit Vs. Twitter Memes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-itel-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Itel Phone When You Forget the Password</u></a></li>
-<li><a href="https://win-superb.techidaily.com/web-movavi/"><u>無料で簡単なWEBムービーから動画ファイルへの変換 - Movavi</u></a></li>
-<li><a href="https://win-superb.techidaily.com/capturando-imagens-de-vista-parcial-no-windows-10-guia-completo/"><u>Capturando Imagens De Vista Parcial No Windows 10: Guia Completo</u></a></li>
-<li><a href="https://win-superb.techidaily.com/conversion-libre-y-gratuita-de-aiff-a-avi-online-con-movavi-tecnicas-faciles-para-todo-usuario/"><u>Conversión Libre Y Gratuita De AIFF a AVI Online Con Movavi: Técnicas Fáciles Para Todo Usuario</u></a></li>
-<li><a href="https://win-superb.techidaily.com/convertissez-votre-fichier-avi-en-3gp-gratuitement-sur-le-web-avec-moviavi/"><u>Convertissez Votre Fichier AVI en 3GP Gratuitement Sur Le Web Avec Moviavi</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715701100654-discover-the-best-open-worlds-today/"><u>Discover the Best Open Worlds Today!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sculpting-subtleties-with-title-texts/"><u>Sculpting Subtleties with Title Texts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-18-free-movies-and-tv-shows-on-demand-compatible-with-windows-11-8-and-7/"><u>Top 18 Free Movies & TV Shows on Demand Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-superb.techidaily.com/trasforma-i-file-wmv-in-formato-ogg-gratuitamente-on-line-utilizzando-movavi-tutorial-completo/"><u>Trasforma I File WMV in Formato Ogg Gratuitamente On-Line Utilizzando Movavi - Tutorial Completo</u></a></li>
-<li><a href="https://win-superb.techidaily.com/trasforma-il-tuo-audio-ogg-in-qualita-flac-gratuitamente-tramite-movavi-passaggi-facili-da-seguire/"><u>Trasforma Il Tuo Audio OGG in Qualità FLAC Gratuitamente Tramite Movavi - Passaggi Facili Da Seguire</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-hues-basic-techniques-for-adobe-enthusiasts/"><u>Unleash Hues Basic Techniques for Adobe Enthusiasts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-a60s-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel A60s Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-the-perfect-end-screen-youtube-template-guidebook/"><u>[New] 2024 Approved Crafting the Perfect End Screen - YouTube Template Guidebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-engaging-essentials-leading-ig-filters-for-2024/"><u>[New] Engaging Essentials Leading IG Filters for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-a-straightforward-path-learn-how-to-use-ez-grabber-effectively/"><u>[Updated] A Straightforward Path Learn How To Use EZ Grabber Effectively</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1-easy-guide-removing-people-from-photos-with-top-smartphone-editing-tools/"><u>1. Easy Guide: Removing People From Photos with Top Smartphone Editing Tools</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convert-youtube-videos-to-mp3-on-mac-unlimited-free-tracks-for-your-apple-devices/"><u>Convert YouTube Videos to MP3 on Mac - Unlimited Free Tracks for Your Apple Devices</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easy-methods-for-transitioning-contacts-switching-from-a-nokia-smartphone-to-the-samsung-galaxy-s5/"><u>Easy Methods for Transitioning Contacts: Switching From a Nokia Smartphone to the Samsung Galaxy S5</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-use-diverse-strategies-to-screen-record-in-windows-and-macos-environments/"><u>How to Use Diverse Strategies to Screen Record in Windows & macOS Environments</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-navigate-a-new-era-in-livestrances-top-3-desktop-techniques-on-tiktok/"><u>In 2024, Navigate a New Era in Livestrances Top 3 Desktop Techniques on TikTok</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kobo-libra-h2o-book-reader-assessment-dive-into-simplified-watertight-literature/"><u>Kobo Libra H2O Book Reader Assessment: Dive Into Simplified, Watertight Literature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimisez-et-redonnez-vie-a-vos-images-amelioration-en-4k8k10k-grace-a-la-technologie-artificielle-de-winxvideo/"><u>Optimisez Et Redonnez Vie À Vos Images : Amélioration en 4K/8K/10K Grâce À La Technologie Artificielle De WinxVideo</u></a></li>
+<li><a href="https://win-superb.techidaily.com/simple-guide-effortless-methods-for-converting-pdf-files-onto-your-android-device/"><u>Simple Guide: Effortless Methods for Converting PDF Files Onto Your Android Device</u></a></li>
+<li><a href="https://win-superb.techidaily.com/simple-methods-for-transferring-contacts-from-pc-to-iphone/"><u>Simple Methods for Transferring Contacts From PC to iPhone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/the-ultimate-list-of-top-ios-apps-for-pdf-management-viewing-editing-in-2020/"><u>The Ultimate List of Top iOS Apps for PDF Management (Viewing, Editing) in 2020</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-5-essential-software-for-converting-m4a-audio-files-into-mp3-format/"><u>Top 5 Essential Software for Converting M4A Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-ringtones-deletion-apps-eliminate-your-iphone-sounds-effortlessly/"><u>Top Ringtones Deletion Apps: Eliminate Your iPhone Sounds Effortlessly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-tier-visual-data-vaults-for-2024/"><u>Top-Tier Visual Data Vaults for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-a54-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy A54 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-pixel-perfectionizer/"><u>Ultimate Pixel Perfectionizer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817865704-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
 </ul></div>
 

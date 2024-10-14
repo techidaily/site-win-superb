@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Revolutionary Microsoft Surface Pro 10 & Laptop #5: Cutting-Edge AI Enhancements Revealed - ZDNet Exclusive"
-date: 2024-10-05T17:19:02.959Z
-updated: 2024-10-08T16:02:09.156Z
+date: 2024-10-07T16:12:03.913Z
+updated: 2024-10-14T16:02:53.337Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-uncluttered-recorder-screen-log-for-win10/"><u>[Updated] 2024 Approved Uncluttered Recorder Screen Log for Win10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/desktop-video-editing-solutions-gopro-quik-and-beyond/"><u>Desktop Video Editing Solutions GoPro Quik and Beyond</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-microsofts-enhanced-security-measures-in-newly-released-windows-11-a-leap-towards-inherent-protection-zdnet/"><u>Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/good-news-from-southwest-airlines-affecting-you-but-not-bill-gates-find-out-on-zdnet/"><u>Good News From Southwest Airlines: Affecting You but Not Bill Gates? Find Out on ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-choices-7-best-mac-video-apps/"><u>In 2024, Ideal Choices 7 Best Mac Video Apps</u></a></li>
-<li><a href="https://win-superb.techidaily.com/inside-the-design-of-the-freshly-unveiled-surface-laptop-5-zdnet-hands-on-analysis/"><u>Inside the Design of the Freshly Unveiled Surface Laptop 5 | ZDNET Hands-On Analysis</u></a></li>
-<li><a href="https://win-superb.techidaily.com/macbook-vs-microsoft-duo-why-i-might-trade-in-my-old-favorite-for-a-new-tech-experiment/"><u>MacBook vs Microsoft Duo: Why I Might Trade in My Old Favorite for a New Tech Experiment</u></a></li>
-<li><a href="https://win-superb.techidaily.com/microsofts-latest-security-scare-should-we-be-concerned-or-can-we-chuckle-insights-from-zdnet/"><u>Microsoft's Latest Security Scare: Should We Be Concerned or Can We Chuckle? Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seiva-carvalho-escritor-e-criador-de-imagens-em-movavi/"><u>Seiva Carvalho - Escritor E Criador De Imagens Em Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-playstation-experience-transform-your-voice/"><u>The PlayStation Experience Transform Your Voice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions/"><u>The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions</u></a></li>
-<li><a href="https://win-superb.techidaily.com/windows-11-update-fees-by-microsoft-to-kick-off-next-year-explore-the-potential-price-breakdown-and-implications/"><u>Windows 11 Update Fees by Microsoft to Kick Off Next Year; Explore the Potential Price Breakdown and Implications</u></a></li>
-<li><a href="https://win-superb.techidaily.com/windows-control-panel-survives-redesign-rumors-microsoft-affirms-ongoing-commitment-and-enhancements/"><u>Windows Control Panel Survives Redesign Rumors - Microsoft Affirms Ongoing Commitment and Enhancements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/youtubes-everlasting-titles-with-millions-of-viewers-for-2024/"><u>YouTube's Everlasting Titles with Millions of Viewers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-behind-the-mascara-youtubes-top-makeup-artists-unveiled/"><u>[New] 2024 Approved Behind the Mascara YouTube's Top Makeup Artists Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-decoding-youtubes-revenue-model-for-video-clips/"><u>[Updated] In 2024, Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-radial-blur-made-easy-pro-techniques-in-adobe-ps-for-2024/"><u>[Updated] Radial Blur Made Easy Pro Techniques in Adobe PS for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-google-pixel-fold-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Google Pixel Fold PC | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/actionable-techniques-for-efficiently-saving-your-skype-chats-as-videos-a-comprehensive-how-to-tutorial/"><u>Actionable Techniques for Efficiently Saving Your Skype Chats as Videos – A Comprehensive How-To Tutorial</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-safely-retrieve-videos-from-canalplus-using-your-pc-or-mac/"><u>How to Safely Retrieve Videos From Canal+ Using Your PC or Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-premium-photo-quality-without-charges/"><u>In 2024, Finding Premium Photo Quality Without Charges</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mp4-format-extraction-for-staatsoper-streaming-effortless-guide-and-tools-online/"><u>MP4 Format Extraction for Staatsoper Streaming: Effortless Guide & Tools Online</u></a></li>
+<li><a href="https://win-superb.techidaily.com/resolving-linuxacademy-download-problems-for-macos-and-windows-users-a-comprehensive-solution-guide/"><u>Resolving Linuxacademy Download Problems for macOS & Windows Users: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-converting-francetv-info-streams-into-downloadable-files/"><u>Step-by-Step Guide to Converting Francetv Info Streams Into Downloadable Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-autonomous-vehicle-brands-taking-over-roads-the-top-4-companies/"><u>Top Autonomous Vehicle Brands Taking Over Roads : The Top 4 Companies</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-notch-download-tool-the-ultimate-youtube-dl-replacement-for-macos-and-windows-by-allavsoft/"><u>Top Notch Download Tool: The Ultimate YouTube-DL Replacement for macOS & Windows by AllAvsoft</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-alternatives-to-bandicam-for-cross-platform-video-capture-on-macwindows-systems/"><u>Ultimate Guide: Alternatives to Bandicam for Cross-Platform Video Capture on Mac/Windows Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-durable-and-stylish-google-pixel-phone-8a-cases-expert-reviews-and-choices/"><u>Ultimate Selection of Durable and Stylish Google Pixel ^Phone 8a Cases - Expert Reviews & Choices</u></a></li>
 </ul></div>
 

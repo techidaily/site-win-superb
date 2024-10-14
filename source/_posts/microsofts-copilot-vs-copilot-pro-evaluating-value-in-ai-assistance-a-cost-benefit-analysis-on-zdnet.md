@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Copilot Vs. Copilot Pro: Evaluating Value in AI Assistance – A Cost-Benefit Analysis on ZDNet"
-date: 2024-10-06T17:17:17.894Z
-updated: 2024-10-08T17:51:55.391Z
+date: 2024-10-08T16:20:34.330Z
+updated: 2024-10-14T16:02:18.256Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-audio-extraction-made-easy-youtube-music-on-your-mac/"><u>[New] 2024 Approved Audio Extraction Made Easy YouTube Music on Your Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-streamlined-social-media-management-our-picks-of-the-best-8-planners/"><u>[New] 2024 Approved Streamlined Social Media Management Our Picks of the Best 8 Planners</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elite-cameras-for-windows-11-pro-review-of-the-latest-gear-for-2024/"><u>[New] Elite Cameras for Windows 11 - Pro Review of the Latest Gear for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-privacy-first-explore-the-best-10-no-cost-highly-secured-video-calling-apps-for-smartphones/"><u>[New] Privacy First Explore the Best 10 No-Cost, Highly-Secured Video Calling Apps for Smartphones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>[Updated] In 2024, Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/effective-replacements-for-dipry-troubleshoot-fixes-on-mac-and-pc/"><u>Effective Replacements for DIPrY: Troubleshoot Fixes on Mac & PC</u></a></li>
-<li><a href="https://win-superb.techidaily.com/free-windows-10-upgrade-offer-from-microsoft-is-it-still-available/"><u>Free Windows 10 Upgrade Offer From Microsoft – Is It Still Available?</u></a></li>
-<li><a href="https://win-superb.techidaily.com/get-ready-to-pay-microsoft-shifts-strategy-free-no-more-cost-of-future-windows-10-updates-unveiled-zdnet-coverage/"><u>Get Ready to Pay? Microsoft Shifts Strategy: Free No More - Cost of Future Windows 10 Updates Unveiled | ZDNET Coverage</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-a-ddos-cyberattack-disrupted-microsoft-365-services-insights-from-zdnet/"><u>How a DDoS Cyberattack Disrupted Microsoft 365 Services: Insights From ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-microsoft-continues-to-face-the-music-lessons-learned-from-a-mobile-misstep-after-10-years-zdnet/"><u>How Microsoft Continues to Face the Music: Lessons Learned From a Mobile Misstep After 10 Years | ZDNET</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-microsofts-growing-paranoia-impacts-us-all-a-deep-dive-on-zdnet/"><u>How Microsoft's Growing Paranoia Impacts Us All - A Deep Dive on ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/innovative-team-solutions-how-microsofts-latest-updates-spark-entrepreneurial-spirit-among-staff-according-to-zdnet/"><u>Innovative Team Solutions: How Microsoft's Latest Updates Spark Entrepreneurial Spirit Among Staff, According to ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/launched-visuals-review-synopsis/"><u>Launched Visuals Review Synopsis</u></a></li>
-<li><a href="https://win-superb.techidaily.com/mastering-the-art-of-picking-colors-using-powertoys-color-picker-a-comprehensive-guide-by-zdnet/"><u>Mastering the Art of Picking Colors Using PowerToys' Color Picker - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-online-glitch-effect-generators-for-2024/"><u>New The Best Free Online Glitch Effect Generators for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/preparing-your-pc-and-room-for-the-ultimate-vr/"><u>Preparing Your PC and Room for the Ultimate VR</u></a></li>
-<li><a href="https://win-superb.techidaily.com/the-evolution-of-windows-copilot-into-a-user-friendly-application-by-microsoft-benefits-unveiled-digital-trends/"><u>The Evolution of Windows Copilot Into a User-Friendly Application by Microsoft: Benefits Unveiled | Digital Trends</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-step-by-step-mastery-uploading-subtitles-to-gain-visibility-in-online-communities/"><u>[Updated] 2024 Approved Step-by-Step Mastery Uploading Subtitles to Gain Visibility in Online Communities</u></a></li>
+<li><a href="https://article-files.techidaily.com/8-best-photo-grid-online-makers-to-polish-your-pictures-for-2024/"><u>8 Best Photo Grid Online Makers to Polish Your Pictures for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-inconsistent-audio-interruptions-in-windows-11-a-comprehensive-guide/"><u>Fixing Inconsistent Audio Interruptions in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-episodes-downloading-audio-from-audioboom/"><u>How to Save Your Favorite Episodes: Downloading Audio From Audioboom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-windows-11-from-restarting-repeatedly-easy-fixes/"><u>How To Stop Windows 11 From Restarting Repeatedly (Easy Fixes)</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-transfer-your-favorite-kabel-eins-shows-convert-and-save-episodes-as-mp4-files/"><u>How to Transfer Your Favorite Kabel Eins Shows: Convert and Save Episodes as MP4 Files</u></a></li>
+<li><a href="https://win-superb.techidaily.com/navigating-niconicos-terms-of-service-legally-saving-your-favorite-videos-for-offline-viewing/"><u>Navigating Niconico's Terms of Service: Legally Saving Your Favorite Videos for Offline Viewing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-for-converting-youtube-livestreams-into-mp4-files-on-macos-and-windows-pcs/"><u>Step-by-Step Tutorial for Converting YouTube Livestreams Into MP4 Files on macOS & Windows PCs</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-on-extracting-music-and-video-from-bet-streams-for-high-quality-mp4mp3-playback/"><u>Step-by-Step Tutorial on Extracting Music and Video From BET Streams for High-Quality MP4/MP3 Playback</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-t2-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo T2 5G FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-k70e-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi K70E Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

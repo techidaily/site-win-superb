@@ -1,7 +1,7 @@
 ---
 title: How CrowdStrike Triggered a Major Windows Systems Failure Affecting Airports and Banks | Detailed Breakdown
-date: 2024-10-04T17:32:52.754Z
-updated: 2024-10-08T17:31:22.035Z
+date: 2024-10-08T16:15:19.456Z
+updated: 2024-10-14T16:02:59.855Z
 tags:
   - windows
 categories:
@@ -28,10 +28,10 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -40,11 +40,31 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -54,13 +74,6 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -80,13 +93,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -98,18 +104,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,19 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-money-on-youtube-without-ads/"><u>[Updated] In 2024, How to Make Money on YouTube Without Ads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-smooth-sailing-for-social-broadcasts-fixing-interruptions-on-fb/"><u>[Updated] In 2024, Smooth Sailing for Social Broadcasts Fixing Interruptions on FB</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-revolutionary-ideas-to-empower-your-webcam-for-2024/"><u>[Updated] Revolutionary Ideas to Empower Your Webcam for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ancient-art-of-role-playing-evolutionary-trajectory-for-2024/"><u>[Updated] The Ancient Art of Role-Playing Evolutionary Trajectory for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/web-movavi/"><u>無料で簡単なWEBムービーから動画ファイルへの変換 - Movavi</u></a></li>
-<li><a href="https://win-superb.techidaily.com/capturando-imagens-de-vista-parcial-no-windows-10-guia-completo/"><u>Capturando Imagens De Vista Parcial No Windows 10: Guia Completo</u></a></li>
-<li><a href="https://win-superb.techidaily.com/comprendiendo-los-tecnicos-del-compresion-wav-guia-practica-para-reducir-el-tamano-de-archivos-musicales-usando-movavis-solucion/"><u>Comprendiendo Los Técnicos Del Compresión WAV: Guía Práctica Para Reducir El Tamaño De Archivos Musicales Usando Movavi's Solución</u></a></li>
-<li><a href="https://win-superb.techidaily.com/conversion-libre-y-gratuita-de-aiff-a-avi-online-con-movavi-tecnicas-faciles-para-todo-usuario/"><u>Conversión Libre Y Gratuita De AIFF a AVI Online Con Movavi: Técnicas Fáciles Para Todo Usuario</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-earning-potential-on-youtubers/"><u>Ensuring Earning Potential on YouTubers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-for-the-best-playstation-and-nintendo-handhelds-this-year/"><u>Expert Picks for the Best PlayStation and Nintendo Handhelds This Year</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-above-average-cloud-service-selections/"><u>In 2024, Above-Average Cloud Service Selections</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
-<li><a href="https://win-superb.techidaily.com/trasforma-i-file-wmv-in-formato-ogg-gratuitamente-on-line-utilizzando-movavi-tutorial-completo/"><u>Trasforma I File WMV in Formato Ogg Gratuitamente On-Line Utilizzando Movavi - Tutorial Completo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlock-extra-space-premium-external-drives-for-ps5/"><u>[New] In 2024, Unlock Extra Space Premium External Drives for PS5</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-10/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-access-a-wide-range-of-content-via-12-streaming-apps/"><u>[Updated] Access a Wide Range of Content via 12 Streaming Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frosty-yet-warm-choosing-the-best-winter-backdrops/"><u>[Updated] In 2024, Frosty Yet Warm Choosing the Best Winter Backdrops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>[Updated] Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-power-of-imagery-in-podcast-art/"><u>[Updated] Unlocking the Power of Imagery in Podcast Art</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1-easy-guide-removing-people-from-photos-with-top-smartphone-editing-tools/"><u>1. Easy Guide: Removing People From Photos with Top Smartphone Editing Tools</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easy-methods-for-transitioning-contacts-switching-from-a-nokia-smartphone-to-the-samsung-galaxy-s5/"><u>Easy Methods for Transitioning Contacts: Switching From a Nokia Smartphone to the Samsung Galaxy S5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enjoy-seamless-streaming-of-netflix-movies-and-shows-on-your-ipad/"><u>Enjoy Seamless Streaming of Netflix Movies and Shows on Your iPad</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-use-diverse-strategies-to-screen-record-in-windows-and-macos-environments/"><u>How to Use Diverse Strategies to Screen Record in Windows & macOS Environments</u></a></li>
+<li><a href="https://win-superb.techidaily.com/leading-application-solutions-how-to-edit-out-individuals-from-pictures-effortlessly/"><u>Leading Application Solutions: How to Edit Out Individuals From Pictures Effortlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-camon-20-premier-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Camon 20 Premier 5G</u></a></li>
+<li><a href="https://win-superb.techidaily.com/simple-guide-effortless-methods-for-converting-pdf-files-onto-your-android-device/"><u>Simple Guide: Effortless Methods for Converting PDF Files Onto Your Android Device</u></a></li>
+<li><a href="https://win-superb.techidaily.com/simple-methods-for-transferring-contacts-from-pc-to-iphone/"><u>Simple Methods for Transferring Contacts From PC to iPhone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-5-essential-software-for-converting-m4a-audio-files-into-mp3-format/"><u>Top 5 Essential Software for Converting M4A Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-ringtones-deletion-apps-eliminate-your-iphone-sounds-effortlessly/"><u>Top Ringtones Deletion Apps: Eliminate Your iPhone Sounds Effortlessly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-64-bit-video-editor-for-windows-8-and-up/"><u>Updated Edit Like a Pro 64-Bit Video Editor for Windows 8 and Up</u></a></li>
 </ul></div>
 

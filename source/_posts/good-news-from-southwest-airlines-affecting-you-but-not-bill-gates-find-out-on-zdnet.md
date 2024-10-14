@@ -1,7 +1,7 @@
 ---
 title: "Good News From Southwest Airlines: Affecting You but Not Bill Gates? Find Out on ZDNet"
-date: 2024-10-05T17:34:32.993Z
-updated: 2024-10-08T16:55:06.751Z
+date: 2024-10-12T16:22:42.766Z
+updated: 2024-10-14T16:13:29.497Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -152,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-excellence-top-editors-for-videos/"><u>[New] 2024 Approved Cutting Edge Excellence Top Editors for Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-affordable-video-grabbing-tools-tested-on-pcs/"><u>[New] In 2024, Affordable Video Grabbing Tools Tested on PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-smooth-facetime-calls-on-mobile/"><u>[New] In 2024, Step-by-Step Guide to Smooth FaceTime Calls on Mobile</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-revolutionize-youtube-uploads-speed-enhancing-render-tricks/"><u>[Updated] Revolutionize YouTube Uploads Speed-Enhancing Render Tricks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-step-into-innovation-top-10-youtube-vr-creations/"><u>In 2024, Step Into Innovation Top 10 YouTube VR Creations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-versus-dailymention-identifying-key-gaps/"><u>In 2024, YouTube Versus DailyMention Identifying Key Gaps</u></a></li>
-<li><a href="https://win-superb.techidaily.com/microsofts-insider-exposes-the-truth-about-pursuing-a-career-within-the-tech-giant/"><u>Microsoft's Insider Exposes the Truth About Pursuing a Career Within the Tech Giant</u></a></li>
-<li><a href="https://win-superb.techidaily.com/notepad-enhancements-microsoft-introduces-spellcheck-and-autocorrect-features-after-decades/"><u>Notepad Enhancements: Microsoft Introduces Spellcheck & Autocorrect Features After Decades</u></a></li>
-<li><a href="https://win-superb.techidaily.com/save-big-with-a-discounted-microsoft-office-2019-key-get-windows-or-mac-access-now-at-only-25-on-zdnet/"><u>Save Big with a Discounted Microsoft Office 2019 Key - Get Windows or Mac Access Now at Only $25 on ZDNET!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-how-lensdirects-anti-blue-light-spectacles-perform-with-prescriptions/"><u>The Ultimate Review: How LensDirect's Anti-Blue Light Spectacles Perform with Prescriptions</u></a></li>
-<li><a href="https://win-superb.techidaily.com/transforming-low-code-into-no-code-how-generative-ai-adds-the-x-factor-insights-and-predictions-techzine/"><u>Transforming Low-Code Into No-Code: How Generative AI Adds the X Factor - Insights & Predictions | TechZine</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expert-moves-with-gopro/"><u>[New] In 2024, Expert Moves with GoPro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cutting-edge-codecs-comparison-choosing-between-av1-and-vp9/"><u>[Updated] 2024 Approved Cutting-Edge Codecs Comparison Choosing Between Av1 & VP9</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-augmenting-creativity-with-the-best-ai-for-podcast-names/"><u>2024 Approved Augmenting Creativity with the Best AI for Podcast Names</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-microphone-functionality-on-skype-with-windows-11/"><u>Effective Techniques to Restore Microphone Functionality on Skype with Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-reasons-that-diminish-the-impact-of-gamefi/"><u>Five Reasons That Diminish the Impact of GameFi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-windows-10-upgrade-offer-from-microsoft-is-it-still-available/"><u>Free Windows 10 Upgrade Offer From Microsoft – Is It Still Available?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-microsoft-continues-to-face-the-music-lessons-learned-from-a-mobile-misstep-after-10-years-zdnet/"><u>How Microsoft Continues to Face the Music: Lessons Learned From a Mobile Misstep After 10 Years | ZDNET</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-microsofts-growing-paranoia-impacts-us-all-a-deep-dive-on-zdnet/"><u>How Microsoft's Growing Paranoia Impacts Us All - A Deep Dive on ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-mp3-editing-tools-and-techniques-for-seamless-file-trimming-on-any-device/"><u>Mastering MP3 Editing: Tools & Techniques for Seamless File Trimming on Any Device</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsofts-copilot-vs-copilot-pro-evaluating-value-in-ai-assistance-a-cost-benefit-analysis-on-zdnet/"><u>Microsoft's Copilot Vs. Copilot Pro: Evaluating Value in AI Assistance – A Cost-Benefit Analysis on ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-advanced-window-media-editing-techniques-audio-purge-edition/"><u>Updated In 2024, Advanced Window Media Editing Techniques Audio Purge Edition</u></a></li>
 </ul></div>
 

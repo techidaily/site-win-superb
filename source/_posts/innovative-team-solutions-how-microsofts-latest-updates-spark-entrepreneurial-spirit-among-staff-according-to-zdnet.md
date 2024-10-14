@@ -1,7 +1,7 @@
 ---
 title: "Innovative Team Solutions: How Microsoft's Latest Updates Spark Entrepreneurial Spirit Among Staff, According to ZDNet"
-date: 2024-10-05T16:26:38.909Z
-updated: 2024-10-08T16:45:22.552Z
+date: 2024-10-13T16:13:34.118Z
+updated: 2024-10-14T16:11:01.160Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +143,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,13 +154,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,24 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ree-traffic-on-youtube-tips-that-actually-work-for-2024/"><u>[New] Free Traffic on YouTube Tips That Actually Work for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-controlling-video-flow-on-your-screens-window-netflix/"><u>[Updated] Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-erasing-the-spotlight-hide-visuals-in-shared-media/"><u>[Updated] In 2024, Erasing the Spotlight Hide Visuals in Shared Media</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722886049547-accidentally-sent-heres-how-you-can-retrieve-your-emails-in-outlook/"><u>Accidentally Sent? Here's How You Can Retrieve Your Emails in Outlook!</u></a></li>
-<li><a href="https://win-superb.techidaily.com/acquire-exclusive-designer-cakes-media-seamless-video-downloads-from-designer-cakescom/"><u>Acquire Exclusive Designer Cakes Media: Seamless Video Downloads From designer-cakes.com</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-episodes-downloading-audio-from-audioboom/"><u>How to Save Your Favorite Episodes: Downloading Audio From Audioboom</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-transfer-your-favorite-kabel-eins-shows-convert-and-save-episodes-as-mp4-files/"><u>How to Transfer Your Favorite Kabel Eins Shows: Convert and Save Episodes as MP4 Files</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-instant-thumbnail-transformation-personalized-youtube-shorts-in-a-flash/"><u>In 2024, Instant Thumbnail Transformation Personalized YouTube Shorts in a Flash</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-securing-streams-of-cash-from-content-creation/"><u>In 2024, Securing Streams of Cash From Content Creation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-method-for-facetime-screen-record/"><u>In 2024, The Ultimate Method for FaceTime Screen Record</u></a></li>
-<li><a href="https://win-superb.techidaily.com/navigating-niconicos-terms-of-service-legally-saving-your-favorite-videos-for-offline-viewing/"><u>Navigating Niconico's Terms of Service: Legally Saving Your Favorite Videos for Offline Viewing</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-8-best-daw-apps-for-android-to-boost-your-music-production-2023/"><u>New In 2024, 8 Best DAW Apps for Android to Boost Your Music Production 2023</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-with-sifu-games-frame-rate-and-smoothness-on-pc-systems/"><u>Resolved: Issues with Sifu Game's Frame Rate and Smoothness on PC Systems</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-for-converting-youtube-livestreams-into-mp4-files-on-macos-and-windows-pcs/"><u>Step-by-Step Tutorial for Converting YouTube Livestreams Into MP4 Files on macOS & Windows PCs</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-on-extracting-music-and-video-from-bet-streams-for-high-quality-mp4mp3-playback/"><u>Step-by-Step Tutorial on Extracting Music and Video From BET Streams for High-Quality MP4/MP3 Playback</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-on-saving-and-accessing-g9md-educational-videos-off-the-grid/"><u>Step-by-Step Tutorial on Saving and Accessing G9MD Educational Videos Off the Grid</u></a></li>
-<li><a href="https://win-superb.techidaily.com/streamline-your-media-cross-platform-silverlight-video-downloader/"><u>Streamline Your Media: Cross-Platform Silverlight Video Downloader</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ultimate-guide-to-securely-saving-your-favorite-bravotube-content/"><u>Ultimate Guide to Securely Saving Your Favorite BravoTube Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-screenshots-vertical-video-editing-in-fcpx/"><u>[Updated] In 2024, The Art of Screenshots Vertical Video Editing in FCPX</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1-seamless-integration-a-step-by-step-guide-to-implementing-themes-in-flipoffice-pro-flipbuildercom/"><u>1) Seamless Integration: A Step-by-Step Guide to Implementing Themes in FlipOffice Pro | flipbuilder.com</u></a></li>
+<li><a href="https://win-superb.techidaily.com/adding-flv-movie-playback-feature-on-individual-flipbook-pages-with-ease-a-step-by-step-guide/"><u>Adding Flv Movie Playback Feature on Individual FlipBook Pages with Ease: A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjustment-for-small-win-10-interface/"><u>Adjustment for Small WIN 10 Interface</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversao-de-audio-livre-para-mp3-e-mp4-suportando-3gpp-com-o-servico-on-line-do-movavi/"><u>Conversão De Áudio Livre Para MP3 E MP4, Suportando 3GPP Com O Serviço On-Line Do Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-m452dn-printer-working-step-by-step-driver-installation/"><u>Get Your HP M452dn Printer Working: Step-by-Step Driver Installation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-microphone-repair-guide-solved-problems/"><u>LucidSound LS30 Microphone Repair Guide - Solved Problems</u></a></li>
+<li><a href="https://win-superb.techidaily.com/m4a-mp4/"><u>M4A에서 MP4 전환하기 - 속도 위해 무료 온라인 해상보</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-these-amazing-no-cost-movies-the-ultimate-youtube-selection-july-edition/"><u>Watch These Amazing No-Cost Movies: The Ultimate YouTube Selection, July Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/evelopment-hacks-embedding-youtubes-playlists-effortlessly/"><u>Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
+<li><a href="https://win-superb.techidaily.com/aacmp3-mpe/"><u>オンラインで自由に使えるAACフォーマットへのMP3変換サービス - MPE</u></a></li>
 </ul></div>
 

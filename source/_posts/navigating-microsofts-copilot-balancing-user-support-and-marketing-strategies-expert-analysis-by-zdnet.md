@@ -1,7 +1,7 @@
 ---
 title: "Navigating Microsoft's Copilot: Balancing User Support and Marketing Strategies | Expert Analysis by ZDNET"
-date: 2024-10-01T17:22:26.114Z
-updated: 2024-10-08T16:59:23.215Z
+date: 2024-10-12T16:03:15.430Z
+updated: 2024-10-14T16:09:39.155Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,28 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-android-and-ios-top-asmr-audio-picks-for-2024/"><u>[Updated] Android and iOS Top ASMR Audio Picks for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-avoiding-pitfalls-tiktok-video-copyright-verification-guide-for-2024/"><u>[Updated] Avoiding Pitfalls TikTok Video Copyright Verification Guide for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-smartest-approach-to-launching-your-youtube-businesspersonal-brand-from-phone/"><u>[Updated] In 2024, The Smartest Approach to Launching Your YouTube Business/Personal Brand From Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/beyond-mundane-chores-how-abbyy-is-transforming-standard-operations/"><u>Beyond Mundane Chores: How ABBYY Is Transforming Standard Operations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-and-install-ibooks-app-your-ultimate-guide-to-reading-ebooks-on-mac-and-pc/"><u>Download and Install iBooks App: Your Ultimate Guide to Reading eBooks on Mac & PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-to-flawless-printing-secure-hp-deskjet-3520-wireless-printer-drivers-for-windows-and-macos/"><u>Fast Track to Flawless Printing: Secure HP Deskjet 3520 Wireless Printer Drivers for Windows and macOS</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-apple-playfully-jabs-at-windows-portables-discovering-the-focus/"><u>How Apple Playfully Jabs at Windows Portables - Discovering the Focus</u></a></li>
-<li><a href="https://win-superb.techidaily.com/lost-your-windows-pro-license-after-a-pc-reset-reclaim-it-in-5-simple-steps-expert-guide/"><u>Lost Your Windows Pro License After a PC Reset? Reclaim It in 5 Simple Steps - Expert Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/microsofts-unspoken-decision-on-windows-11-extends-user-disappointment-a-detailed-analysis-by-zdnet/"><u>Microsoft's Unspoken Decision on Windows 11 Extends User Disappointment – A Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-of-performance-new-samsung-bdplus-review-for-2024/"><u>Pinnacle of Performance - New Samsung BD+ Review for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/revitalize-your-aging-pc-boosting-performance-on-windows-10-and-mac-tips-from-zdnet/"><u>Revitalize Your Aging PC: Boosting Performance on Windows 10 and Mac - Tips From ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/reviving-your-aging-pc-with-windows-10-top-5-free-methods-before-time-runs-out-insights-from-zdnet/"><u>Reviving Your Aging PC with Windows 10: Top 5 Free Methods Before Time Runs Out - Insights From ZDNet</u></a></li>
-<li><a href="https://win-superb.techidaily.com/seamlessly-integrate-with-microsofts-ecosystem-using-the-launcher-on-android-phones-digital-solutions-guide/"><u>Seamlessly Integrate with Microsoft's Ecosystem Using the Launcher on Android Phones | Digital Solutions Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/stay-updated-with-windows-11-longer-microsofts-new-payment-based-support-options-unveiled-by-zdnet/"><u>Stay Updated with Windows 11 Longer: Microsoft's New Payment-Based Support Options Unveiled by ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-guide-for-novices-on-simple-nft-making/"><u>[Updated] A Comprehensive Guide for Novices on Simple NFT Making</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fb-media-migration-tools-for-windowsmacos-users/"><u>[Updated] In 2024, FB Media Migration Tools for Windows/macOS Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/action-adventure-hits-the-best-of-the-best-top-10-for-2024/"><u>Action-Adventure Hits The Best of the Best (Top 10) for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-guide-official-netgear-a6200-profiles/"><u>Download Guide: Official Netgear A6200 Profiles</u></a></li>
+<li><a href="https://win-superb.techidaily.com/exploring-microsofts-enhanced-security-measures-in-newly-released-windows-11-a-leap-towards-inherent-protection-zdnet/"><u>Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-galaxy-s24-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Galaxy S24 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/free-windows-software-perfect-tv-recording-techniques/"><u>Free Windows Software Perfect TV Recording Techniques</u></a></li>
+<li><a href="https://win-superb.techidaily.com/good-news-from-southwest-airlines-affecting-you-but-not-bill-gates-find-out-on-zdnet/"><u>Good News From Southwest Airlines: Affecting You but Not Bill Gates? Find Out on ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 with IMEI Code?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-samsung-galaxy-a25-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A25 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/inside-the-design-of-the-freshly-unveiled-surface-laptop-5-zdnet-hands-on-analysis/"><u>Inside the Design of the Freshly Unveiled Surface Laptop 5 | ZDNET Hands-On Analysis</u></a></li>
+<li><a href="https://win-superb.techidaily.com/macbook-vs-microsoft-duo-why-i-might-trade-in-my-old-favorite-for-a-new-tech-experiment/"><u>MacBook vs Microsoft Duo: Why I Might Trade in My Old Favorite for a New Tech Experiment</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsofts-latest-security-scare-should-we-be-concerned-or-can-we-chuckle-insights-from-zdnet/"><u>Microsoft's Latest Security Scare: Should We Be Concerned or Can We Chuckle? Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfecting-audio-rates-in-youtube-playback/"><u>Perfecting Audio Rates in YouTube Playback</u></a></li>
+<li><a href="https://win-superb.techidaily.com/the-role-of-windows-in-shaping-the-hybrid-work-revolution-exclusive-coverage-by-microsoft-powered-by-zdnet/"><u>The Role of Windows in Shaping the Hybrid Work Revolution: Exclusive Coverage by Microsoft | Powered by ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/why-participate-in-the-windows-insider-preview-unveiling-the-benefits-and-how-tos-cnet/"><u>Why Participate in the Windows Insider Preview? Unveiling the Benefits and How-To's | CNET</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-11-update-fees-by-microsoft-to-kick-off-next-year-explore-the-potential-price-breakdown-and-implications/"><u>Windows 11 Update Fees by Microsoft to Kick Off Next Year; Explore the Potential Price Breakdown and Implications</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-control-panel-survives-redesign-rumors-microsoft-affirms-ongoing-commitment-and-enhancements/"><u>Windows Control Panel Survives Redesign Rumors - Microsoft Affirms Ongoing Commitment and Enhancements</u></a></li>
 </ul></div>
 

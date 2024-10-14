@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Continues to Face the Music: Lessons Learned From a Mobile Misstep After 10 Years | ZDNET"
-date: 2024-10-01T16:21:21.767Z
-updated: 2024-10-08T17:35:10.206Z
+date: 2024-10-09T16:15:00.682Z
+updated: 2024-10-14T16:17:09.612Z
 tags:
   - microsoft
 categories:
@@ -63,13 +63,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-repurpose-images-and-videos-for-2024/"><u>[New] Instagram Repurpose Images & Videos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-oven-to-screen-cooking-videos-unveiled-for-2024/"><u>[Updated] From Oven to Screen Cooking Videos Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-recorded-reality-facebook-live-2023/"><u>[Updated] In 2024, Recorded Reality Facebook Live, 2023</u></a></li>
-<li><a href="https://win-superb.techidaily.com/actionable-techniques-for-efficiently-saving-your-skype-chats-as-videos-a-comprehensive-how-to-tutorial/"><u>Actionable Techniques for Efficiently Saving Your Skype Chats as Videos – A Comprehensive How-To Tutorial</u></a></li>
-<li><a href="https://win-superb.techidaily.com/apple-should-consider-introducing-a-touchscreen-macbook-insights-from-the-success-of-microsofts-surface-laptop-studio/"><u>Apple Should Consider Introducing a Touchscreen MacBook - Insights From the Success of Microsoft's Surface Laptop Studio</u></a></li>
-<li><a href="https://win-superb.techidaily.com/could-bing-be-stepping-back-from-rivalling-google-insights-from-zdnet/"><u>Could Bing Be Stepping Back From Rivalling Google? Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/critics-choice-best-5-web-recording-applications/"><u>Critics' Choice Best 5 Web Recording Applications</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ensure-compatibility-meeting-the-criteria-for-action-software/"><u>Ensure Compatibility – Meeting the Criteria for Action Software</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-action-rcu-expert-answers-and-insights-on-leveraging-our-popular-gratis-mobile-app/"><u>Exploring Action! RCU: Expert Answers & Insights on Leveraging Our Popular Gratis Mobile App</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-broadcast-your-gaming-sessions-on-smashcast-a-comprehensive-guide/"><u>How to Broadcast Your Gaming Sessions on Smashcast: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-start-kit-top-gopro-supplementary-gear-for-2024/"><u>Ideal Start Kit Top GoPro Supplementary Gear for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing/"><u>In 2024, From Novice to Pro A Tactical Guide to Snapchat Marketing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-learn-final-cut-pro-from-scratch-90-day-free-trial-included/"><u>New 2024 Approved Learn Final Cut Pro From Scratch 90-Day Free Trial Included</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-rog-phone-8-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from ROG Phone 8 Pro</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-notch-download-tool-the-ultimate-youtube-dl-replacement-for-macos-and-windows-by-allavsoft/"><u>Top Notch Download Tool: The Ultimate YouTube-DL Replacement for macOS & Windows by AllAvsoft</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ultimate-guide-alternatives-to-bandicam-for-cross-platform-video-capture-on-macwindows-systems/"><u>Ultimate Guide: Alternatives to Bandicam for Cross-Platform Video Capture on Mac/Windows Systems</u></a></li>
-<li><a href="https://win-superb.techidaily.com/windows-10-challenges-loom-ahead-for-microsoft-only-one-year-remaining-to-address-issues-insights-from-zdnet/"><u>Windows 10 Challenges Loom Ahead for Microsoft: Only One Year Remaining to Address Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-key-elements-of-viral-success-in-instagram-videos-for-2024/"><u>[New] Key Elements of Viral Success in Instagram Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransform-your-youtube-views-into-profits-instantly-for-2024/"><u>[New] Transform Your YouTube Views Into Profits Instantly for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-virtual-adventure-unlocked-mastering-kinemaster-and-top-alternatives-reviewed/"><u>[New] Virtual Adventure Unlocked Mastering KineMaster and Top Alternatives Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-amped-arcs-and-zigzags-in-olympic-speed/"><u>2024 Approved Amped Arcs & Zigzags in Olympic Speed</u></a></li>
+<li><a href="https://win-superb.techidaily.com/access-and-control-spotify-tunes-with-your-apple-watch-comprehensive-instructions/"><u>Access and Control Spotify Tunes with Your Apple Watch - Comprehensive Instructions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/access-c-span-videos-and-audio-archives-quick-download-guide-for-pcs-and-macintosh-systems/"><u>Access C-SPAN Videos and Audio Archives: Quick Download Guide for PCs and Macintosh Systems</u></a></li>
+<li><a href="https://win-superb.techidaily.com/best-video-grabber-for-gogotraining-sessions-effortless-downloads/"><u>Best Video Grabber for GogoTraining Sessions - Effortless Downloads!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/beyond-acid-pro-innovative-vector-editors-reviewed/"><u>Beyond ACID Pro Innovative Vector Editors Reviewed</u></a></li>
+<li><a href="https://win-superb.techidaily.com/binge-on-funimations-best-effortless-mp4-downloads-of-top-anime-series-and-shows/"><u>Binge on Funimation's Best: Effortless MP4 Downloads of Top Anime Series and Shows</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convert-and-download-tracks-from-mp3ru-in-various-formats-for-pc-and-mac-users/"><u>Convert and Download Tracks From MP3.RU in Various Formats for PC & Mac Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fiverr-cover-content-proportions-for-2024/"><u>Fiverr Cover Content Proportions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/free-fast-and-reliable-the-best-pinterest-video-downloads-ranked-for-2024/"><u>Free, Fast & Reliable The Best Pinterest Video Downloads Ranked for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-moto-g-stylus-5g-2023-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Moto G Stylus 5G (2023) to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/save-time-and-money-transform-doc-documents-into-pdfs-at-no-cost-using-flipbuilder-technology/"><u>Save Time and Money: Transform DOC Documents Into PDFs at No Cost Using FlipBuilder Technology</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-instructions-for-sending-flip-ebooks-through-email-using-flipbuilder-tools/"><u>Step-by-Step Instructions for Sending Flip eBooks Through Email Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-for-setting-up-flipbook-downloads-using-flipbuilder/"><u>Step-by-Step Tutorial for Setting Up Flipbook Downloads Using FlipBuilder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-using-microsofts-ai-image-tool-for-distinctive-visuals/"><u>Unlocking Creative Potential: Using Microsoft's AI Image Tool for Distinctive Visuals</u></a></li>
 </ul></div>
 

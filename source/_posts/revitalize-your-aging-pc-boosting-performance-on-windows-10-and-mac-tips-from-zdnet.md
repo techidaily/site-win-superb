@@ -1,7 +1,7 @@
 ---
 title: "Revitalize Your Aging PC: Boosting Performance on Windows 10 and Mac - Tips From ZDNet"
-date: 2024-10-06T16:50:37.186Z
-updated: 2024-10-08T16:21:35.193Z
+date: 2024-10-07T16:08:01.147Z
+updated: 2024-10-14T16:17:38.571Z
 tags:
   - windows
 categories:
@@ -27,13 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -41,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -62,19 +55,6 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -87,11 +67,25 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -110,18 +104,18 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,20 +156,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-culinary-connoisseurs-must-watch-food-content/"><u>[New] 2024 Approved Culinary Connoisseurs Must-Watch Food Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>[New] A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-leading-free-switch-game-reproducers/"><u>[Updated] 2024 Approved Leading Free Switch Game Reproducers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-professional-iphone-cinematography-nine-crucial-tips-to-perfect-videos/"><u>[Updated] 2024 Approved Professional iPhone Cinematography Nine Crucial Tips to Perfect Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-snap-a-different-shot-11-best-instagram-tools/"><u>[Updated] In 2024, Snap A Different Shot - 11 Best Instagram Tools</u></a></li>
-<li><a href="https://win-superb.techidaily.com/get-full-movie-of-deadpool-gratis-in-high-quality-mp4-format-from-top-downloads-and-seeding-community/"><u>Get 'Full Movie of Deadpool' Gratis in High-Quality MP4 Format From Top Downloads and Seeding Community</u></a></li>
-<li><a href="https://win-superb.techidaily.com/guide-to-downloading-brazzers-content-best-methods-and-tips/"><u>Guide to Downloading Brazzers Content - Best Methods and Tips</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-aol-videos-in-mp4-avi-and-mov-formats-for-pc-and-mac-users/"><u>How to Save Your Favorite AOL Videos in MP4, AVI, and MOV Formats - For PC & Mac Users</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-episodes-downloading-audio-from-audioboom/"><u>How to Save Your Favorite Episodes: Downloading Audio From Audioboom</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-transfer-your-favorite-kabel-eins-shows-convert-and-save-episodes-as-mp4-files/"><u>How to Transfer Your Favorite Kabel Eins Shows: Convert and Save Episodes as MP4 Files</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-creative-commons-chill-vibes/"><u>In 2024, Creative Commons Chill Vibes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-your-canon-shots-10-free-tailored-for-professionals/"><u>In 2024, Perfect Your Canon Shots 10 Free, Tailored for Professionals</u></a></li>
-<li><a href="https://win-superb.techidaily.com/navigating-niconicos-terms-of-service-legally-saving-your-favorite-videos-for-offline-viewing/"><u>Navigating Niconico's Terms of Service: Legally Saving Your Favorite Videos for Offline Viewing</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-disabled-pin-removal-tool-on-windows-11-pc/"><u>Reviving Disabled PIN Removal Tool on Windows 11 PC</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-3-unlimited-use-no-cost-windows-1110-dvd-ripping-tools-download-the-complete-software/"><u>Top 3 Unlimited-Use, No-Cost Windows 11/10 DVD Ripping Tools (Download the Complete Software)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-skype-calls-on-windowsmac-best-free-and-paid-strategies/"><u>[New] 2024 Approved The Art of Skype Calls on Windows/Mac Best Free and Paid Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secretive-suggestions-for-enhanced-vlc-usage/"><u>[Updated] Secretive Suggestions for Enhanced VLC Usage</u></a></li>
+<li><a href="https://win-superb.techidaily.com/access-and-control-spotify-tunes-with-your-apple-watch-comprehensive-instructions/"><u>Access and Control Spotify Tunes with Your Apple Watch - Comprehensive Instructions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/access-c-span-videos-and-audio-archives-quick-download-guide-for-pcs-and-macintosh-systems/"><u>Access C-SPAN Videos and Audio Archives: Quick Download Guide for PCs and Macintosh Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-changes-in-ios-1nvitation-for-tech-lovers-device-support-new-functions-patch-notes-and-jailbreak-updates/"><u>Discover the Changes in iOS 1Nvitation for Tech Lovers: Device Support, New Functions, Patch Notes, and Jailbreak Updates!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-started-with-your-hp-printer-on-windows-11-driver-download-tips/"><u>Getting Started with Your HP Printer on Windows 11 – Driver Download Tips</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-modify-flipbuildercom-thumbnail-background-colors-a-step-by-step-guide/"><u>How to Modify FlipBuilder.com Thumbnail Background Colors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-refresh-your-iphone-safely-using-soft-reset-methods/"><u>How To Refresh Your iPhone Safely Using Soft Reset Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>In 2024, Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-scratch-to-screen-video-editing-with-youtube-and-others/"><u>In 2024, From Scratch to Screen Video Editing with YouTube & Others</u></a></li>
+<li><a href="https://win-superb.techidaily.com/master-the-art-of-crafting-attention-grabbing-titles-for-ebooks-leveraging-flipbuilders-power-tools/"><u>Master the Art of Crafting Attention-Grabbing Titles for eBooks: Leveraging FlipBuilder's Power Tools!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-silence-disabling-participants-in-gmeet-calls/"><u>Mastering Silence Disabling Participants in GMeet Calls</u></a></li>
+<li><a href="https://win-superb.techidaily.com/save-time-and-money-transform-doc-documents-into-pdfs-at-no-cost-using-flipbuilder-technology/"><u>Save Time and Money: Transform DOC Documents Into PDFs at No Cost Using FlipBuilder Technology</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-instructions-for-sending-flip-ebooks-through-email-using-flipbuilder-tools/"><u>Step-by-Step Instructions for Sending Flip eBooks Through Email Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-for-setting-up-flipbook-downloads-using-flipbuilder/"><u>Step-by-Step Tutorial for Setting Up Flipbook Downloads Using FlipBuilder</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-50plus-overlays-for-engaging-media-content/"><u>Top 50+ Overlays for Engaging Media Content</u></a></li>
 </ul></div>
 

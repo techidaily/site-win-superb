@@ -1,7 +1,7 @@
 ---
 title: Microsoft Revamps Consumer Strategy Focus Yet Once More – Insights From ZDNet
-date: 2024-10-07T16:31:46.389Z
-updated: 2024-10-08T16:29:02.191Z
+date: 2024-10-07T16:19:49.942Z
+updated: 2024-10-14T16:15:11.254Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +142,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-youtube-to-watch-facebook-content-on-apple-tv/"><u>[New] Mastering YouTube to Watch Facebook Content on Apple TV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-comprehensive-guide-to-cross-posting-youtube-video-on-fb/"><u>[Updated] 2024 Approved Comprehensive Guide to Cross-Posting YouTube Video on FB</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1726219405991-2024/"><u>2024頂級照片輔助文字設計工具 - 如何高效書寫於影像</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1726219470265-f4vavi-movavi/"><u>F4VからAVIへの無料オンライン変換 - MOVAVI使用ガイド</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-intel-chipset-control-panel-driver-updates-and-downloads-for-windows-111087/"><u>Free Intel Chipset Control Panel Driver Updates and Downloads for Windows 11/10/8/7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-itel-a05s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Itel A05s with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/nuavancen-screen-ejendoms-applikationer-priskurse-og-indkomster/"><u>Nuavancen Screen-Ejendoms Applikationer - Priskurse Og Indkomster</u></a></li>
-<li><a href="https://win-superb.techidaily.com/regulamentos-completos-de-embalagem-entrega-e-retorno-do-servico-movavi/"><u>Regulamentos Completos De Embalagem, Entrega E Retorno Do Serviço Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-excel-201nce-shortcut-keys-for-special-characters/"><u>Setting Up Excel 201Nce Shortcut Keys for Special Characters</u></a></li>
-<li><a href="https://win-superb.techidaily.com/transcodage-gratuit-de-fichier-voc-vers-mp4-sur-internet-moovavi/"><u>Transcodage Gratuit De Fichier VOC Vers MP4 Sur Internet - Moovavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-blizzards-battlenet-server-is-down/"><u>Troubleshooting Connection Issues: How To Tell If Blizzard's Battle.Net Server Is Down</u></a></li>
-<li><a href="https://win-superb.techidaily.com/wav-to-mp3-movavi/"><u>WAV to MP3 결속: 원탁스위트 내에서 자유롭게 바이널로 전환 - Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pioneers-of-immersion-history-in-vr-for-2024/"><u>[New] Pioneers of Immersion History in VR for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-craft-nfts-with-minimal-exertion/"><u>2024 Approved How to Craft NFTs with Minimal Exertion</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mmf/"><u>互動式無限MMF發送 - 移動維阿韋</u></a></li>
+<li><a href="https://win-superb.techidaily.com/opusogg-movavi/"><u>完全自由的在线OPUS到OGG转换 – 锁定你的音乐体验：使用Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/efficient-techniques-for-handling-parameters-in-emeditor-scripts/"><u>Efficient Techniques for Handling Parameters in EmEditor Scripts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/emeditor-pro-the-ultimate-text-editing-suite-for-efficiency-and-precision/"><u>EmEditor Pro: The Ultimate Text Editing Suite for Efficiency and Precision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hasty-yet-stunning-the-quick-path-to-perfect-collage-pics-for-2024/"><u>Hasty, Yet Stunning The Quick Path to Perfect Collage Pics for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/hero-11-and-max-360-comparing-the-bests-in-gopros-world-for-2024/"><u>Hero 11 and Max 360 Comparing the Bests in GoPro's World for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-7-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 7 without Security Questions?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lava-yuva-2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lava Yuva 2</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-skyrocket-your-subscribers-with-these-easy-strategies/"><u>In 2024, Skyrocket Your Subscribers with These Easy Strategies</u></a></li>
+<li><a href="https://win-superb.techidaily.com/kostenloze-veiligheidstitel-toegeven-aan-je-videokampagneen-doen-het-nog-goed/"><u>Kostenloze Veiligheidstitel Toegeven Aan Je Videokampagneën - Doen Het Nog Goed</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726223866951-movavi/"><u>Movavi客户服务团队：专业帮助与技术指导</u></a></li>
+<li><a href="https://win-superb.techidaily.com/resolving-the-phantom-character-issue-with-emeditor-step-by-step-solutions/"><u>Resolving the Phantom Character Issue with EmEditor - Step-by-Step Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-moving-your-google-photos-library-to-icloud/"><u>Seamless Integration: Moving Your Google Photos Library to iCloud</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-dual-user-microsoft-errors/"><u>Strategies to Resolve Dual User Microsoft Errors</u></a></li>
+<li><a href="https://win-superb.techidaily.com/streamline-your-typography-workflows-using-emeditors-regex-searchreplace-functionality/"><u>Streamline Your Typography Workflows Using EmEditor's Regex Search/Replace Functionality</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-text-editing-software-emeditor-your-perfect-digital-wordsmith-companion/"><u>Ultimate Text Editing Software: EmEditor, Your Perfect Digital Wordsmith Companion</u></a></li>
 </ul></div>
 

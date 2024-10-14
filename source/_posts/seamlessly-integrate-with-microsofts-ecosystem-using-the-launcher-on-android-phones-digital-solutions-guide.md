@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Integrate with Microsoft's Ecosystem Using the Launcher on Android Phones | Digital Solutions Guide
-date: 2024-10-01T16:54:02.739Z
-updated: 2024-10-08T16:11:44.012Z
+date: 2024-10-07T16:22:16.610Z
+updated: 2024-10-14T16:12:44.490Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,31 +61,11 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -94,10 +74,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -111,6 +91,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -122,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,22 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-removing-discord-servers-step-by-step/"><u>[New] In 2024, Removing Discord Servers Step-by-Step</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-perfecting-audio-quality-for-your-youtube-channel/"><u>[Updated] 2024 Approved Perfecting Audio Quality for Your YouTube Channel</u></a></li>
-<li><a href="https://win-superb.techidaily.com/acquire-exclusive-designer-cakes-media-seamless-video-downloads-from-designer-cakescom/"><u>Acquire Exclusive Designer Cakes Media: Seamless Video Downloads From designer-cakes.com</u></a></li>
-<li><a href="https://win-superb.techidaily.com/convert-and-preserve-quality-download-videos-in-mp4movavi-format-from-mediasite-platforms-using-our-tool/"><u>Convert and Preserve Quality: Download Videos in MP4/MOV/AVI Format From Mediasite Platforms Using Our Tool.</u></a></li>
-<li><a href="https://win-superb.techidaily.com/converting-your-favorite-ximalaya-podcasts-into-high-quality-mp3-files-a-guide-for-windows-and-macos/"><u>Converting Your Favorite Ximalaya Podcasts Into High-Quality MP3 Files: A Guide for Windows & macOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-engaging-interactive-narratives-with-chatgpt-for-role-playing-games/"><u>Crafting Engaging Interactive Narratives with ChatGPT for Role-Playing Games</u></a></li>
-<li><a href="https://win-superb.techidaily.com/download-high-quality-goo-videos-in-mp4movavi-formats-using-easy-techniques/"><u>Download High-Quality Goo Videos in MP4/MOV/AVI Formats Using Easy Techniques</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-steps-to-save-ndr-broadcasts-from-any-computer-including-mac-and-pc/"><u>Easy Steps to Save NDR Broadcasts From Any Computer, Including Mac & PC</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-video-downloader-guide-how-to-save-clips-from-top-sites-on-your-pc-or-mac/"><u>Easy Video Downloader Guide: How to Save Clips From Top Sites on Your PC or Mac</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-ways-to-save-motorsport-showdown-footage-on-your-computer-macwindows/"><u>Easy Ways to Save Motorsport Showdown Footage on Your Computer (Mac/Windows)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elevate-your-zoom-sessions-utilizing-filters-effectively-for-2024/"><u>Elevate Your Zoom Sessions Utilizing Filters Effectively for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-email-subject-lines-the-chatgpt-way/"><u>Enhancing Email Subject Lines: The ChatGPT Way</u></a></li>
-<li><a href="https://program-issues.techidaily.com/god-of-war-first-person-shooter-release-date-confirmed-for-pc-platform/"><u>God of War First-Person Shooter Release Date Confirmed for PC Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-gif-inpakt-naar-wmv-professioneel-converter-met-movavi-online/"><u>Gratis GIF-Inpakt Naar WMV: Professioneel Converter Met Movavi - Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-boost-visual-impact-selecting-excellent-edges-for-instagram-shots/"><u>In 2024, Boost Visual Impact Selecting Excellent Edges for Instagram Shots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895530928-sneak-peek-into-the-future-with-samsung-galaxy-s25-rumors-on-price-points-launch-moment-and-revolutionary-specs/"><u>Sneak Peek Into the Future with Samsung Galaxy S25 - Rumors on Price Points, Launch Moment and Revolutionary Specs!</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ultimate-guide-to-securely-saving-your-favorite-bravotube-content/"><u>Ultimate Guide to Securely Saving Your Favorite BravoTube Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-crafting-captivating-ig-stories-with-youtube-content/"><u>[Updated] In 2024, Crafting Captivating IG Stories With YouTube Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-shrink-it-down-youtubes-video-trimming-process/"><u>[Updated] Shrink It Down YouTube's Video Trimming Process</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-nord-ce-3-lite-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Nord CE 3 Lite 5G Devices</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-aol-videos-in-mp4-avi-and-mov-formats-for-pc-and-mac-users/"><u>How to Save Your Favorite AOL Videos in MP4, AVI, and MOV Formats - For PC & Mac Users</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-episodes-downloading-audio-from-audioboom/"><u>How to Save Your Favorite Episodes: Downloading Audio From Audioboom</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-transfer-your-favorite-kabel-eins-shows-convert-and-save-episodes-as-mp4-files/"><u>How to Transfer Your Favorite Kabel Eins Shows: Convert and Save Episodes as MP4 Files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-hacks-create-youtube-shorts-thumbnails-that-stand-out-quickly/"><u>In 2024, Hacks Create YouTube Shorts Thumbnails That Stand Out Quickly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-itel-a60s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Itel A60s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/navigating-niconicos-terms-of-service-legally-saving-your-favorite-videos-for-offline-viewing/"><u>Navigating Niconico's Terms of Service: Legally Saving Your Favorite Videos for Offline Viewing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-insights-from-toms-hardware-experts/"><u>Navigating Technology Trends: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-for-converting-youtube-livestreams-into-mp4-files-on-macos-and-windows-pcs/"><u>Step-by-Step Tutorial for Converting YouTube Livestreams Into MP4 Files on macOS & Windows PCs</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-on-extracting-music-and-video-from-bet-streams-for-high-quality-mp4mp3-playback/"><u>Step-by-Step Tutorial on Extracting Music and Video From BET Streams for High-Quality MP4/MP3 Playback</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vision-realized-mondly-languages-two-year-dream-voyage/"><u>Vision Realized: Mondly Languages, Two-Year Dream Voyage</u></a></li>
 </ul></div>
 

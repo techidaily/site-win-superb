@@ -1,7 +1,7 @@
 ---
 title: Exploring Microsoft's Enhanced Security Measures in Newly Released Windows 11 - A Leap Towards Inherent Protection | ZDNet
-date: 2024-10-01T16:27:53.053Z
-updated: 2024-10-08T16:26:12.560Z
+date: 2024-10-11T16:02:53.227Z
+updated: 2024-10-14T16:15:22.426Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-screen-capture-teams-meetings-on-pctablet/"><u>[Updated] Perfecting Screen Capture Teams' Meetings on PC/Tablet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-quick-access-essential-windows-10-tips/"><u>[Updated] Quick Access Essential Windows 10 Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-add-clearer-subtitles-on-youtube-for-2024/"><u>[Updated] Step-By-Step Guide to Add Clearer Subtitles on YouTube for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/2024-ultimate-tips-to-prevent-garrys-mod-game-crashes-and-improve-stability/"><u>2024 Ultimate Tips to Prevent Garry's Mod Game Crashes and Improve Stability</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/mmf/"><u>互動式無限MMF發送 - 移動維阿韋</u></a></li>
-<li><a href="https://win-superb.techidaily.com/opusogg-movavi/"><u>完全自由的在线OPUS到OGG转换 – 锁定你的音乐体验：使用Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-guide-converting-high-quality-youtube-videos-1080p-4k-8k-into-mp4-format/"><u>Easy Guide: Converting High-Quality YouTube Videos (1080P, 4K, 8K) Into MP4 Format</u></a></li>
-<li><a href="https://win-superb.techidaily.com/excellent-internet-imagery-toolset-transform-your-pictures-with-a-clean-white-canvas-option/"><u>Excellent Internet Imagery Toolset - Transform Your Pictures with a Clean White Canvas Option</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-the-basics-of-wav-sound-formats-and-digital-music-storage/"><u>Exploring the Basics of WAV Sound Formats and Digital Music Storage</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/kostenloze-veiligheidstitel-toegeven-aan-je-videokampagneen-doen-het-nog-goed/"><u>Kostenloze Veiligheidstitel Toegeven Aan Je Videokampagneën - Doen Het Nog Goed</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1726223866951-movavi/"><u>Movavi客户服务团队：专业帮助与技术指导</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1726028538356-pc/"><u>ノートPCユーザーにおすすめ!プロのテクニックを使った動画編集ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-protectively-download-youtube-audio-without-fear/"><u>[Updated] 2024 Approved How to Protectively Download YouTube Audio Without Fear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ahead-of-the-curve-best-hydro-games-compiled/"><u>[Updated] In 2024, Ahead of the Curve Best Hydro Games Compiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hook-creating-headline-helper/"><u>2024 Approved Hook-Creating Headline Helper</u></a></li>
+<li><a href="https://win-superb.techidaily.com/automatic-tagging-of-various-music-tracks-with-id3-efficient-file-info-organization/"><u>Automatic Tagging of Various Music Tracks with ID3 – Efficient File Info Organization</u></a></li>
+<li><a href="https://win-superb.techidaily.com/configuring-your-pc-setting-apowerpdf-as-the-preferred-pdf-application/"><u>Configuring Your PC: Setting ApowerPDF as the Preferred PDF Application</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-exceptional-zero-cost-passport-portrait-clients/"><u>In 2024, 10 Exceptional, Zero-Cost Passport Portrait Clients</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-note-30i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Note 30i Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/itunes-compatible-video-transformer-effortless-conversion-for-apples-media-library/"><u>ITunes-Compatible Video Transformer: Effortless Conversion for Apple's Media Library</u></a></li>
+<li><a href="https://win-superb.techidaily.com/leading-application-solutions-how-to-edit-out-individuals-from-pictures-effortlessly/"><u>Leading Application Solutions: How to Edit Out Individuals From Pictures Effortlessly</u></a></li>
+<li><a href="https://win-superb.techidaily.com/quick-guide-effortlessly-move-your-favorite-songs-from-android-phones-to-iphones/"><u>Quick Guide: Effortlessly Move Your Favorite Songs From Android Phones to iPhones</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-no-audio-output-devices-found-on-windows-11/"><u>Solving 'No Audio Output Devices Found' On Windows 11</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-transforming-wav-files-into-high-quality-m4a-audio/"><u>Step-by-Step Guide: Transforming WAV Files Into High-Quality M4A Audio</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-instructions-unlocking-pdf-files-securely-via-apowerpdf-software/"><u>Step-by-Step Instructions: Unlocking PDF Files Securely via ApowerPDF Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-5-ultimate-tools-for-effortless-photo-watermark-elimination/"><u>Top 5 Ultimate Tools for Effortless Photo Watermark Elimination</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-full-potential-of-snapshots-on-iphones-for-2024/"><u>Unlock the Full Potential of Snapshots on iPhones for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/usbwindows-115/"><u>USBデバイスを使ったWindows 11インストールで遭遇した課題を解消する5手法</u></a></li>
 </ul></div>
 

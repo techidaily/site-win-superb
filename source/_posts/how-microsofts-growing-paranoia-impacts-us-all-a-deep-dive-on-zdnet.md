@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's Growing Paranoia Impacts Us All - A Deep Dive on ZDNet
-date: 2024-10-01T17:06:28.567Z
-updated: 2024-10-08T17:33:40.189Z
+date: 2024-10-07T16:19:17.942Z
+updated: 2024-10-14T16:10:48.335Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,14 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-freely-accessible-platforms-for-professional-photography-edits-for-2024/"><u>[New] Freely Accessible Platforms for Professional Photography Edits for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-asus-rog-phone-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Asus ROG Phone 8 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/beyond-google-workspace-discover-the-best-android-based-office-suite-options-for-ultimate-productivity-indepth-analysis/"><u>Beyond Google Workspace: Discover the Best Android-Based Office Suite Options for Ultimate Productivity | InDepth Analysis</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-huawei-nova-y71-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Huawei Nova Y71 Phone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/introducing-the-revolutionary-microsoft-surface-pro-10-and-laptop-5-cutting-edge-ai-enhancements-revealed-zdnet-exclusive/"><u>Introducing the Revolutionary Microsoft Surface Pro 10 & Laptop #5: Cutting-Edge AI Enhancements Revealed - ZDNet Exclusive</u></a></li>
-<li><a href="https://win-superb.techidaily.com/masterclass-on-microsoft-exchange-breach-critical-facts-revealed-by-zdnets-investigation/"><u>Masterclass on Microsoft Exchange Breach: Critical Facts Revealed by ZDNet's Investigation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-ns-user-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest N's User Profile</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-ranking-windows-laptop-picks-thoroughly-evaluated-by-tech-experts-zdnet/"><u>Top-Ranking Windows Laptop Picks: Thoroughly Evaluated by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/troubleshooting-lag-between-sound-and-picture-in-mpeg-4-movies/"><u>Troubleshooting Lag Between Sound and Picture in MPEG-4 Movies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubes-eco-film-hub-dive-into-green-screen-creativity/"><u>[New] Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/10-instagram-video-editing-app-marketers-must-know/"><u>10 Instagram Video Editing App Marketers Must Know</u></a></li>
+<li><a href="https://win-superb.techidaily.com/discover-exceptional-replacements-for-mp3juices-on-windows-and-mac-os-with-allavsofts-solutions/"><u>Discover Exceptional Replacements for MP3Juices on Windows & Mac OS with Allavsoft's Solutions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/download-vidspot-content-in-various-formats-simple-guide-to-saving-mp4-mov-avi-files-from-vidspot/"><u>Download Vidspot Content in Various Formats - Simple Guide to Saving MP4, MOV, AVI Files From Vidspot</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/fact-vs-fiction-decoding-the-world-of-instagram-reels/"><u>Fact vs Fiction Decoding the World of Instagram Reels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-eac-launch-error-step-by-step-guide-when-easy-anti-cheat-missing/"><u>Fixing the 'EAC Launch Error' - Step by Step Guide When Easy Anti-Cheat Missing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-tunes-unleashed-effortless-downloads-of-songs-from-audiomack-in-high-quality-mp3-and-wav-formats/"><u>Free Tunes Unleashed - Effortless Downloads of Songs From AudioMack in High-Quality MP3 and WAV Formats</u></a></li>
+<li><a href="https://win-superb.techidaily.com/get-full-movie-of-deadpool-gratis-in-high-quality-mp4-format-from-top-downloads-and-seeding-community/"><u>Get 'Full Movie of Deadpool' Gratis in High-Quality MP4 Format From Top Downloads and Seeding Community</u></a></li>
+<li><a href="https://win-superb.techidaily.com/guide-to-downloading-brazzers-content-best-methods-and-tips/"><u>Guide to Downloading Brazzers Content - Best Methods and Tips</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-aol-videos-in-mp4-avi-and-mov-formats-for-pc-and-mac-users/"><u>How to Save Your Favorite AOL Videos in MP4, AVI, and MOV Formats - For PC & Mac Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-unwanted-screenshots-on-windows-10-devices/"><u>How to Stop Unwanted Screenshots on Windows 10 Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-closer-look-at-earnings-comparing-dailymotion-and-youtube-revenues/"><u>In 2024, A Closer Look at Earnings Comparing Dailymotion and YouTube Revenues</u></a></li>
+<li><a href="https://facebook.techidaily.com/notification-service-identifying-disappeared-messages-on-messenger/"><u>Notification Service: Identifying Disappeared Messages on Messenger</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/revolutionize-your-social-media-strategy-essential-instagram-analytics-platforms/"><u>Revolutionize Your Social Media Strategy Essential Instagram Analytics Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-videos-into-different-formats-for-specific-needs/"><u>Step-by-Step Guide: Converting Videos Into Different Formats for Specific Needs</u></a></li>
 </ul></div>
 

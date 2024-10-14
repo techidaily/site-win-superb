@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Picking Colors Using PowerToys' Color Picker - A Comprehensive Guide by ZDNet
-date: 2024-10-07T17:05:29.417Z
-updated: 2024-10-08T16:00:09.272Z
+date: 2024-10-08T16:10:38.855Z
+updated: 2024-10-14T16:00:57.694Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-chromatic-shift-strategies-for-skilled-alteration/"><u>[New] Chromatic Shift Strategies for Skilled Alteration</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ime-warp-in-media-youtube-content-upside-down-for-2024/"><u>[New] Time Warp in Media YouTube Content Upside Down for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>2024 Approved How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-long-exposure-iphone-shots-step-by-step-guide/"><u>2024 Approved Long-Exposure iPhone Shots Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027226267-2024/"><u>新しい拡張子に変更可能な音楽・ビデオフリーソフトウェアのお勧め – 2024年用</u></a></li>
-<li><a href="https://win-superb.techidaily.com/convert-and-preserve-quality-download-videos-in-mp4movavi-format-from-mediasite-platforms-using-our-tool/"><u>Convert and Preserve Quality: Download Videos in MP4/MOV/AVI Format From Mediasite Platforms Using Our Tool.</u></a></li>
-<li><a href="https://win-superb.techidaily.com/converting-your-favorite-ximalaya-podcasts-into-high-quality-mp3-files-a-guide-for-windows-and-macos/"><u>Converting Your Favorite Ximalaya Podcasts Into High-Quality MP3 Files: A Guide for Windows & macOS</u></a></li>
-<li><a href="https://win-superb.techidaily.com/download-high-quality-goo-videos-in-mp4movavi-formats-using-easy-techniques/"><u>Download High-Quality Goo Videos in MP4/MOV/AVI Formats Using Easy Techniques</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-steps-to-save-ndr-broadcasts-from-any-computer-including-mac-and-pc/"><u>Easy Steps to Save NDR Broadcasts From Any Computer, Including Mac & PC</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-video-downloader-guide-how-to-save-clips-from-top-sites-on-your-pc-or-mac/"><u>Easy Video Downloader Guide: How to Save Clips From Top Sites on Your PC or Mac</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-ways-to-save-motorsport-showdown-footage-on-your-computer-macwindows/"><u>Easy Ways to Save Motorsport Showdown Footage on Your Computer (Mac/Windows)</u></a></li>
-<li><a href="https://win-superb.techidaily.com/efficient-strategies-for-downloading-educational-content-from-video-teleconferencing-platforms/"><u>Efficient Strategies for Downloading Educational Content From Video Teleconferencing Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-crackling-headphones-instantly-simple-troubleshooting-guide/"><u>Fix Your Crackling Headphones Instantly: Simple Troubleshooting Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/free-download-of-rammsteins-wustenfeld-in-multiple-formats-including-mp4-mp3-and-more/"><u>Free Download of Rammstein's 'Wüstenfeld' In Multiple Formats Including MP4, MP3 & More</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-mastering-youtube-partnership-reaching-10k-views-quickly/"><u>In 2024, Mastering YouTube Partnership Reaching 10K Views Quickly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-scenarios-in-eight-movie-types/"><u>In 2024, Premiere Scenarios in Eight Movie Types</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-effortlessly-removing-white-backgrounds-in-your-photos/"><u>Step-by-Step Guide: Effortlessly Removing White Backgrounds in Your Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-adventures-await-top-10-innovative-pc-vr-streamers-reviewed/"><u>[New] Immersive Adventures Await Top 10 Innovative PC VR Streamers Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/becoming-an-active-participant-in-tiktok-lives/"><u>Becoming an Active Participant in TikTok Lives</u></a></li>
+<li><a href="https://win-superb.techidaily.com/crafting-your-custom-icon-with-ease-discover-tips-for-utilizing-flipbuildercom/"><u>Crafting Your Custom Icon with Ease - Discover Tips for Utilizing FlipBuilder.com</u></a></li>
+<li><a href="https://win-superb.techidaily.com/duration-of-flippdf-pros-activation-key-period-find-out-now/"><u>Duration of FlipPDF Pro's Activation Key Period - Find Out Now!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/error-404-unable-to-locate-pages-understanding-missing-content-alerts/"><u>Error 404: Unable to Locate Pages – Understanding Missing Content Alerts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/exploring-file-conversion-possibilities-in-flip-office-find-out-what-you-can-transform/"><u>Exploring File Conversion Possibilities in Flip Office - Find Out What You Can Transform!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-can-i-embed-swf-videos-in-your-platforms-playlists-learn-with-flipbuildercom/"><u>How Can I Embed SWF Videos in Your Platform's Playlists - Learn with [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-design-a-sturdy-hardcover-flipbook-using-flipbuilder-a-comprehensive-guide/"><u>How to Design a Sturdy Hardcover Flipbook Using FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-display-an-interactive-corners-flippable-ebook-on-your-website-using-flipbuilder-make-reading-engaging/"><u>How to Display an Interactive Corners-Flippable Ebook on Your Website Using FlipBuilder - Make Reading Engaging!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 8</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-countdown-configuration-guide-for-obs-enthusiasts/"><u>In 2024, Countdown Configuration Guide for OBS Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extended-appraisal-hero4-black-performance/"><u>In 2024, Extended Appraisal Hero4 Black Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-exercise-tracking-and-music-streaming-discover-the-garmin-vivoactive-3/"><u>The Perfect Blend of Exercise Tracking & Music Streaming: Discover the Garmin Vivoactive 3!</u></a></li>
 </ul></div>
 
