@@ -1,7 +1,7 @@
 ---
 title: "Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online"
-date: 2024-10-12T17:52:14.017Z
-updated: 2024-10-19T18:13:46.467Z
+date: 2024-10-21T18:53:55.810Z
+updated: 2024-10-26T04:25:36.906Z
 tags:
   - product
   - antivirus
@@ -93,6 +93,13 @@ So, what mistakes are people doing while choosing a password? Let us find out.
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Using Personal Information in Passwords**
 
 While preparing a password, what most people do is they simply use their personal pieces of information such as date of birth, mother’s name, father’s name, pet’s name, favorite celebrity, favorite sports, favorite sports team, and more such. Some people even keep their crush name as a password and append it with **ilove**.
@@ -109,29 +116,15 @@ Another common mistake made by most people is using the same password everywhere
 
 People remember this. Passwords are meant just for your eyes. They are not for sharing even with your closest person. Besides, it is not always about faith. If the person with whom you have shared your password, have stored it in a system that got hacked, then your password will also get into the hands of the hacker. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Password Management DO’s and DON’Ts
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips to Improve your Password Security
@@ -139,10 +132,10 @@ People remember this. Passwords are meant just for your eyes. They are not for s
 Here are some tips for creating a secured password
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **1\. Use a Robust Password Manager**
@@ -177,6 +170,13 @@ A unique password is the one that you only use for one account and do not repeat
 
 The most common 4 digit passwords are **1234, 1111, and 0000\.** Another popular 4 digit is the combination of birth date and birth month. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -202,17 +202,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms/"><u>[New] Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-preserving-every-moment-of-your-switch-gaming/"><u>[New] Preserving Every Moment of Your Switch Gaming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-video-conference-quality-a-guide-to-using-zoom-and-skype/"><u>Boosting Video Conference Quality A Guide to Using ZOOM & SKYPE</u></a></li>
-<li><a href="https://win-superb.techidaily.com/herstellen-van-geen-google-docs-de-top-4-strategieen-voor-verwijdering/"><u>Herstellen Van Geen Google Docs: De Top 4 Strategieën Voor Verwijdering</u></a></li>
-<li><a href="https://win-superb.techidaily.com/meilleur-logiciel-gratuit-pour-la-synchronisation-de-fichiers-sur-windows-10-tops-list/"><u>Meilleur Logiciel Gratuit Pour La Synchronisation De Fichiers Sur Windows 10: Tops List</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-no-compatible-driver-detected-for-better-gameplay-in-rainbow-six-extraction/"><u>Overcoming 'No Compatible Driver Detected' For Better Gameplay in Rainbow Six Extraction</u></a></li>
-<li><a href="https://win-superb.techidaily.com/partitionsanderung-ohne-neuformatierung-mit-myrecover-schutz-deiner-daten/"><u>Partitionsänderung Ohne Neuformatierung Mit MyRecover – Schutz Deiner Daten</u></a></li>
-<li><a href="https://win-superb.techidaily.com/self-service-installation-of-unconfigured-servers/"><u>Self-Service Installation of Unconfigured Servers</u></a></li>
-<li><a href="https://win-superb.techidaily.com/simple-methods-for-automating-windows-10-data-transfer-to-western-digitals-wd-my-cloud/"><u>Simple Methods for Automating Windows 10 Data Transfer to Western Digital's WD My Cloud</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-a-complete-guide-to-fixing-windows-update-error-code-0x8024402c/"><u>Solving the Puzzle: A Complete Guide to Fixing Windows Update Error Code 0X8024402C</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2013-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2013 documents online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-10-secrets-for-recording-sports-events-live-online/"><u>Top 10 Secrets for Recording Sports Events Live Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-essentials-of-film-production-for-youtube-originals/"><u>[New] 2024 Approved The Essentials of Film Production for YouTube Originals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfecting-the-art-of-capturing-spoken-words-digitally-for-2024/"><u>[New] Perfecting the Art of Capturing Spoken Words Digitally for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-your-first-step-on-twitter-creating-an-account/"><u>[Updated] 2024 Approved Your First Step on Twitter Creating an Account</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-your-favorite-tunes-the-best-spotify-playlists-tools-for-youtube/"><u>[Updated] Transforming Your Favorite Tunes The Best Spotify Playlists Tools for YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287917021-winx-dvd-ripper-platinum/"><u>【公式】WinX DVD Ripper Platinum - 信頼できるセキュリティが保証されたオンライン販売サイト</u></a></li>
+<li><a href="https://win-superb.techidaily.com/aol-mail-effektiv-nutzen-losungen-und-ratschlage-zur-verbesserung-ihrer-e-mail-erfahrung/"><u>AOL Mail Effektiv Nutzen: Lösungen Und Ratschläge Zur Verbesserung Ihrer E-Mail-Erfahrung</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/come-scaricare-e-guardare-film-in-dvd-utilizzando-il-cddvd-decrittore-gratuito/"><u>Come Scaricare E Guardare Film in DVD Utilizzando Il CD/DVD Decrittore Gratuito</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-downloading-logitech-g402-headset-drivers-and-essential-programs/"><u>Easy Guide: Downloading Logitech G402 Headset Drivers & Essential Programs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://win-superb.techidaily.com/starting-over-solving-the-boot-device-missing-dilemma-for-hp-all-in-one-pcs/"><u>Starting Over? Solving the 'Boot Device Missing' Dilemma for HP All-in-One PCs</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transfert-facile-des-sessions-de-windows-veut-aussi-se-reposer-et-decompresser-en-tant-quassistant-je-suis-la-pour-vous-aider-a-trouver-du-contenu-captivant270/"><u>Transfert Facile Des Sessions De Windows Veut Aussi Se Reposer Et Décompresser. En Tant Qu’assistant, Je Suis Là Pour Vous Aider À Trouver Du Contenu Captivant Que Vous Pouvez Lire Pendant Vos Moments De Détente !</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-rpc-server-unreachable-on-your-pc/"><u>Ultimate Guide: Resolving 'RPC Server Unreachable' On Your PC</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728473585563-windows-10-pc/"><u>クラッシュしたばかりのWindows 10 PCに効果的なリカバリ方法</u></a></li>
 </ul></div>
 
