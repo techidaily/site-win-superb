@@ -1,7 +1,7 @@
 ---
 title: "Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online"
-date: 2024-10-25T19:47:16.302Z
-updated: 2024-10-31T22:25:20.340Z
+date: 2024-11-02T20:14:10.242Z
+updated: 2024-11-06T18:24:49.508Z
 tags:
   - product
   - antivirus
@@ -89,9 +89,29 @@ As you can compare, the list of 2020 and 2019 is exact. And comparing it with th
 
 So, what mistakes are people doing while choosing a password? Let us find out.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Most Common Password Mistakes
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **1\. Using Personal Information in Passwords**
 
@@ -113,13 +133,6 @@ People remember this. Passwords are meant just for your eyes. They are not for s
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips to Improve your Password Security
 
 Here are some tips for creating a secured password
@@ -130,27 +143,20 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Use Multi-Factor Authentication**
 
 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor%5Fauthentication) is a security measure in which users required to authenticate themselves using more than one credentials. For example, the first step of login could be entering your username and password; the second step could be verification by mobile OTP: and the third step could be verification by fingerprint.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Don’t Create Passwords with Dictionary Words**
 
 Creating a password using dictionary words is a silly practice. While creating a password, always use alphanumeric combinations and also append special characters. Also, try to make it more complicated by the combination of upper and lower case letters.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion: Most Common Passwords
 
@@ -171,16 +177,10 @@ A unique password is the one that you only use for one account and do not repeat
 The most common 4 digit passwords are **1234, 1111, and 0000\.** Another popular 4 digit is the combination of birth date and birth month. 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -208,22 +208,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oneplus-nord-n30-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your OnePlus Nord N30 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-reno-10-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo Reno 10 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/clonezillawindows-11/"><u>Clonezilla環境下でWindows 11が機能しない場合のトラブルシューティング：成功事例</u></a></li>
-<li><a href="https://win-superb.techidaily.com/come-rimuovere-backup-utilizzando-wbadmin-in-server-windows-versione-201620122008/"><u>Come Rimuovere Backup Utilizzando Wbadmin in Server Windows (Versione 2016/2012/2008)</u></a></li>
-<li><a href="https://win-superb.techidaily.com/continuer-a-utiliser-windows-7-en-2024-malgre-larret-du-support-conseils-et-risques/"><u>Continuer À Utiliser Windows #7 en 2024 Malgré L'arrêt Du Support - Conseils Et Risques</u></a></li>
-<li><a href="https://win-superb.techidaily.com/daily-sql-server-automatic-backups-two-effective-methods-revealed/"><u>Daily SQL Server Automatic Backups: Two Effective Methods Revealed</u></a></li>
-<li><a href="https://win-superb.techidaily.com/discover-the-ultimate-list-of-no-cost-data-rescue-tools-for-2/"><u>Discover the Ultimate List of No-Cost Data Rescue Tools for 2</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effortless-syncing-of-outlook-contacts-to-iphones-techniques-for-models-15141312/"><u>Effortless Syncing of Outlook Contacts to iPhones - Techniques for Models 15/14/13/12</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-fix-for-your-bluetooth-speakers-sound-delay-an-effortless-guide/"><u>Fast Fix for Your Bluetooth Speaker's Sound Delay - An Effortless Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-recover-information-is-it-possible-to-restore-an-sd-card-post-format-processing/"><u>How to Recover Information: Is It Possible to Restore an SD Card Post-Format Processing?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-online-beat-finder-no-cash-fb/"><u>In 2024, Online Beat Finder No Cash (FB)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/listen-and-act-complimentary-recognition-software-for-2024/"><u>Listen and Act Complimentary Recognition Software for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-3d-design-to-production-with-chatgpt-insights/"><u>Transforming 3D Design to Production with ChatGPT Insights</u></a></li>
-<li><a href="https://win-superb.techidaily.com/wiederherstellung-verlorener-oder-gespeicherter-spielstande-auf-der-playstation-5-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Verlorener Oder Gespeicherter Spielstände Auf Der PlayStation 5: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-golds-next-phase-as-fundamental-to-game-pass/"><u>Xbox Gold's Next Phase as Fundamental to Game Pass</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-journey-begins-here-vlogging-essentials/"><u>Your Journey Begins Here Vlogging Essentials</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/our-shorts-are-back-on-youtube/"><u>[New] Your Shorts Are Back on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v27-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V27 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easy-solutions-for-restoring-lost-windows-tod-file-information/"><u>Easy Solutions for Restoring Lost Windows TOD File Information</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>In 2024, Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-combat-king-t5-vs-heavy-duty-sjcam-s6-showdown/"><u>In 2024, Combat King T5 Vs Heavy Duty SJCAM S6 Showdown</u></a></li>
+<li><a href="https://win-superb.techidaily.com/logiciels-libres-de-reconstruction-systeme-les-meilleurs-pour-windows-11-10-8-et-7/"><u>Logiciels Libres De Reconstruction Système : Les Meilleurs Pour Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://win-superb.techidaily.com/malvertising-explained-insights-from-malwarefox-specialists/"><u>Malvertising Explained – Insights From MalwareFox Specialists</u></a></li>
+<li><a href="https://win-superb.techidaily.com/malwarefox-insights-expert-tips-and-advice-on-cybersecurity/"><u>MalwareFox Insights: Expert Tips and Advice on Cybersecurity</u></a></li>
+<li><a href="https://win-superb.techidaily.com/samsung-ssdc/"><u>Samsung SSDへのCドライブコピー手順</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209864195-9780692157671-the-way-and-the-spirit/"><u>The Way and the Spirit | Free Book</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-dvd-ripper-software-thats-compatible-with-windows-11/"><u>Top DVD Ripper Software That's Compatible With Windows 11</u></a></li>
 </ul></div>
 
