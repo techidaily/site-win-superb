@@ -1,7 +1,7 @@
 ---
 title: "Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online"
-date: 2024-11-12T04:50:54.770Z
-updated: 2024-11-17T00:20:14.435Z
+date: 2024-11-23T16:09:54.269Z
+updated: 2024-11-26T16:37:48.200Z
 tags:
   - product
   - antivirus
@@ -48,6 +48,10 @@ Let us discuss that!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Most Common Passwords of 2020
 
 Here is the password list of the most common and, subsequently, the least secured passwords of the year 2020\. Check whether your password is also on the list or not.
@@ -93,6 +97,10 @@ So, what mistakes are people doing while choosing a password? Let us find out.
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. Using Personal Information in Passwords**
 
 While preparing a password, what most people do is they simply use their personal pieces of information such as date of birth, mother’s name, father’s name, pet’s name, favorite celebrity, favorite sports, favorite sports team, and more such. Some people even keep their crush name as a password and append it with **ilove**.
@@ -105,44 +113,21 @@ It makes it easy for hackers to crack your password by just knowing a few basic 
 
 Another common mistake made by most people is using the same password everywhere. In order to stay away from the strain of remembering different passwords for different accounts, the maximum number of people choose to keep a single password for all of their accounts. This practice makes them more vulnerable to cyberattacks like hacking. Also, all your accounts will be accessible to hackers if they get hold of even one account’s password. Avoid such practice and at least keep different passwords for your every social media login.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Sharing passwords with others**
 
 People remember this. Passwords are meant just for your eyes. They are not for sharing even with your closest person. Besides, it is not always about faith. If the person with whom you have shared your password, have stored it in a system that got hacked, then your password will also get into the hands of the hacker. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Password Management DO’s and DON’Ts
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips to Improve your Password Security
 
 Here are some tips for creating a secured password
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **1\. Use a Robust Password Manager**
 
@@ -151,10 +136,7 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Use Multi-Factor Authentication**
@@ -164,6 +146,10 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 ### **3\. Don’t Create Passwords with Dictionary Words**
 
 Creating a password using dictionary words is a silly practice. While creating a password, always use alphanumeric combinations and also append special characters. Also, try to make it more complicated by the combination of upper and lower case letters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion: Most Common Passwords
 
@@ -208,20 +194,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[New] 2024 Approved Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-efficient-techniques-to-enhance-engagement-by-uploading-srt-content/"><u>[New] Efficient Techniques to Enhance Engagement by Uploading SRT Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-following-the-future-top-25-social-media-pioneers-on-instagram/"><u>[Updated] Following The Future Top 25 Social Media Pioneers on Instagram</u></a></li>
-<li><a href="https://win-superb.techidaily.com/6yen54plusplus5asx5y6755qe6yg654plusg77ya5l255so5lul5lil5ywn6lk75oml5rov5pc25pwr5qc85byp5yyw56gs56kf5lit55qe54wn54mh/"><u>重現失去的遺珠：使用以下免費手法搶救格式化硬碟中的照片</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/error-webpage-unavailable-resolving-the-page-cannot-be-displayed-issue/"><u>Error: Webpage Unavailable – Resolving the 'Page Cannot Be Displayed' Issue</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-streamlining-your-projects-with-voice-over-integration/"><u>In 2024, Streamlining Your Projects with Voice Over Integration</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-toolwiz-visualize-a-comprehensive-2023-evaluation/"><u>In 2024, Toolwiz Visualize - A Comprehensive 2023 Evaluation</u></a></li>
-<li><a href="https://win-superb.techidaily.com/m2ssdwindows-11/"><u>M.^2SSDがWindows 11で無反応になった場合のデータ安全取り出し方法</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-migrating-your-data-preserving-and-reviving-information-between-windows-7-and-windows-nten/"><u>Step-by-Step Guide to Migrating Your Data: Preserving and Reviving Information Between Windows 7 and Windows nTen</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/streamlining-user-agreements-and-policy/"><u>Streamlining User Agreements & Policy</u></a></li>
-<li><a href="https://win-superb.techidaily.com/trois-techniques-rapides-pour-deplacer-votre-systeme-dexploitation-windows-7-vers-un-nouveau-disque-dur/"><u>Trois Techniques Rapides Pour Déplacer Votre Système D'Exploitation Windows 7 Vers Un Nouveau Disque Dur</u></a></li>
-<li><a href="https://win-superb.techidaily.com/trouble-with-snipping-tool-discover-18-essential-fixes-and-tips-for-immediate-relief/"><u>Trouble with Snipping Tool? Discover 18 Essential Fixes & Tips for Immediate Relief!</u></a></li>
-<li><a href="https://win-superb.techidaily.com/two-methods-to-perform-system-image-backups-on-windows-server-2011/"><u>Two Methods to Perform System Image Backups on Windows Server 2011</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44ot44oh44kq44ks5lia5bqm44gr44gp44km44gg44gr5yq5546h6imv44gp5asj5oplusb44gn44gn44gplus44gz44gl77yf/"><u>ビデオを一度にどれだけ効率良く変換できますか？</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-focusing-on-content-reach-sharing-igtv-across-platforms/"><u>[New] Focusing on Content Reach Sharing IGTV Across Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-filters-a-2023-guide-to-enhanced-photography/"><u>[New] In 2024, Instagram Filters A 2023 Guide to Enhanced Photography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>2024 Approved Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728493407657-windows-10114/"><u>在Windows 10/11上快速找回已销毁照片：全面4种解决方法指南</u></a></li>
+<li><a href="https://win-superb.techidaily.com/erase-data-like-a-pro-complete-factory-reset-tutorial-for-microsoft-surface-pro-series/"><u>Erase Data Like a Pro: Complete Factory Reset Tutorial for Microsoft Surface Pro Series</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-enhanced-productivity-with-msi-pro-mp161-e2-the-ultimate-portable-monitor-solution/"><u>Explore Enhanced Productivity with MSI PRO MP161 E2 – The Ultimate Portable Monitor Solution</u></a></li>
+<li><a href="https://win-superb.techidaily.com/guia-completa-4-estrategias-faciles-para-rescatar-una-unidad-extraible-desaparecida-en-windows-11/"><u>Guía Completa: 4 Estrategias Fáciles Para Rescatar Una Unidad Extraíble Desaparecida en Windows 11</u></a></li>
+<li><a href="https://win-superb.techidaily.com/hyper-v-vm-memory-overflow-now-addressed-and-rectified/"><u>Hyper-V VM Memory Overflow - Now Addressed and Rectified</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-update-revolutionizes-smart-home-control-a-game-changer-revealed-by-zdnet/"><u>IOS 18 Update Revolutionizes Smart Home Control - A Game Changer Revealed by ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/protecting-your-digital-world-a-guide-to-setting-up-automatic-windows-os-backups-on-shutdown-for-win111087-systems/"><u>Protecting Your Digital World: A Guide to Setting Up Automatic Windows OS Backups on Shutdown for Win11/10/8/7 Systems</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/recover-missing-desktop-files-on-windows-1nk-7-effective-solutions-post-update/"><u>Recover Missing Desktop Files on Windows 1Nk | 7 Effective Solutions Post-Update</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/sicherung-ihres-windows-10-betriebs-kompakte-anleitungen-fur-einen-zuverlassigen-systemschutz/"><u>Sicherung Ihres Windows 10 Betriebs - Kompakte Anleitungen Für Einen Zuverlässigen Systemschutz</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-to-managing-your-sd-card-deletion-formatting-and-secure-erasure-explained/"><u>Ultimate Guide to Managing Your SD Card: Deletion, Formatting & Secure Erasure Explained</u></a></li>
+<li><a href="https://win-superb.techidaily.com/youtube-ad-blocking-mastery-using-malwarefox-a-comprehensive-tutorial-to-enjoy-uninterrupted-videos/"><u>YouTube Ad-Blocking Mastery Using MalwareFox: A Comprehensive Tutorial to Enjoy Uninterrupted Videos</u></a></li>
 </ul></div>
 
