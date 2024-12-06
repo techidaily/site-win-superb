@@ -1,7 +1,7 @@
 ---
 title: Karaoki's New Beta Release! Get Your Hands on Version 0.8.5895 Today
-date: 2024-11-25T16:22:00.217Z
-updated: 2024-11-26T16:24:57.061Z
+date: 2024-12-04T19:21:01.961Z
+updated: 2024-12-05T23:26:48.922Z
 tags:
   - product
 categories:
@@ -42,7 +42,7 @@ If you experience any issues with the upgraded search system you can switch back
 _**We want your feedback!** Please join in the beta discussion [here on the PCDJ user forum](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,21 +64,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/02/karaoki085895-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-picsart-mastery-in-depth-look-at-the-2024-version/"><u>[New] PicsArt Mastery In-Depth Look at the 2024 Version</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-still-life-to-stirring-storytelling/"><u>[Updated] From Still Life to Stirring Storytelling</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-freeze-frame-perfection-the-best-9-apps-to-record-and-save-animation-on-pc/"><u>[Updated] In 2024, Freeze Frame Perfection The Best 9 Apps to Record and Save Animation on PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-integrating-masks-and-filters-to-improve-google-meet-engagement/"><u>2024 Approved Integrating Masks and Filters to Improve Google Meet Engagement</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v30-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V30 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/decouvrez-rapidement-vos-fichiers-telechargees-sur-ordinateur-et-mobile-avec-ces-6-astuces/"><u>Découvrez Rapidement Vos Fichiers Téléchargeés Sur Ordinateur Et Mobile Avec Ces 6 Astuces</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effortless-guide-to-retrieving-lost-or-vanished-documents-on-windows-10/"><u>Effortless Guide to Retrieving Lost or Vanished Documents on Windows 10</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effortless-guide-overcome-windows-server-backup-access-issues-without-a-hitch/"><u>Effortless Guide: Overcome Windows Server Backup Access Issues Without a Hitch</u></a></li>
-<li><a href="https://win-superb.techidaily.com/google5/"><u>Googleで見つける方法：エクスプローラから消えたデータを確実に元に戻すためのベスト5技術</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuit-konverteren-van-tod-naar-mpeg-online-movavi/"><u>Gratuit Konverteren Van TOD Naar MPEG Online - Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-sony-xperia-5-v-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Sony Xperia 5 V Screen | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/lenovo-4/"><u>Lenovoノートコンピューターを最も安全に保護: 4つのステップガイド</u></a></li>
-<li><a href="https://win-superb.techidaily.com/semplice-sincronizzazione-cartelle-windows-11-passaggi-guida/"><u>Semplice Sincronizzazione Cartelle Windows 11 - Passaggi Guida</u></a></li>
-<li><a href="https://win-superb.techidaily.com/sicherungspasswort-lockout-in-windows-11-entsperren-und-zurucksetzen-auf-einfache-weise-losungen-erklart/"><u>Sicherungspasswort-Lockout in Windows 11: Entsperren Und Zurücksetzen Auf Einfache Weise - Lösungen Erklärt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-strategies-to-defeat-the-closed-terminal-conundrum/"><u>Top Strategies to Defeat the Closed Terminal Conundrum</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/wiederherstellung-von-mbr-partitionstabellen-wie-man-verlorene-festplattenpartitionen-wiederherstellt/"><u>Wiederherstellung Von MBR-Partitionstabellen: Wie Man Verlorene Festplattenpartitionen Wiederherstellt</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-images-10-instagram-enhancing-apps/"><u>[New] In 2024, Mastering Images 10 Instagram Enhancing Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-creating-compelling-channel-names-simplified/"><u>2024 Approved Creating Compelling Channel Names Simplified</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/4k-monitors-showdown-top-10-picks-for-2024/"><u>4K Monitors Showdown Top 10 Picks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/7-best-no-cost-dvd-players-of-202-recommended-software-list/"><u>7 Best No-Cost DVD Players of 202^! Recommended Software List</u></a></li>
+<li><a href="https://win-superb.techidaily.com/adjusting-display-specifications-a-comprehensive-guide-by-yl-computing/"><u>Adjusting Display Specifications: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-your-favorite-gaming-buddy-for-rpi-batocera-or-retropie/"><u>Deciding Your Favorite Gaming Buddy for RPi: Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/going-deeper-how-accessory-improves-play/"><u>Going Deeper: How Accessory Improves Play</u></a></li>
+<li><a href="https://win-superb.techidaily.com/identifying-and-fixing-graphics-card-malfunctions-a-guide-from-yl-software-experts/"><u>Identifying & Fixing Graphics Card Malfunctions: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/mastering-mixer-efficiency-on-windows-nt-expert-tips-and-tricks-for-pcdj-users/"><u>Mastering Mixer Efficiency on Windows nT - Expert Tips and Tricks for PCDJ Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-videopad-review-a-detailed-look-at-its-video-editing-capabilities/"><u>New In 2024, Videopad Review A Detailed Look at Its Video Editing Capabilities</u></a></li>
+<li><a href="https://win-superb.techidaily.com/sound-card-fixes-simplified-expert-tips-for-adjusting-settings-and-resolving-audio-issues-home-office-guru/"><u>Sound Card Fixes Simplified: Expert Tips for Adjusting Settings & Resolving Audio Issues - Home Office Guru</u></a></li>
+<li><a href="https://win-superb.techidaily.com/unraveling-the-top-reasons-behind-hard-drive-issues-insights-from-yl-computing/"><u>Unraveling the Top Reasons Behind Hard Drive Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/vlogging-through-verbiage-a-2023-guide-to-twitter-threads-for-2024/"><u>Vlogging Through Verbiage - A 2023 Guide to Twitter Threads for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a79-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A79 5G Device</u></a></li>
 </ul></div>
 

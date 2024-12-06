@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at 2022: A Comprehensive Yearly Recap with PCDJ"
-date: 2024-11-22T17:03:12.421Z
-updated: 2024-11-26T16:40:12.513Z
+date: 2024-12-02T00:38:45.235Z
+updated: 2024-12-06T09:21:39.993Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As we conclude year 23 for PCDJ, and as we always like to do at years’ end, he
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2022 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2022 soon to be history, we’re exited to build on momentum in 2023\. New 
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2023\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,24 +71,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/12/2022-year-in-review.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-from-sound-to-storage-logging-online-broadcasts-efficiently/"><u>[Updated] 2024 Approved From Sound to Storage Logging Online Broadcasts Efficiently</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series-for-2024/"><u>[Updated] The Power of Pausing Incorporating Effective Chapters in Your YouTube Series for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1-secure-and-protect-your-digital-assets-using-synology-backup-on-linux/"><u>1. Secure and Protect Your Digital Assets Using Synology Backup on Linux</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prodigious-cameras-for-slow-motion-delight/"><u>2024 Approved Prodigious Cameras for Slow-Motion Delight</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-understanding-the-mechanics-of-vsdc-vs-leading-alternatives/"><u>2024 Approved Understanding the Mechanics of VSDC vs Leading Alternatives</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ps43/"><u>如何迅速修正PS4丟失存檔狀況：3項主要解決方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/architectural-weaknesses-exposed-how-ghostwrite-takes-advantage-of-risc-v-for-root-entry/"><u>Architectural Weaknesses Exposed: How GhostWrite Takes Advantage of RISC-V for Root Entry</u></a></li>
-<li><a href="https://win-superb.techidaily.com/comment-utiliser-hp-secure-erase-et-quels-outils-de-nettoyage-alternatifs/"><u>Comment Utiliser HP Secure Erase Et Quels Outils De Nettoyage Alternatifs?</u></a></li>
-<li><a href="https://win-superb.techidaily.com/decouvrez-rapidement-vos-fichiers-telechargees-sur-ordinateur-et-mobile-avec-ces-6-astuces/"><u>Découvrez Rapidement Vos Fichiers Téléchargeés Sur Ordinateur Et Mobile Avec Ces 6 Astuces</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/digital-customer-care-services-for-winx-media-format-transformation-applications/"><u>Digital Customer Care Services for WinX Media Format Transformation Applications</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-steps-for-retrieving-removed-images-in-windows-11-system/"><u>Easy Steps for Retrieving Removed Images in Windows 11 System</u></a></li>
-<li><a href="https://win-superb.techidaily.com/enregistrez-votre-synology-nas-sur-un-hdd-externe-gratuitement-demonstration-simple/"><u>Enregistrez Votre Synology NAS Sur Un HDD Externe Gratuitement - Démonstration Simple</u></a></li>
-<li><a href="https://win-superb.techidaily.com/externe-festplatten-dateioffnungs-losung-erfahre-eine-schnelle-performance/"><u>Externe Festplatten-Dateiöffnungs-Lösung – Erfahre Eine Schnelle Performance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-professional-thumbnail-tactics-dos-and-donts-guidebook/"><u>In 2024, Professional Thumbnail Tactics Do's and Don'ts Guidebook</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/les-fonctions-principales-de-la-sauvegarde-vss-creation-et-mise-en-place-effective/"><u>Les Fonctions Principales De La Sauvegarde VSS : Création Et Mise en Place Effective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-digital-preservation-backing-up-your-epic-games-data/"><u>The Art of Digital Preservation: Backing Up Your Epic Games Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-teslas-track-mode-functionality-and-operating-mechanics-explained/"><u>Understanding Tesla's Track Mode: Functionality and Operating Mechanics Explained</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728492665649-windows-7-windows-10/"><u>Windows 7からの安全な移行: Windows 10アップグレード直前で重要なバックアップ手順</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-finding-your-niche-a-guide-for-career-development-in-designing-for-2024/"><u>[New] Finding Your Niche A Guide for Career Development in Designing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-windows-10s-prime-video-grabbing-solutions-ranked-for-2024/"><u>[New] Windows 10'S Prime Video Grabbing Solutions Ranked for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-extract-and-save-video-previews-free-and-easy/"><u>[Updated] 2024 Approved Extract and Save Video Previews, Free & Easy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-perfecting-aerial-images-key-factors-in-picking-a-gimbal/"><u>[Updated] Perfecting Aerial Images Key Factors in Picking a Gimbal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-down-the-elements-of-a-youtube-shorts-template-for-2024/"><u>Breaking Down the Elements of a YouTube Shorts Template for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-on-a-tablet-how-to-determine-if-you-should-go-with-amazon-fire-or-samsung/"><u>Deciding on a Tablet: How to Determine if You Should Go with Amazon Fire or Samsung</u></a></li>
+<li><a href="https://win-superb.techidaily.com/expert-tips-for-diagnosing-and-fixing-windows-videocard-glitches-at-home-yl-software-insights/"><u>Expert Tips for Diagnosing and Fixing Windows Videocard Glitches at Home - YL Software Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-google-pixel-8-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Google Pixel 8 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-fix-an-unrecognized-scanner-issue-on-windows-expert-tips-from-yl-computing/"><u>How to Fix an Unrecognized Scanner Issue on Windows: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-sony-xperia-1-v-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Sony Xperia 1 V to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/nayib-bukele-pro-bitcoin-head-of-state-commences-efforts-towards-securing-salvadoran-presidency-once-more-expert-analysis-from-yl-software-solutions/"><u>Nayib Bukele, Pro-Bitcoin Head of State: Commences Efforts Towards Securing Salvadoran Presidency Once More – Expert Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/premium-hd-wallpaper-gallery-one-punch-man-series-curated-and-distributed-by-yl-software-solutions/"><u>Premium HD Wallpaper Gallery - One Punch Man Series, Curated & Distributed by YL Software Solutions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-updating-your-graphics-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Drivers - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/steps-for-marking-self-as-safe-on-fb/"><u>Steps for Marking Self as Safe on FB</u></a></li>
+<li><a href="https://win-superb.techidaily.com/tang-dynastys-growth-tracing-the-expansion-of-chinas-historical-influence-insights-by-yl-computing/"><u>Tang Dynasty's Growth: Tracing the Expansion of China’s Historical Influence - Insights by YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/the-ultimate-guide-to-hard-drive-defragmentation-with-expert-advice-from-yl-software/"><u>The Ultimate Guide to Hard Drive Defragmentation with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-software-guidance-solving-paper-jam-issues-in-your-printer/"><u>YL Software Guidance: Solving Paper Jam Issues in Your Printer</u></a></li>
 </ul></div>
 

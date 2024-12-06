@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Restoring Lost Documents on Windows 11, 7, or 8 Using IFind Data Recovery"
-date: 2024-11-23T16:51:57.679Z
-updated: 2024-11-26T16:16:11.043Z
+date: 2024-12-04T21:13:22.843Z
+updated: 2024-12-05T20:20:14.593Z
 tags:
   - product
 categories:
@@ -44,6 +44,10 @@ Always check the Recycle Bin first before you empty it! If you just press the De
 
 ![Restore deleted files in Recycle Bin](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/Recycle-Bin-Restore.jpg?resize=844%2C478&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Notice:
 
 if you can’t find the icon, use Win+R to run and put “shell:RecycleBinFolder” then click Enter on your keyboard, that’s it!
@@ -51,7 +55,7 @@ if you can’t find the icon, use Win+R to run and put “shell:RecycleBinFolder
 ![how to run recycle bin in cmd](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/shell-recyclebinfolder.jpg?resize=413%2C213&ssl=1 "shell-recyclebinfolder")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips:
@@ -60,7 +64,15 @@ A, Using Delete without Shift, you may have one more chance to save your files.
 
 B, The operation of the “Empty Recycle Bin” must be treated carefully!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. How to Restore Deleted Files With Previous Versions Tabs in Windows PCs?**
 
@@ -79,25 +91,17 @@ Step 1: Click start and input “File History”, you will see the result and cl
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/win11.png?resize=354%2C527&ssl=1 "win11")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Then you can find all the files that have recently been stored, choose the data you need to recover, and hit the GRN button below to restore.
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/win10-3.png?resize=1100%2C639&ssl=1 "win10-3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips:
 
 Make sure you have Set up a drive for File History or Backup, so Windows can save your files automatically. Check here for more details at Microsoft support.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **File Recovery for Windows 8/8.1 Users**
 
@@ -106,7 +110,7 @@ As we mentioned, there is no previous versions tab in win8, however, you can use
 ![shadowexplorer](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/manual_4.png?resize=640%2C480&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -120,10 +124,6 @@ Step 1: Right-click the file you want to recover (For Deleted files, just right-
 Step 2: Choose the file and version you want to recover, and click Restore.
 
 ![windows 7 restore files](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/win7restorefile.jpg?resize=783%2C565&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Double-check the version and click Restore again, you will get the deleted file back now.
 
@@ -149,21 +149,21 @@ For those still having trouble restoring deleted files, try iFinD Ddata Recovery
 
 30 Days Money Back
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step One: Quick scan or deep scan**
 
 The file recovery software provides 2 options for the scan. One is the Quick Mode and another is the Deep Mode.
 
 ![scan lost partition](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/Lost2-1.png?resize=960%2C600&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step Two: Choose deleted files from the final scan list**
 
@@ -176,12 +176,16 @@ The software allows you to preview the file before recovering. In this way, you 
 ![preview and recover the found files](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/Lost3-1.png?resize=960%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step 4: Recover and open the recovered files**
 
 Now click the Recover button to complete the final step. You’ll get your files back with no quality loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips:
 
@@ -222,10 +226,6 @@ Yes, sure. You can use iFinD Data Recovery or iFinD Photo Recovery to [recover y
 30 Days Money Back
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
@@ -282,20 +282,18 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-tickletunes-recommendations-best-online-funnier-downloads/"><u>[New] 2024 Approved TickleTunes Recommendations Best Online Funnier Downloads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-waterproof-gopro-filters-for-undersea-film/"><u>[Updated] Best Waterproof GoPro Filters for Undersea Film</u></a></li>
-<li><a href="https://win-superb.techidaily.com/complete-guide-accessing-your-archived-images-on-google/"><u>Complete Guide: Accessing Your Archived Images on Google</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-redmi-k70-pro-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi K70 Pro support MKV video files?</u></a></li>
-<li><a href="https://win-superb.techidaily.com/eliminating-redundant-images-on-your-iphone-with-ios-versions-16-17-and-18/"><u>Eliminating Redundant Images on Your iPhone with iOS Versions 16, 17 & 18</u></a></li>
-<li><a href="https://windows11.techidaily.com/establishing-controls-over-insider-build-exposure/"><u>Establishing Controls Over Insider Build Exposure</u></a></li>
-<li><a href="https://win-superb.techidaily.com/festplattendatenspeicherwiederherstellung-effiziente-methoden-und-tipps-fur-ihr-myrecover-erlebnis/"><u>Festplattendatenspeicherwiederherstellung: Effiziente Methoden Und Tipps Für Ihr MyRecover Erlebnis</u></a></li>
-<li><a href="https://win-superb.techidaily.com/guida-passo-passo-alla-copia-di-windows-da-una-partizione-oem-ssd-in-computer-lenovo-e-hp/"><u>Guida Passo-Passo Alla Copia Di Windows Da Una Partizione OEM SSD in Computer Lenovo E HP</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-fodt-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .fodt file document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-pro-level-insights-into-win11-enhancements/"><u>In 2024, Pro-Level Insights Into Win11 Enhancements</u></a></li>
-<li><a href="https://fox-links.techidaily.com/micro-post-your-next-audio-adventure-for-2024/"><u>Micro-Post Your Next Audio Adventure for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/professionelle-losungen-zur-wiedererlangung-verlorener-daten-unter-windows-10/"><u>Professionelle Lösungen Zur Wiedererlangung Verlorener Daten Unter Windows 10</u></a></li>
-<li><a href="https://win-superb.techidaily.com/reviving-your-drive-saras-expert-guide-on-using-aomei-software-tools/"><u>Reviving Your Drive: Sara's Expert Guide on Using AOMEI Software Tools</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728499697759-windows-10/"><u>Windows 10「ファイル履歴エラー」:「要素を見つけられません」というメッセージを解消する手順</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-obscurity-to-the-top-the-seo-playbook-for-podcasters/"><u>[New] 2024 Approved From Obscurity to the Top The SEO Playbook for Podcasters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-screen-capture-tools-explored-apowersoft-and-others-compared/"><u>[New] Top Screen Capture Tools Explored - Apowersoft and Others Compared</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expert-techniques-for-streamers-on-macos/"><u>[Updated] Expert Techniques for Streamers on macOS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics-for-2024/"><u>[Updated] YouTube's Flawless Beauty Masterclass Skincare, Hairdos & Cosmetics for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978997864-hassle-free-installation-obtain-your-hp-stream-driver-packages-now/"><u>Hassle-Free Installation: Obtain Your HP Stream Driver Packages Now!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-visionary-visuals-unveiling-the-best-5-color-graded-screens/"><u>In 2024, Visionary Visuals Unveiling the Best 5 Color-Graded Screens</u></a></li>
+<li><a href="https://win-superb.techidaily.com/maximizing-your-computers-potential-tips-for-improved-performance-without-upgrades-guidance-from-yl-software/"><u>Maximizing Your Computer's Potential: Tips for Improved Performance without Upgrades – Guidance From YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/premium-hd-backgrounds-featuring-cristiano-ronaldo-curated-collection-by-yl-software/"><u>Premium HD Backgrounds Featuring Cristiano Ronaldo - Curated Collection by YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/solving-connection-problems-when-your-scanner-fails-to-sync-with-a-computer-tips-from-yl-software-expertise/"><u>Solving Connection Problems: When Your Scanner Fails to Sync with a Computer - Tips From YL Software Expertise</u></a></li>
+<li><a href="https://win-superb.techidaily.com/verifying-your-graphics-card-functionality-a-step-by-step-guide-tips-from-yl-computing/"><u>Verifying Your Graphics Card Functionality: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-softwares-guide-to-correcting-scanner-image-distortion-for-clearer-results/"><u>YL Software's Guide to Correcting Scanner Image Distortion for Clearer Results</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-softwares-guide-to-risk-free-cryptocurrency-storage-methods/"><u>YL Software's Guide to Risk-Free Cryptocurrency Storage Methods</u></a></li>
 </ul></div>
 
