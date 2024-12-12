@@ -1,7 +1,7 @@
 ---
 title: Mastering Mixer Efficiency on Windows nT - Expert Tips and Tricks for PCDJ Users
-date: 2024-12-03T22:58:57.128Z
-updated: 2024-12-05T19:17:40.630Z
+date: 2024-12-09T06:03:48.243Z
+updated: 2024-12-11T18:07:04.321Z
 tags:
   - product
 categories:
@@ -32,12 +32,16 @@ It’s not always cut and dry with performance issues. Web-based applications th
 
 **NOTE:** If you are a [Party Tyme Karaoke](https://tools.techidaily.com/pcdj/products/) or [SoundCloud Go+](https://tools.techidaily.com/pcdj/products/) subscriber and disabling WiFi is not an option you should be aware of other background/web-based services on your Windows 10 laptop. Uninstall or disable them if you’re going to be online during your live performance. These include services like messenger, Skype, or automatic updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Don’t Fill Up
 
 This is a BIG one and often overlooked: Always leave at least 20% of your Windows computer’s hard disk free. If your drive is more than 80% performance will suffer. Don’t do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If It’s Not Critical Software to Run your Show, Turn it Off
@@ -54,15 +58,19 @@ Doing USB right: Use USB 3.0 devices with 3.0 ports/cables, and USB 2.0 devices 
 
 Windows 10 will use 2 GB or more of RAM for basic operations all by it’s lonesome. In our experience, on your Windows 10 DJ computer 8GB of RAM is the recommended minimum. If you’re mixing HD quality music videos or using advanced features like Shaders or Text, Image, and Video Overlays you’ll want more. With RAM, the more the merrier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s Getting HOT
 
 Typically you won’t experience this unless it’s a few hours into your event, but if you notice various issues occurring later on, including audio-related problems, it’s very likely heat related. Your Windows 10 computer will attempt to throttle back power to cope with overheating, which can result in a myriad of issues. There are a number of items that may cause it that may not be a poorly running computer or fan. For example, when you use a very small buffer, say around 5ms, your computer processor will work harder than if you used a large buffer (latency) size around 11ms. The surface you have your laptop on can also play a part in overheating. Stick with a flat/hard surface or use a cooling fan or pad if it seems to be a regular problem. Disabling services as previously instructed will also assist in keeping your machine running cool as a cucumber.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Windows 10 System Optimizations for your Windows 10 Computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### High Performance Mode
 
@@ -74,6 +82,10 @@ From your Windows Start menu navigate to the Windows Control Panel/Settings:
 
 Choose “High Performance” as the “Power Plan”. Then click “Change plan settings” and set ‘Put the computer to sleep” to “Never”. Then “Save Changes.”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Kill Other Programs Running in the Background
 
 Programs running in the background will display in your computers system trey (next to your clock at the very bottom right corner of the task bar located at the bottom of your screen). While they aren’t ‘all programs’ that could be running, most display in the system trey. This includes antivirus software and other items like spyware protection, email, Skype, Dropbox, display management, and others. Right-click on each icon system try and look for the ‘exit’ or ‘close’ options for each. With Antivirus, one of the biggest potential resource hogs, you may need to open up the programs control panel in order to locate the disable (or ‘disable real-time shields’)option.
@@ -84,13 +96,13 @@ You can also open up your Task Manager to review other applications running in t
 
 What, you say? Yes, you can actually disable Windows 10 updates. While it’s not a single-click operation, it’s well worth the effort as the last thing you need is Windows 10 attempting to download a massive update mid-set. Here’s [a great guide with a few methods for ensuring Windows 10 updates](https://www.easeus.com/todo-backup-resource/how-to-stop-windows-10-from-automatically-update.html) don’t bite you in the tukas!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Don’t Go to Sleep, Never Go to Sleep…
 
 It may be a grueling 4-hour + set and you’re tired — but your Windows 10 computer shouldn’t be. If your hard drive goes to sleep while performing your audience will too. To ensure this doesn’t occur, click on the “Start Menu” (bottom left of your task bar at the very bottom of your screen) and select “Settings” -> “Control Panel” and Open the “Power Options”. Set the “Turn Off Hard Disks” setting to “Never”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Graphics Effects Should be Disabled
 
@@ -107,10 +119,6 @@ Disabling Windows’ graphical effects will free up additional resources. Window
 
 Windows may not look as pretty, taking on more of an early windows 7 look and feel, but performance will be increased.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tweak Processor Scheduling
 
 “Processor Scheduling” is also located in “System Properties”. These settings tell Windows 10 how it should allocate processing power. To ensure it’s placing your DJ software’s performance over the various background services do the following;
@@ -123,7 +131,7 @@ Windows may not look as pretty, taking on more of an early windows 7 look and fe
 6. Click “Apply” and then “OK”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Nix User Account Control
@@ -134,17 +142,9 @@ User Account Control can be a real pain when it comes to rights and privileges y
 2. In the “Search” box type in “User Account Control” and click on “Change User Account Control Settings”
 3. Set “Never Notify”.Click “OK” and Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Have a Dedicated Graphics Card and Your Mix Music Videos? Do this, Too
 
 If you have a dedicated/discrete graphics card and mix music videos with DEX 3, especially if the videos are HD (720p and above) you’ll also want to make sure DEX 3 is using your high-end graphics card and not your shared graphics card (when applicable). [Click here to learn how](https://tools.techidaily.com/pcdj/products/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -165,15 +165,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/windows10-optimize.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-snap-worthy-success-logging-galaxy-gaming-stories/"><u>[New] In 2024, Snap-Worthy Success Logging Galaxy Gaming Stories</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/trategies-for-editing-and-elevating-youtube-profiles-for-2024/"><u>[New] Strategies for Editing and Elevating YouTube Profiles for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-hashtags-to-challenges-insta-meets-tiktok/"><u>[Updated] From Hashtags to Challenges Insta Meets TikTok</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-masterful-moment-captures-with-expert-photo-frames-online-for-2024/"><u>[Updated] Masterful Moment Captures with Expert Photo Frames Online for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/identifying-factors-contributing-to-extended-system-startup-times-insights-by-yl-computing/"><u>Identifying Factors Contributing to Extended System Startup Times - Insights by YL Computing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/mastering-mouse-customization-in-windows-11-with-tips-from-yl-computing-experts/"><u>Mastering Mouse Customization in Windows 11 with Tips From YL Computing Experts</u></a></li>
-<li><a href="https://win-superb.techidaily.com/reconfiguring-file-association-settings-on-windows-a-step-by-step-guide/"><u>Reconfiguring File Association Settings on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/resolving-application-failed-to-launch-issues-on-windows-tips-and-tricks-by-yl-computing/"><u>Resolving 'Application Failed To Launch' Issues on Windows - Tips & Tricks by YL Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-new-samsung-qn55q6f-smart-tv-reviewed-elevating-your-viewing-experience-with-stunning-4k-hdr-quality/"><u>The All-New Samsung QN55Q6F Smart TV Reviewed – Elevating Your Viewing Experience with Stunning 4K HDR Quality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-youtube-viewing-with-faster-or-slower-video-pace/"><u>[New] 2024 Approved Enhancing YouTube Viewing with Faster or Slower Video Pace</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-iphone-applications-for-clearing-photos-of-obstacles/"><u>[New] 2024 Approved Essential iPhone Applications for Clearing Photos of Obstacles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-google-trends-data-for-idea-genesis-in-videography/"><u>[New] Leveraging Google Trends Data for Idea Genesis in Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-your-top-10-favorites-on-spotify/"><u>[New] Your Top 10 Favorites on Spotify</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-guide-to-navigating-t-mobiles-domestic-roaming-agreements/"><u>A Guide to Navigating T-Mobile's Domestic Roaming Agreements</u></a></li>
+<li><a href="https://win-superb.techidaily.com/detecting-faulty-components-a-guide-by-yl-computing-on-diagnosing-system-issues/"><u>Detecting Faulty Components: A Guide by YL Computing on Diagnosing System Issues</u></a></li>
+<li><a href="https://win-superb.techidaily.com/diagnosing-non-boot-issues-in-your-computer-expert-advice-by-yl-software/"><u>Diagnosing Non-Boot Issues in Your Computer: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/effective-steps-to-eliminate-malware-and-viruses-from-your-pc-tips-by-yl-computing/"><u>Effective Steps to Eliminate Malware and Viruses From Your PC - Tips by YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/efficiently-solving-common-issues-with-windows-10-expert-guidance-from-yl-computing/"><u>Efficiently Solving Common Issues with Windows 10: Expert Guidance From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficiently-update-your-logitech-t630-mouse-on-windows-7810-with-official-drivers/"><u>Efficiently Update Your Logitech T630 Mouse on Windows 7/8/10 with Official Drivers</u></a></li>
+<li><a href="https://win-superb.techidaily.com/guarantee-optimal-performance-a-step-by-step-guide-to-connect-scanners-with-computers-by-yl-software-experts/"><u>Guarantee Optimal Performance: A Step-By-Step Guide to Connect Scanners with Computers by YL Software Experts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-identify-and-fix-major-errors-that-cause-your-pc-to-sluggishly-perform-insights-from-yl-software/"><u>How to Identify and Fix Major Errors That Cause Your PC to Sluggishly Perform: Insights From YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/managing-a-malfunctioning-pc-cooling-system-expert-advice-from-yl-computing/"><u>Managing a Malfunctioning PC Cooling System: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-gameplay-glitches-in-helldivers-2-step-by-step-repair-guide/"><u>Overcoming PC Gameplay Glitches in Helldivers 2: Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prowl-these-top-ranked-sites-for-generous-vector-imagery-access-for-2024/"><u>Prowl These Top-Ranked Sites for Generous Vector Imagery Access for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/random-computer-shutdowns-unraveling-the-mystery-insights-from-yl-computings-tech-experts/"><u>Random Computer Shutdowns: Unraveling the Mystery - Insights From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-obs-recording-software-unveiled-in-our-latest-study-for-2024/"><u>Top OBS Recording Software Unveiled in Our Latest Study for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/understanding-crypto-essentials-a-guide-to-core-traits-by-experts-at-yl-computing-and-yl-software/"><u>Understanding Crypto Essentials: A Guide to Core Traits by Experts at YL Computing and YL Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-experience-acer-drivers-in-win11/"><u>Upgrade Your Experience: Acer Drivers in Win11</u></a></li>
 </ul></div>
 
