@@ -1,7 +1,7 @@
 ---
 title: Mastering Mixer Efficiency on Windows nT - Expert Tips and Tricks for PCDJ Users
-date: 2024-12-09T06:03:48.243Z
-updated: 2024-12-11T18:07:04.321Z
+date: 2024-12-14T18:10:50.003Z
+updated: 2024-12-18T18:00:23.077Z
 tags:
   - product
 categories:
@@ -26,22 +26,22 @@ Equate your shiny new Windows 10 laptop to a stock car you’re about to take on
 
 Default Windows 10 configurations are far from road-ready. They are loaded with adware that are battle ready and itching to fight to the death over your new computer’s system resources. The last thing you need while DJing a live performance is one of these little critters to win the resource battle and sap valuable resources at critical moments, therefore If a program or a settings is is not crucial it should be uninstall or disabled. More on this below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Unless you’re Streaming with Party Tyme or SoundCloud in DEX 3, Disable WiFi and Bluetooth
 
 It’s not always cut and dry with performance issues. Web-based applications that rely on WiFi can often be the cause of audio issues or even crashes. Disabling WiFi prevents these operations from being triggered. If Bluetooth is disabled you can prevent other devices from talking to your computer during critical performances.
 
 **NOTE:** If you are a [Party Tyme Karaoke](https://tools.techidaily.com/pcdj/products/) or [SoundCloud Go+](https://tools.techidaily.com/pcdj/products/) subscriber and disabling WiFi is not an option you should be aware of other background/web-based services on your Windows 10 laptop. Uninstall or disable them if you’re going to be online during your live performance. These include services like messenger, Skype, or automatic updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Don’t Fill Up
 
 This is a BIG one and often overlooked: Always leave at least 20% of your Windows computer’s hard disk free. If your drive is more than 80% performance will suffer. Don’t do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If It’s Not Critical Software to Run your Show, Turn it Off
@@ -50,26 +50,34 @@ If the program isn’t absolutely necessary for live performance TURN IT OFF. Th
 
 ![DEX 3 Mixing Music](https://i1.wp.com/pcdj.com/wp-content/uploads/2019/06/dex3screenshot-denoncontroller-nice.jpg?fit=300%2C214&ssl=1 "DEX 3 Mixing Music")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Do you USB, Bro?
 
 Doing USB right: Use USB 3.0 devices with 3.0 ports/cables, and USB 2.0 devices with 2.0 ports/cables. While USB 3.0 ports can handle 2.0 devices, they have to slow down to do so. Same goes for 2.0 ports and 3.0 devices. It will still work, but less than optimally. If you use a pro audio USB device or DJ controller this tip shouldn’t be ignored. Also, try not to use a USB Hub. While you may not have the choice due to the various USB devices you’re running, they can cause issues, from latency to noise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The More RAM the Merrier
 
 Windows 10 will use 2 GB or more of RAM for basic operations all by it’s lonesome. In our experience, on your Windows 10 DJ computer 8GB of RAM is the recommended minimum. If you’re mixing HD quality music videos or using advanced features like Shaders or Text, Image, and Video Overlays you’ll want more. With RAM, the more the merrier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s Getting HOT
 
 Typically you won’t experience this unless it’s a few hours into your event, but if you notice various issues occurring later on, including audio-related problems, it’s very likely heat related. Your Windows 10 computer will attempt to throttle back power to cope with overheating, which can result in a myriad of issues. There are a number of items that may cause it that may not be a poorly running computer or fan. For example, when you use a very small buffer, say around 5ms, your computer processor will work harder than if you used a large buffer (latency) size around 11ms. The surface you have your laptop on can also play a part in overheating. Stick with a flat/hard surface or use a cooling fan or pad if it seems to be a regular problem. Disabling services as previously instructed will also assist in keeping your machine running cool as a cucumber.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows 10 System Optimizations for your Windows 10 Computer
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### High Performance Mode
@@ -81,10 +89,6 @@ From your Windows Start menu navigate to the Windows Control Panel/Settings:
 **Go to: System -> Power or System and Security -> Power Options -> Additional Power Settings**
 
 Choose “High Performance” as the “Power Plan”. Then click “Change plan settings” and set ‘Put the computer to sleep” to “Never”. Then “Save Changes.”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Kill Other Programs Running in the Background
 
@@ -99,10 +103,6 @@ What, you say? Yes, you can actually disable Windows 10 updates. While it’s no
 ### Don’t Go to Sleep, Never Go to Sleep…
 
 It may be a grueling 4-hour + set and you’re tired — but your Windows 10 computer shouldn’t be. If your hard drive goes to sleep while performing your audience will too. To ensure this doesn’t occur, click on the “Start Menu” (bottom left of your task bar at the very bottom of your screen) and select “Settings” -> “Control Panel” and Open the “Power Options”. Set the “Turn Off Hard Disks” setting to “Never”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Graphics Effects Should be Disabled
 
@@ -119,6 +119,10 @@ Disabling Windows’ graphical effects will free up additional resources. Window
 
 Windows may not look as pretty, taking on more of an early windows 7 look and feel, but performance will be increased.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tweak Processor Scheduling
 
 “Processor Scheduling” is also located in “System Properties”. These settings tell Windows 10 how it should allocate processing power. To ensure it’s placing your DJ software’s performance over the various background services do the following;
@@ -129,10 +133,6 @@ Windows may not look as pretty, taking on more of an early windows 7 look and fe
 4. Under “Performance” select “Settings” and then the “Advanced” tab.
 5. Under “Adjust for best performance” select “Programs”.
 6. Click “Apply” and then “OK”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Nix User Account Control
 
@@ -165,24 +165,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/windows10-optimize.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-youtube-viewing-with-faster-or-slower-video-pace/"><u>[New] 2024 Approved Enhancing YouTube Viewing with Faster or Slower Video Pace</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-iphone-applications-for-clearing-photos-of-obstacles/"><u>[New] 2024 Approved Essential iPhone Applications for Clearing Photos of Obstacles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-google-trends-data-for-idea-genesis-in-videography/"><u>[New] Leveraging Google Trends Data for Idea Genesis in Videography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-your-top-10-favorites-on-spotify/"><u>[New] Your Top 10 Favorites on Spotify</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-guide-to-navigating-t-mobiles-domestic-roaming-agreements/"><u>A Guide to Navigating T-Mobile's Domestic Roaming Agreements</u></a></li>
-<li><a href="https://win-superb.techidaily.com/detecting-faulty-components-a-guide-by-yl-computing-on-diagnosing-system-issues/"><u>Detecting Faulty Components: A Guide by YL Computing on Diagnosing System Issues</u></a></li>
-<li><a href="https://win-superb.techidaily.com/diagnosing-non-boot-issues-in-your-computer-expert-advice-by-yl-software/"><u>Diagnosing Non-Boot Issues in Your Computer: Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effective-steps-to-eliminate-malware-and-viruses-from-your-pc-tips-by-yl-computing/"><u>Effective Steps to Eliminate Malware and Viruses From Your PC - Tips by YL Computing</u></a></li>
-<li><a href="https://win-superb.techidaily.com/efficiently-solving-common-issues-with-windows-10-expert-guidance-from-yl-computing/"><u>Efficiently Solving Common Issues with Windows 10: Expert Guidance From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficiently-update-your-logitech-t630-mouse-on-windows-7810-with-official-drivers/"><u>Efficiently Update Your Logitech T630 Mouse on Windows 7/8/10 with Official Drivers</u></a></li>
-<li><a href="https://win-superb.techidaily.com/guarantee-optimal-performance-a-step-by-step-guide-to-connect-scanners-with-computers-by-yl-software-experts/"><u>Guarantee Optimal Performance: A Step-By-Step Guide to Connect Scanners with Computers by YL Software Experts</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-identify-and-fix-major-errors-that-cause-your-pc-to-sluggishly-perform-insights-from-yl-software/"><u>How to Identify and Fix Major Errors That Cause Your PC to Sluggishly Perform: Insights From YL Software</u></a></li>
-<li><a href="https://win-superb.techidaily.com/managing-a-malfunctioning-pc-cooling-system-expert-advice-from-yl-computing/"><u>Managing a Malfunctioning PC Cooling System: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-gameplay-glitches-in-helldivers-2-step-by-step-repair-guide/"><u>Overcoming PC Gameplay Glitches in Helldivers 2: Step-by-Step Repair Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prowl-these-top-ranked-sites-for-generous-vector-imagery-access-for-2024/"><u>Prowl These Top-Ranked Sites for Generous Vector Imagery Access for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/random-computer-shutdowns-unraveling-the-mystery-insights-from-yl-computings-tech-experts/"><u>Random Computer Shutdowns: Unraveling the Mystery - Insights From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-obs-recording-software-unveiled-in-our-latest-study-for-2024/"><u>Top OBS Recording Software Unveiled in Our Latest Study for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/understanding-crypto-essentials-a-guide-to-core-traits-by-experts-at-yl-computing-and-yl-software/"><u>Understanding Crypto Essentials: A Guide to Core Traits by Experts at YL Computing and YL Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-experience-acer-drivers-in-win11/"><u>Upgrade Your Experience: Acer Drivers in Win11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-web-accessory-fb-stories-keeper/"><u>[New] 2024 Approved Web Accessory FB Stories Keeper</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/pread-the-rhythm-sharing-playlists-in-minutes-for-2024/"><u>[New] Spread the Rhythm Sharing Playlists in Minutes for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-best-introduction-editors-apps-for-2024/"><u>[New] Top 10 Best Introduction Editors (Apps) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-captions-101-the-essential-guide/"><u>[New] Vimeo Captions 101 The Essential Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-easy-way-to-craft-your-digital-self-in-virtual-worlds-for-2024/"><u>[Updated] The Easy Way to Craft Your Digital Self in Virtual Worlds for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blurring-the-line-between-still-and-motion-art-for-2024/"><u>Blurring the Line Between Still and Motion Art for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ensuring-seamless-apple-podcast-addition/"><u>Ensuring Seamless Apple Podcast Addition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-latest-nvidia-quadro-rtx-8000-graphics-driver-update-for-win-1187-systems/"><u>Get Latest Nvidia Quadro RTX 8000 Graphics Driver Update for Win 11/8/7 Systems</u></a></li>
+<li><a href="https://win-superb.techidaily.com/high-quality-ford-ranger-raptor-desktop-backgrounds-by-yl-computings-digital-creations/"><u>High-Quality Ford Ranger Raptor Desktop Backgrounds by YL Computing's Digital Creations</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-deactivate-microsofts-windows-defender-tips-from-yl-software-experts/"><u>How To Deactivate Microsoft's Windows Defender: Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/latest-software-update-check-do-you-have-them-all-installed-tips-from-yl-computing/"><u>Latest Software Update Check: Do You Have Them All Installed? - Tips From YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/locating-targeted-files-on-your-pc-a-comprehensive-guide-with-windows-operating-system-by-yl-computing/"><u>Locating Targeted Files on Your PC: A Comprehensive Guide with Windows Operating System - By YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/optimize-pc-performance-by-eliminating-unwanted-files-and-apps-with-yl-softwares-best-practices/"><u>Optimize PC Performance by Eliminating Unwanted Files and Apps with YL Software’s Best Practices</u></a></li>
+<li><a href="https://win-superb.techidaily.com/resolving-connection-issues-with-your-printer-tips-and-tricks-by-yl-software/"><u>Resolving Connection Issues with Your Printer - Tips and Tricks by YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/steps-to-save-youtube-short-videos-a-guide-by-yl-computing/"><u>Steps to Save YouTube Short Videos: A Guide by YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-beantech-bitwatch-s1-plus-smartwatch-budget-friendly-and-innovative-features/"><u>The Ultimate Guide to the Beantech Bitwatch S1 Plus Smartwatch – Budget Friendly & Innovative Features!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-defenders-safeguarding-features-explained-a-guide-from-experts-at-yl-software/"><u>Windows Defender's Safeguarding Features Explained: A Guide From Experts at YL Software</u></a></li>
 </ul></div>
 

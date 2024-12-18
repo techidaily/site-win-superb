@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at 2022: A Comprehensive Yearly Recap with PCDJ"
-date: 2024-12-05T16:56:49.444Z
-updated: 2024-12-12T09:31:31.778Z
+date: 2024-12-14T17:35:27.660Z
+updated: 2024-12-18T16:59:26.500Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As we conclude year 23 for PCDJ, and as we always like to do at years’ end, he
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2022 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2022 soon to be history, we’re exited to build on momentum in 2023\. New 
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2023\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,19 +71,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/12/2022-year-in-review.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-complete-guide-to-iphone-sound-personalization-for-2024/"><u>[New] The Complete Guide to iPhone Sound Personalization for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-affordable-gear-guide-choosing-the-right-cam-for-you-for-2024/"><u>[Updated] Affordable Gear Guide Choosing the Right Cam For You for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-selection-of-top-10-cinematic-beacons-of-hope/"><u>2024 Approved A Selection of Top 10 Cinematic Beacons of Hope</u></a></li>
-<li><a href="https://win-superb.techidaily.com/analyzing-the-consequences-a-deep-dive-into-the-aftermath-of-the-sino-japanese-war-insights-by-yl-technologies/"><u>Analyzing the Consequences: A Deep Dive Into the Aftermath of the Sino-Japanese War – Insights by YL Technologies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bridging-cultures-through-loves-languages/"><u>Bridging Cultures Through Love's Languages</u></a></li>
-<li><a href="https://win-web.techidaily.com/configuring-your-windows-mouse-and-touchpad-a-comprehensive-guide-by-yl-computing/"><u>Configuring Your Windows Mouse & Touchpad: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-the-benefits-and-drawbacks-of-cryptocurrency-adoption-insights-from-yl-computing/"><u>Exploring the Benefits & Drawbacks of Cryptocurrency Adoption: Insights From YL Computing</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-do-modification-removal-and-creation-of-registry-entries-vary-exploring-techniques-with-yl-software-solutions/"><u>How Do Modification, Removal, and Creation of Registry Entries Vary? - Exploring Techniques with YL Software Solutions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-entrepreneurial-guide-to-video-content-monetization/"><u>In 2024, The Entrepreneurial Guide to Video Content Monetization</u></a></li>
-<li><a href="https://win-superb.techidaily.com/mastering-display-customization-on-windows-pcs-tips-and-tricks-from-the-control-panel-powered-by-yl-computing-experts/"><u>Mastering Display Customization on Windows PCs: Tips & Tricks From the Control Panel - Powered by YL Computing Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-best-three-in-learning-conquer-new-tongues-quickly-and-quietly/"><u>The Best Three in Learning: Conquer New Tongues Quickly & Quietly</u></a></li>
-<li><a href="https://win-superb.techidaily.com/the-founding-of-the-peoples-republic-of-china-1949-an-overview-insights-by-yl-computing-and-software-solutions/"><u>The Founding of the People's Republic of China, 1949: An Overview - Insights by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-superb.techidaily.com/troubleshooting-steps-when-your-computer-fails-to-recognize-added-hardware-components-tips-from-yl-software/"><u>Troubleshooting Steps When Your Computer Fails to Recognize Added Hardware Components - Tips From YL Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unifying-windows-and-nvidia-graphics-for-seamless-performance/"><u>Unifying Windows & NVIDIA Graphics for Seamless Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-choices-youtube-vs-tiktok-battle/"><u>[New] 2024 Approved Channel Choices Youtube vs TikTok Battle</u></a></li>
+<li><a href="https://win-superb.techidaily.com/can-you-rely-on-windows-defender-for-spotting-phishing-attempts-insights-from-yl-computing/"><u>Can You Rely on Windows Defender for Spotting Phishing Attempts? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/checking-gpu-compatibility-for-the-most-recent-windows-release-insights-by-yl-software/"><u>Checking GPU Compatibility for the Most Recent Windows Release: Insights by YL Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-enhanced-precision-the-razer-deathadder-v3-hyperspeeds-adaptive-sensitivity-technology-explained/"><u>Experience Enhanced Precision: The Razer DeathAdder V3 HyperSpeed's Adaptive Sensitivity Technology Explained</u></a></li>
+<li><a href="https://win-superb.techidaily.com/explore-mallory-james-mahoney-inspired-imagery-and-digital-canvas-artwork-premium-wallpapers-by-yl-computing/"><u>Explore Mallory James Mahoney Inspired Imagery & Digital Canvas Artwork: Premium Wallpapers by YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-basic-to-exceptional-gopro-filming-techniques-for-2024/"><u>From Basic to Exceptional Gopro Filming Techniques for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-detect-and-troubleshoot-computer-hardware-failures-with-tips-from-yl-software-experts/"><u>How to Detect and Troubleshoot Computer Hardware Failures with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-fix-common-issues-when-your-printer-stops-functioning-tips-and-solutions-by-yl-computing/"><u>How to Fix Common Issues When Your Printer Stops Functioning - Tips & Solutions by YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-fix-when-your-computer-wont-detect-external-devices-guidance-by-yl-software-experts/"><u>How to Fix When Your Computer Won't Detect External Devices - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fast-and-free-fb-video-conversion-tools-for-mp3-files/"><u>In 2024, Fast and Free FB Video Conversion Tools for MP3 Files</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-key-techniques-boosting-video-reach-across-both-platforms/"><u>In 2024, Key Techniques Boosting Video Reach Across Both Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
+<li><a href="https://video-capture.techidaily.com/insiders-look-at-advanced-streamlabs-obs-techniques/"><u>Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-tips-for-hitting-the-jackpot-in-pexels/"><u>Quick Tips for Hitting the Jackpot in Pexels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475712255-struggling-with-your-iphones-contacts-app-tackle-this-common-issue-in-just-3-steps/"><u>Struggling with Your iPhone's Contacts App? Tackle This Common Issue in Just 3 Steps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-level-of-driving-comfort-mercedes-ai-upgrade/"><u>The Next Level of Driving Comfort: Mercedes' AI Upgrade</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-your-pc-effective-solutions-for-common-computer-errors-tips-by-yl-software/"><u>Troubleshooting Your PC: Effective Solutions for Common Computer Errors - Tips by YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/unveiling-methods-to-locate-memory-issues-within-systems-tips-by-yl-software-experts/"><u>Unveiling Methods To Locate Memory Issues Within Systems: Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-computing-demystifies-mastering-the-art-of-turning-onoff-windows-10-firewall-settings/"><u>YL Computing Demystifies: Mastering the Art of Turning On/Off Windows 10 Firewall Settings</u></a></li>
 </ul></div>
 
