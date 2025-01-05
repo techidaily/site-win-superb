@@ -1,7 +1,7 @@
 ---
 title: Mastering Mixer Efficiency on Windows nT - Expert Tips and Tricks for PCDJ Users
-date: 2024-12-23T16:59:44.821Z
-updated: 2024-12-27T05:24:42.555Z
+date: 2025-01-03T16:46:05.597Z
+updated: 2025-01-05T17:44:50.694Z
 tags:
   - product
 categories:
@@ -20,15 +20,15 @@ Equate your shiny new Windows 10 laptop to a stock car you’re about to take on
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## GENERAL OPTIMIZATIONS
 
 ### Drop the Bloat
 
 Default Windows 10 configurations are far from road-ready. They are loaded with adware that are battle ready and itching to fight to the death over your new computer’s system resources. The last thing you need while DJing a live performance is one of these little critters to win the resource battle and sap valuable resources at critical moments, therefore If a program or a settings is is not crucial it should be uninstall or disabled. More on this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unless you’re Streaming with Party Tyme or SoundCloud in DEX 3, Disable WiFi and Bluetooth
 
@@ -46,10 +46,6 @@ If the program isn’t absolutely necessary for live performance TURN IT OFF. Th
 
 ![DEX 3 Mixing Music](https://i1.wp.com/pcdj.com/wp-content/uploads/2019/06/dex3screenshot-denoncontroller-nice.jpg?fit=300%2C214&ssl=1 "DEX 3 Mixing Music")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Do you USB, Bro?
 
 Doing USB right: Use USB 3.0 devices with 3.0 ports/cables, and USB 2.0 devices with 2.0 ports/cables. While USB 3.0 ports can handle 2.0 devices, they have to slow down to do so. Same goes for 2.0 ports and 3.0 devices. It will still work, but less than optimally. If you use a pro audio USB device or DJ controller this tip shouldn’t be ignored. Also, try not to use a USB Hub. While you may not have the choice due to the various USB devices you’re running, they can cause issues, from latency to noise.
@@ -63,10 +59,14 @@ Windows 10 will use 2 GB or more of RAM for basic operations all by it’s lones
 Typically you won’t experience this unless it’s a few hours into your event, but if you notice various issues occurring later on, including audio-related problems, it’s very likely heat related. Your Windows 10 computer will attempt to throttle back power to cope with overheating, which can result in a myriad of issues. There are a number of items that may cause it that may not be a poorly running computer or fan. For example, when you use a very small buffer, say around 5ms, your computer processor will work harder than if you used a large buffer (latency) size around 11ms. The surface you have your laptop on can also play a part in overheating. Stick with a flat/hard surface or use a cooling fan or pad if it seems to be a regular problem. Disabling services as previously instructed will also assist in keeping your machine running cool as a cucumber.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows 10 System Optimizations for your Windows 10 Computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### High Performance Mode
 
@@ -79,7 +79,7 @@ From your Windows Start menu navigate to the Windows Control Panel/Settings:
 Choose “High Performance” as the “Power Plan”. Then click “Change plan settings” and set ‘Put the computer to sleep” to “Never”. Then “Save Changes.”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Kill Other Programs Running in the Background
@@ -88,21 +88,17 @@ Programs running in the background will display in your computers system trey (n
 
 You can also open up your Task Manager to review other applications running in the background that may not appear in your system trey. You can quickly access your Task Manager by clicing Ctrl+Alt+Delete and selecting “Task Manager”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disable Windows 10 Updates
 
 What, you say? Yes, you can actually disable Windows 10 updates. While it’s not a single-click operation, it’s well worth the effort as the last thing you need is Windows 10 attempting to download a massive update mid-set. Here’s [a great guide with a few methods for ensuring Windows 10 updates](https://www.easeus.com/todo-backup-resource/how-to-stop-windows-10-from-automatically-update.html) don’t bite you in the tukas!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Don’t Go to Sleep, Never Go to Sleep…
 
 It may be a grueling 4-hour + set and you’re tired — but your Windows 10 computer shouldn’t be. If your hard drive goes to sleep while performing your audience will too. To ensure this doesn’t occur, click on the “Start Menu” (bottom left of your task bar at the very bottom of your screen) and select “Settings” -> “Control Panel” and Open the “Power Options”. Set the “Turn Off Hard Disks” setting to “Never”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Graphics Effects Should be Disabled
 
@@ -119,10 +115,6 @@ Disabling Windows’ graphical effects will free up additional resources. Window
 
 Windows may not look as pretty, taking on more of an early windows 7 look and feel, but performance will be increased.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tweak Processor Scheduling
 
 “Processor Scheduling” is also located in “System Properties”. These settings tell Windows 10 how it should allocate processing power. To ensure it’s placing your DJ software’s performance over the various background services do the following;
@@ -133,6 +125,10 @@ Windows may not look as pretty, taking on more of an early windows 7 look and fe
 4. Under “Performance” select “Settings” and then the “Advanced” tab.
 5. Under “Adjust for best performance” select “Programs”.
 6. Click “Apply” and then “OK”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nix User Account Control
 
@@ -145,6 +141,10 @@ User Account Control can be a real pain when it comes to rights and privileges y
 ### Have a Dedicated Graphics Card and Your Mix Music Videos? Do this, Too
 
 If you have a dedicated/discrete graphics card and mix music videos with DEX 3, especially if the videos are HD (720p and above) you’ll also want to make sure DEX 3 is using your high-end graphics card and not your shared graphics card (when applicable). [Click here to learn how](https://tools.techidaily.com/pcdj/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -165,19 +165,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/windows10-optimize.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-art-of-curating-memories-on-social-media/"><u>[New] 2024 Approved The Art of Curating Memories on Social Media</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-your-snapchat-story-cinematography-for-2024/"><u>[New] Perfecting Your Snapchat Story Cinematography for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-shorts-revenue-sharing-how-much-do-creators-get-paid/"><u>[Updated] YouTube Shorts Revenue Sharing How Much Do Creators Get Paid?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-15-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 15 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/usbsatahddssd/"><u>簡單指南：使用USB與SATA技術從HDD移動資料至SSD</u></a></li>
-<li><a href="https://win-superb.techidaily.com/de-twee-beste-methoden-om-uw-geformateerde-xqd-platen-te-herstellen-na-langere-gebruik/"><u>De Twee Beste Methoden Om Uw Geformateerde XQD-Platen Te Herstellen Na Langere Gebruik</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovo-laptop-model-t430-drivers-for-windows-11-8-or-7/"><u>Download and Install Lenovo Laptop Model T430 Drivers for Windows 11, 8, or 7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-techniques-in-macro-video-production-a-compreranary-guide/"><u>Essential Techniques in Macro Video Production - A Compreranary Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/find-the-finest-digital-picture-enhancement-programs-for-both-computer-systems/"><u>Find the Finest Digital Picture Enhancement Programs for Both Computer Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-innovations-with-tomnhardware-insights/"><u>Navigating Tech Innovations with Tom'n'Hardware Insights</u></a></li>
-<li><a href="https://win-superb.techidaily.com/solving-windows-11-safe-mode-issues-a-guide-to-3-efficient-fixes/"><u>Solving Windows 11 Safe Mode Issues: A Guide to 3 Efficient Fixes</u></a></li>
-<li><a href="https://win-superb.techidaily.com/unraveling-the-mystery-why-might-a-samsung-ssd-remain-undetected-by-your-systems-bios/"><u>Unraveling the Mystery: Why Might a Samsung SSD Remain Undetected by Your System's BIOS?</u></a></li>
-<li><a href="https://win-superb.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-curtail-unrequested-youtube-content-streams-for-2024/"><u>[New] Curtail Unrequested YouTube Content Streams for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-professional-touch-applying-filters-to-pcmobile-videos/"><u>[New] In 2024, Professional Touch Applying Filters to PC/Mobile Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-secrets-unveiled-seamlessly-download-your-favorite-vimeo-videos-anywhere/"><u>[Updated] In 2024, Secrets Unveiled Seamlessly Download Your Favorite Vimeo Videos Anywhere</u></a></li>
+<li><a href="https://win-superb.techidaily.com/exploring-the-integration-of-cryptocurrencies-into-traditional-banking-insights-from-yl-computing/"><u>Exploring the Integration of Cryptocurrencies Into Traditional Banking: Insights From YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-handle-spontaneous-computer-restarts-yl-software-solutions-explained/"><u>How to Handle Spontaneous Computer Restarts: YL Software Solutions Explained</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-m6-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco M6 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v27-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V27 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone SE (2020)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/latest-sing-along-songs-added-to-karaoke-cloud-pro-pcdj-updates/"><u>Latest Sing-Along Songs Added to Karaoke Cloud Pro | PCDJ Updates</u></a></li>
+<li><a href="https://win-superb.techidaily.com/maintaining-robust-cybersecurity-expert-tips-from-yl-computing-on-protecting-your-system/"><u>Maintaining Robust Cybersecurity: Expert Tips From YL Computing on Protecting Your System</u></a></li>
+<li><a href="https://win-superb.techidaily.com/maximizing-pc-efficiency-expert-tips-for-enhancing-your-systems-speed-yl-tech-solutions/"><u>Maximizing PC Efficiency: Expert Tips for Enhancing Your System's Speed - YL Tech Solutions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/newest-additions-unlimited-access-to-latest-karaoke-tracks-start-your-karaoke-journey-with-our-subscription/"><u>Newest Additions: Unlimited Access to Latest Karaoke Tracks - Start Your Karaoke Journey with Our Subscription!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/replacing-your-old-hard-drive-a-comprehensive-guide-tips-from-yl-computing/"><u>Replacing Your Old Hard Drive: A Comprehensive Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-guide-how-to-fix-non-responsive-printer-issues-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: How to Fix Non-Responsive Printer Issues - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-potential-of-free-ai-expert-email-composition-via-chatgpt-and-inbox-overview-for-enhanced-productivity/"><u>Unleash the Potential of Free AI: Expert Email Composition via ChatGPT and Inbox Overview for Enhanced Productivity</u></a></li>
 </ul></div>
 
