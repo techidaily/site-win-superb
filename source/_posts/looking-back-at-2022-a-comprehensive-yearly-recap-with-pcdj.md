@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at 2022: A Comprehensive Yearly Recap with PCDJ"
-date: 2025-01-03T18:16:04.350Z
-updated: 2025-01-05T16:36:02.437Z
+date: 2025-01-08T07:29:09.964Z
+updated: 2025-01-12T04:05:01.066Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As we conclude year 23 for PCDJ, and as we always like to do at years’ end, he
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2022 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2022 soon to be history, we’re exited to build on momentum in 2023\. New 
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2023\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,17 +71,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/12/2022-year-in-review.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-mac-device-visuals-and-acoustics-in-one/"><u>[New] 2024 Approved Ultimate Mac Device Visuals & Acoustics in One</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-joining-google-meet-a-step-by-step-guide-for-2024/"><u>[New] Joining Google Meet A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effortless-guide-to-retrieving-lost-or-vanished-documents-on-windows-10/"><u>Effortless Guide to Retrieving Lost or Vanished Documents on Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-add-english-subtitles-a-guide-to-ripping-your-foreign-language-dvd/"><u>How to Add English Subtitles: A Guide to Ripping Your Foreign-Language DVD</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/lenovo-4/"><u>Lenovoノートコンピューターを最も安全に保護: 4つのステップガイド</u></a></li>
-<li><a href="https://win-superb.techidaily.com/semplice-sincronizzazione-cartelle-windows-11-passaggi-guida/"><u>Semplice Sincronizzazione Cartelle Windows 11 - Passaggi Guida</u></a></li>
-<li><a href="https://win-superb.techidaily.com/sicherungspasswort-lockout-in-windows-11-entsperren-und-zurucksetzen-auf-einfache-weise-losungen-erklart/"><u>Sicherungspasswort-Lockout in Windows 11: Entsperren Und Zurücksetzen Auf Einfache Weise - Lösungen Erklärt</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-best-extended-mouse-pads-of-2024/"><u>The Best Extended Mouse Pads of 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ultimate-guide-efficiently-cloning-servers-across-a-network/"><u>Ultimate Guide: Efficiently Cloning Servers Across a Network</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/ultimate-list-5-social-networks-like-twitter-for-2024/"><u>Ultimate List 5 Social Networks Like Twitter for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Updated 2024 Approved Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capturing-excellence-the-best-camera-lenses/"><u>[New] Capturing Excellence The Best Camera Lenses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-favorite-stock-photos-a-dive-into-memes-and-origins/"><u>[Updated] Favorite Stock Photos A Dive Into Memes & Origins</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221569192-mkvvob-movavi/"><u>無償でウェブ上にてMKV/VOB形式変換: 動画編集ソフトMovavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/come-eseguire-il-ripristino-del-bootloader-mbr-con-uefi-su-windows-xpvista710/"><u>Come Eseguire Il Ripristino Del Bootloader MBR Con UEFI Su Windows (XP/Vista/7/10)</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comprehensive-analysis-of-prosoft-data-recovery-software-version-6-a-complete-users-manual/"><u>Comprehensive Analysis of Prosoft Data Recovery Software Version 6 - A Complete User's Manual</u></a></li>
+<li><a href="https://win-superb.techidaily.com/decoding-der-pfad-ist-nicht-verfugbar-how-to-troubleshoot-on-windows-11-and-iphone-systems/"><u>Decoding 'Der Pfad Ist Nicht Verfügbar': How to Troubleshoot on Windows 11 & iPhone Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-130-music-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia 130 Music</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/iphone-zu-iphone-daten-ubertragen-ohne-notwendigkeit-von-itunes/"><u>IPhone Zu iPhone Daten Übertragen - Ohne Notwendigkeit Von iTunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-pef-png/"><u>Movavi 서비스로 PEF PNG에 대한 무료 온라인 변환 - 영어</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nvidia-streamlines-pc-application-suite-a-leap-towards-user-friendly-experience/"><u>Nvidia Streamlines PC Application Suite: A Leap Towards User-Friendly Experience</u></a></li>
+<li><a href="https://win-superb.techidaily.com/vertrauliche-ordnersicherung-in-windows-11-erfahre-5-bewahrte-techniken-und-schutzstrategien/"><u>Vertrauliche Ordnersicherung in Windows 11 - Erfahre 5 Bewährte Techniken Und Schutzstrategien!</u></a></li>
 </ul></div>
 
