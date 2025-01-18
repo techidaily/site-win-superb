@@ -1,7 +1,7 @@
 ---
 title: Karaoki's New Beta Release! Get Your Hands on Version 0.8.5895 Today
-date: 2025-01-10T08:57:08.120Z
-updated: 2025-01-12T01:19:53.695Z
+date: 2025-01-15T16:51:09.741Z
+updated: 2025-01-17T23:12:36.923Z
 tags:
   - product
 categories:
@@ -42,7 +42,7 @@ If you experience any issues with the upgraded search system you can switch back
 _**We want your feedback!** Please join in the beta discussion [here on the PCDJ user forum](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,17 +64,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/02/karaoki085895-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-pro-selections-best-notebook-models-for-editing-professionals/"><u>[New] In 2024, Pro Selections Best Notebook Models for Editing Professionals</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-combat-fuzzy-visuals-facebook-videos-tips-and-tricks-for-2024/"><u>[Updated] Combat Fuzzy Visuals Facebook Videos Tips & Tricks for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-conquering-content-diversity-with-verticalized-h-video-posts/"><u>[Updated] Conquering Content Diversity with Verticalized H-Video Posts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dynamic-animated-and-personalized-filmora-subscribe-button-for-youtube/"><u>[Updated] In 2024, Dynamic, Animated, and Personalized Filmora Subscribe Button for YouTube</u></a></li>
-<li><a href="https://win-superb.techidaily.com/can-you-rely-on-windows-defender-for-spotting-phishing-attempts-insights-from-yl-computing/"><u>Can You Rely on Windows Defender for Spotting Phishing Attempts? - Insights From YL Computing</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-detect-and-troubleshoot-computer-hardware-failures-with-tips-from-yl-software-experts/"><u>How to Detect and Troubleshoot Computer Hardware Failures with Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-install-handbrake-and-libdvdcss-on-macoswindows-10-for-dvd-ripping/"><u>How to Install HandBrake and Libdvdcss on macOS/Windows 10 for DVD Ripping</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 6 Plus | Stellar</u></a></li>
-<li><a href="https://win-superb.techidaily.com/recognizing-trustworthy-initial-coin-offerings-icos-insights-from-yl-computing-and-yl-software-experts/"><u>Recognizing Trustworthy Initial Coin Offerings (ICOs): Insights From YL Computing and YL Software Experts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-viber-out-review-benefits-and-limitations/"><u>The Ultimate Guide to Viber Out Review: Benefits and Limitations</u></a></li>
-<li><a href="https://win-superb.techidaily.com/troubleshooting-your-pc-effective-solutions-for-common-computer-errors-tips-by-yl-software/"><u>Troubleshooting Your PC: Effective Solutions for Common Computer Errors - Tips by YL Software</u></a></li>
-<li><a href="https://win-superb.techidaily.com/yl-computing-demystifies-mastering-the-art-of-turning-onoff-windows-10-firewall-settings/"><u>YL Computing Demystifies: Mastering the Art of Turning On/Off Windows 10 Firewall Settings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-data-dispatch-simple-ways-to-shift-files-to-pc-for-2024/"><u>[New] Data Dispatch Simple Ways To Shift Files to PC for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-reel-relationships-establishing-a-strong-social-media-presence-with-memes/"><u>[New] In 2024, Reel Relationships Establishing a Strong Social Media Presence with Memes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-revolutionize-unboxing-on-instagram-a-guide-to-popularity/"><u>[New] In 2024, Revolutionize Unboxing on Instagram A Guide to Popularity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easily-record-lenovo-laptop-screen-activity/"><u>[Updated] Easily Record Lenovo Laptop Screen Activity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cut-down-on-hassle-with-easy-ipad-recording-methods/"><u>2024 Approved Cut Down On Hassle With Easy iPad Recording Methods</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-swiftly-upgrade-your-pc-with-windows-1011-on-a-brand-new-ssd-discover-the-three-best-techniques/"><u>How To Swiftly Upgrade Your PC with Windows 10/11 on a Brand-New SSD: Discover the Three Best Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-imacs-revolutionary-upgrade-with-m1-technology-a-game-changer/"><u>In-Depth Look at iMac's Revolutionary Upgrade with M1 Technology - A Game Changer</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728488907324-page-unavailable-error-code-404-detected/"><u>Page Unavailable: Error Code 404 Detected</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/smart-strategies-achieving-advertising-excellence-for-2024/"><u>Smart Strategies Achieving Advertising Excellence for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-migrating-your-data-preserving-and-reviving-information-between-windows-7-and-windows-nten/"><u>Step-by-Step Guide to Migrating Your Data: Preserving and Reviving Information Between Windows 7 and Windows nTen</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-4-methods-zum-erstellen-einer-windows-10-sicherung-auf-einem-nas-speichergerat-synology-and-qnap/"><u>Top 4 Methods Zum Erstellen Einer Windows 10 Sicherung Auf Einem NAS-Speichergerät - Synology & QNAP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-pop-8-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Pop 8 Device</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trois-techniques-rapides-pour-deplacer-votre-systeme-dexploitation-windows-7-vers-un-nouveau-disque-dur/"><u>Trois Techniques Rapides Pour Déplacer Votre Système D'Exploitation Windows 7 Vers Un Nouveau Disque Dur</u></a></li>
+<li><a href="https://win-superb.techidaily.com/two-methods-to-perform-system-image-backups-on-windows-server-2011/"><u>Two Methods to Perform System Image Backups on Windows Server 2011</u></a></li>
+<li><a href="https://win-superb.techidaily.com/wie-erlangt-man-zugang-zu-nicht-gespeicherten-blender-modellen-wieder/"><u>Wie Erlangt Man Zugang Zu Nicht Gespeicherten Blender-Modellen Wieder?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-11bootmgr/"><u>Windows 11におけるBOOTMGR不在エラー修正ガイド</u></a></li>
 </ul></div>
 
