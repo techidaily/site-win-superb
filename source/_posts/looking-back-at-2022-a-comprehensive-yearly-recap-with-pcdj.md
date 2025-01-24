@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at 2022: A Comprehensive Yearly Recap with PCDJ"
-date: 2025-01-14T20:41:41.376Z
-updated: 2025-01-18T01:45:23.204Z
+date: 2025-01-20T01:42:47.190Z
+updated: 2025-01-23T20:12:08.967Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As we conclude year 23 for PCDJ, and as we always like to do at years’ end, he
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2022 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2022 soon to be history, we’re exited to build on momentum in 2023\. New 
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2023\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,16 +71,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/12/2022-year-in-review.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-superb.techidaily.com/compatibility-guide-can-your-pcs-sound-card-work-with-windows-10-insights-by-yl-computing/"><u>Compatibility Guide: Can Your PC's Sound Card Work With Windows 10? - Insights by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/identifying-affected-memory-systems-ram-vs-rom-insights-by-yl-software-experts/"><u>Identifying Affected Memory Systems: RAM Vs. ROM Insights by YL Software Experts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-for-a-standout-instagram-groups-project/"><u>In 2024, Quick Tips for a Standout Instagram Groups Project</u></a></li>
-<li><a href="https://win-superb.techidaily.com/is-your-hard-drive-on-the-brink-of-collapse-learn-key-indicators-with-yls-expertise/"><u>Is Your Hard Drive on the Brink of Collapse? Learn Key Indicators with YL's Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-empty-directory-assertion-eradicate-error-0x80070091/"><u>Mastering Windows' Empty Directory Assertion - Eradicate Error 0X80070091</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-future-top-wireless-routers-for-seamless-travels/"><u>Navigating the Future: Top Wireless Routers for Seamless Travels</u></a></li>
-<li><a href="https://win-superb.techidaily.com/simple-steps-to-streamline-file-management-get-quick-and-efficient-access-with-yl-computing-tools/"><u>Simple Steps to Streamline File Management: Get Quick & Efficient Access with YL Computing Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/strategic-steps-for-effective-annotations-and-cards-on-your-youtube-videos-for-2024/"><u>Strategic Steps for Effective Annotations & Cards on Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/upgrading-vs-replacing-your-pcs-gpu-a-comprehensive-guide-yl-technologies/"><u>Upgrading Vs. Replacing Your PC's GPU: A Comprehensive Guide - YL Technologies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-techniques-for-youtube-image-crafting/"><u>[New] The Essential Techniques for YouTube Image Crafting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-vsco-photo-editing-tips-and-tricks/"><u>[Updated] 2024 Approved Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
+<li><a href="https://win-superb.techidaily.com/erase-data-like-a-pro-complete-factory-reset-tutorial-for-microsoft-surface-pro-series/"><u>Erase Data Like a Pro: Complete Factory Reset Tutorial for Microsoft Surface Pro Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-ahead-with-apples-latest-marvel-the-watch-series-10-start-pre-ordering-and-save-more/"><u>Get Ahead with Apple's Latest Marvel, the Watch Series 10 – Start Pre-Ordering and Save More!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/guia-completa-4-estrategias-faciles-para-rescatar-una-unidad-extraible-desaparecida-en-windows-11/"><u>Guía Completa: 4 Estrategias Fáciles Para Rescatar Una Unidad Extraíble Desaparecida en Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harmonic-hues-infusing-your-social-media-content-with-tunes-for-2024/"><u>Harmonic Hues Infusing Your Social Media Content with Tunes for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/hyper-v-vm-memory-overflow-now-addressed-and-rectified/"><u>Hyper-V VM Memory Overflow - Now Addressed and Rectified</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/teps-to-find-your-youtube-content-creation-hub-for-2024/"><u>Key Steps to Find Your YouTube Content Creation Hub for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/protecting-your-digital-world-a-guide-to-setting-up-automatic-windows-os-backups-on-shutdown-for-win111087-systems/"><u>Protecting Your Digital World: A Guide to Setting Up Automatic Windows OS Backups on Shutdown for Win11/10/8/7 Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speaking-smart-futuristic-strategies-in-linguistics-today/"><u>Speaking Smart: Futuristic Strategies in Linguistics Today</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782391-9781591438489-the-shamanic-path-to-quantum-consciousness/"><u>The Shamanic Path to Quantum Consciousness | Free Book</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-to-managing-your-sd-card-deletion-formatting-and-secure-erasure-explained/"><u>Ultimate Guide to Managing Your SD Card: Deletion, Formatting & Secure Erasure Explained</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pinnacle-studio-not-working-try-these-mac-alternatives-instead/"><u>Updated In 2024, Pinnacle Studio Not Working? Try These Mac Alternatives Instead</u></a></li>
+<li><a href="https://win-superb.techidaily.com/youtube-ad-blocking-mastery-using-malwarefox-a-comprehensive-tutorial-to-enjoy-uninterrupted-videos/"><u>YouTube Ad-Blocking Mastery Using MalwareFox: A Comprehensive Tutorial to Enjoy Uninterrupted Videos</u></a></li>
 </ul></div>
 
