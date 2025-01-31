@@ -1,7 +1,7 @@
 ---
 title: Mastering Mixer Efficiency on Windows nT - Expert Tips and Tricks for PCDJ Users
-date: 2025-01-20T20:24:28.073Z
-updated: 2025-01-23T20:10:17.964Z
+date: 2025-01-28T19:47:58.992Z
+updated: 2025-01-31T19:07:38.801Z
 tags:
   - product
 categories:
@@ -26,15 +26,27 @@ Equate your shiny new Windows 10 laptop to a stock car you’re about to take on
 
 Default Windows 10 configurations are far from road-ready. They are loaded with adware that are battle ready and itching to fight to the death over your new computer’s system resources. The last thing you need while DJing a live performance is one of these little critters to win the resource battle and sap valuable resources at critical moments, therefore If a program or a settings is is not crucial it should be uninstall or disabled. More on this below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Unless you’re Streaming with Party Tyme or SoundCloud in DEX 3, Disable WiFi and Bluetooth
 
 It’s not always cut and dry with performance issues. Web-based applications that rely on WiFi can often be the cause of audio issues or even crashes. Disabling WiFi prevents these operations from being triggered. If Bluetooth is disabled you can prevent other devices from talking to your computer during critical performances.
 
 **NOTE:** If you are a [Party Tyme Karaoke](https://tools.techidaily.com/pcdj/products/) or [SoundCloud Go+](https://tools.techidaily.com/pcdj/products/) subscriber and disabling WiFi is not an option you should be aware of other background/web-based services on your Windows 10 laptop. Uninstall or disable them if you’re going to be online during your live performance. These include services like messenger, Skype, or automatic updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Don’t Fill Up
 
 This is a BIG one and often overlooked: Always leave at least 20% of your Windows computer’s hard disk free. If your drive is more than 80% performance will suffer. Don’t do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### If It’s Not Critical Software to Run your Show, Turn it Off
 
@@ -43,7 +55,7 @@ If the program isn’t absolutely necessary for live performance TURN IT OFF. Th
 ![DEX 3 Mixing Music](https://i1.wp.com/pcdj.com/wp-content/uploads/2019/06/dex3screenshot-denoncontroller-nice.jpg?fit=300%2C214&ssl=1 "DEX 3 Mixing Music")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Do you USB, Bro?
@@ -51,26 +63,22 @@ If the program isn’t absolutely necessary for live performance TURN IT OFF. Th
 Doing USB right: Use USB 3.0 devices with 3.0 ports/cables, and USB 2.0 devices with 2.0 ports/cables. While USB 3.0 ports can handle 2.0 devices, they have to slow down to do so. Same goes for 2.0 ports and 3.0 devices. It will still work, but less than optimally. If you use a pro audio USB device or DJ controller this tip shouldn’t be ignored. Also, try not to use a USB Hub. While you may not have the choice due to the various USB devices you’re running, they can cause issues, from latency to noise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The More RAM the Merrier
 
 Windows 10 will use 2 GB or more of RAM for basic operations all by it’s lonesome. In our experience, on your Windows 10 DJ computer 8GB of RAM is the recommended minimum. If you’re mixing HD quality music videos or using advanced features like Shaders or Text, Image, and Video Overlays you’ll want more. With RAM, the more the merrier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s Getting HOT
 
 Typically you won’t experience this unless it’s a few hours into your event, but if you notice various issues occurring later on, including audio-related problems, it’s very likely heat related. Your Windows 10 computer will attempt to throttle back power to cope with overheating, which can result in a myriad of issues. There are a number of items that may cause it that may not be a poorly running computer or fan. For example, when you use a very small buffer, say around 5ms, your computer processor will work harder than if you used a large buffer (latency) size around 11ms. The surface you have your laptop on can also play a part in overheating. Stick with a flat/hard surface or use a cooling fan or pad if it seems to be a regular problem. Disabling services as previously instructed will also assist in keeping your machine running cool as a cucumber.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Windows 10 System Optimizations for your Windows 10 Computer
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### High Performance Mode
 
@@ -81,10 +89,6 @@ From your Windows Start menu navigate to the Windows Control Panel/Settings:
 **Go to: System -> Power or System and Security -> Power Options -> Additional Power Settings**
 
 Choose “High Performance” as the “Power Plan”. Then click “Change plan settings” and set ‘Put the computer to sleep” to “Never”. Then “Save Changes.”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Kill Other Programs Running in the Background
 
@@ -116,7 +120,7 @@ Disabling Windows’ graphical effects will free up additional resources. Window
 Windows may not look as pretty, taking on more of an early windows 7 look and feel, but performance will be increased.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tweak Processor Scheduling
@@ -137,10 +141,6 @@ User Account Control can be a real pain when it comes to rights and privileges y
 1. Right-click on your “Start” menu and select “Settings”.
 2. In the “Search” box type in “User Account Control” and click on “Change User Account Control Settings”
 3. Set “Never Notify”.Click “OK” and Restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Have a Dedicated Graphics Card and Your Mix Music Videos? Do this, Too
 
@@ -165,21 +165,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/windows10-optimize.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-gamers-signature-look-essential-template-tips-for-channels/"><u>[New] 2024 Approved Gamers' Signature Look Essential Template Tips for Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-effortless-game-captures-with-nvidia/"><u>[New] In 2024, Effortless Game Captures with NVIDIA</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>[New] In 2024, Top 4 Remedies Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unraveling-asmr-for-mental-and-physical-health/"><u>[New] In 2024, Unraveling ASMR for Mental and Physical Health</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>[Updated] Beginner's Pathway Photos Transformed Into Videos via Pixiz</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>[Updated] In 2024, Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook/"><u>2024 Approved From Camera to Feed IPhone & Android Broadcast Guide for Facebook</u></a></li>
-<li><a href="https://win-superb.techidaily.com/6ygo5y6744gu44oh44o844or5b6p5rs744ks44kk44oj77ya44ok44ov44o844oh44o844or44gn5asx44kp44km44gf44oh44od44k744o844k444ks6kal44gk44gr44kl5pa55rov/"><u>過去のメール復活ガイド：ヤフーメールで失われたメッセージを見つける方法</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/assessing-boses-qc30-sound-signature-strengths/"><u>Assessing Bose's QC30 Sound Signature Strengths</u></a></li>
-<li><a href="https://win-superb.techidaily.com/guide-rapide-pour-recuperer-des-fichiers-perdus-dans-onedrive-4-astuces-essentielles/"><u>Guide Rapide Pour Récupérer Des Fichiers Perdus Dans OneDrive : 4 Astuces Essentielles</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-easily-copy-temporary-data-onto-nas-equipment-using-leading-freeware-tools/"><u>How to Easily Copy Temporary Data Onto NAS Equipment Using Leading Freeware Tools</u></a></li>
-<li><a href="https://win-superb.techidaily.com/losung-fur-das-problem-windows-11-systemwiederherstellung-hangt-bei-initialisierungs-oder-dateiwiederherstellungsprozess/"><u>Lösung Für Das Problem: Windows 11 - Systemwiederherstellung Hängt Bei Initialisierungs- Oder Dateiwiederherstellungsprozess</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-guide-restoring-lost-files-from-a-failing-windows-7-system/"><u>Step-by-Step Guide: Restoring Lost Files From a Failing Windows 7 System</u></a></li>
-<li><a href="https://win-superb.techidaily.com/techniques-uncovering-lost-files-on-a-damaged-hard-disk/"><u>Techniques Uncovering Lost Files on a Damaged Hard Disk</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-alternatives-to-anyrecover-for-efficient-data-retrieval-a-comprehensive-guide/"><u>Top Alternatives to AnyRecover for Efficient Data Retrieval: A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-capture-assistant-az-audits-and-alternatives/"><u>[New] In 2024, Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-viral-vibes-top-10-playlists-for-up-and-coming-video-shorts/"><u>[New] Viral Vibes Top 10 Playlists for Up-and-Coming Video Shorts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-easy-access-to-expert-tech-insights/"><u>[Updated] 2024 Approved Easy Access to Expert Tech Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-firefox-pip-a-complete-users-manual/"><u>[Updated] 2024 Approved Firefox PIP A Complete User's Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-above-and-beyond-vertical-panoramas-made-easy/"><u>2024 Approved Above and Beyond Vertical Panoramas Made Easy</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-guide-to-best-10-no-cost-srt-converters/"><u>2024 Approved Essential Guide to Best 10 No-Cost Srt Converters</u></a></li>
+<li><a href="https://win-superb.techidaily.com/download-free-iso-utility-recover-formatted-or-lost-data-with-no-cost/"><u>Download Free ISO Utility: Recover Formatted or Lost Data with No Cost</u></a></li>
+<li><a href="https://win-superb.techidaily.com/expert-strategies-for-salvaging-your-information-fixing-broken-usb-flash-devices/"><u>Expert Strategies for Salvaging Your Information: Fixing Broken USB Flash Devices</u></a></li>
+<li><a href="https://win-superb.techidaily.com/overcoming-windows-cuick-fix-for-the-white-screen-errors-on-your-windows-10-computer-expert-advice-and-methods/"><u>Overcoming Windows Cuick Fix for the White Screen Errors on Your Windows 10 Computer - Expert Advice & Methods</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728471775097-windows-11/"><u>Windows 11 再設定手順：互換性のあるハードウェア間で</u></a></li>
 </ul></div>
 
