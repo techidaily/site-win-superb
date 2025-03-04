@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at 2022: A Comprehensive Yearly Recap with PCDJ"
-date: 2025-02-11T18:07:20.766Z
-updated: 2025-02-12T19:47:59.908Z
+date: 2025-02-27T02:04:57.917Z
+updated: 2025-03-03T16:11:54.613Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ As we conclude year 23 for PCDJ, and as we always like to do at years’ end, he
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2022 PCDJ Milestones
 
 * Introduced [TIDAL](https://tools.techidaily.com/pcdj/products/) streaming support to [DEX 3](https://tools.techidaily.com/pcdj/products/), providing DJs with in-app access to a massive selection of music and music videos to enhance their sets.
@@ -47,10 +43,6 @@ As we conclude year 23 for PCDJ, and as we always like to do at years’ end, he
 With 2022 soon to be history, we’re exited to build on momentum in 2023\. New features, free updates, new services, and a more are cued up and ready to mix!
 
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2023\. We appreciate you!**_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -71,24 +63,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/12/2022-year-in-review.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/est-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>[New] Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-erase-wisely-strategies-using-photoshops-eraser/"><u>[Updated] 2024 Approved Erase Wisely Strategies Using Photoshop's Eraser</u></a></li>
-<li><a href="https://win-superb.techidaily.com/2-methods-how-to-upgrade-your-msi-laptop-hard-drive-with-an-ssd/"><u>2 Methods: How to Upgrade Your MSI Laptop Hard Drive with an SSD</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728509029677-surface-pro/"><u>转移 Surface Pro数据：完全指南 - 从原设备复制到新机</u></a></li>
-<li><a href="https://driver-install.techidaily.com/activate-surface-with-marvell-avastar-ac-acpi-controller/"><u>Activate Surface with Marvell Avastar-AC ACPI Controller</u></a></li>
-<li><a href="https://article-posts.techidaily.com/color-perfection-interface/"><u>Color Perfection Interface</u></a></li>
-<li><a href="https://win-superb.techidaily.com/copy-clone-ide-hard-drive-onto-sata-hddssd-under-windows-11-10-8-or-prise/"><u>Copy (Clone) IDE Hard Drive Onto SATA HDD/SSD Under Windows 11, 10, 8 or Prise</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-variances-how-is-echo-pop-different-from-an-echo-dot/"><u>Decoding the Variances: How Is Echo Pop Different From an Echo Dot?</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f14-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F14 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/guida-completa-per-inviare-une-mail-usando-il-desktop-di-macos-un-manuale-fai-da-te/"><u>Guida Completa per Inviare Un'e-Mail Usando Il Desktop Di MacOS: Un Manuale Fai-Da-Te</u></a></li>
-<li><a href="https://win-superb.techidaily.com/guide-securing-your-files-from-google-drive-onto-an-external-storage-device-for-windows-users-windows-11-8-7/"><u>Guide: Securing Your Files From Google Drive Onto an External Storage Device for Windows Users (Windows 11, 8, 7)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/leveraging-apples-off-site-diagnostic-tools-for-iphone-technical-analysis/"><u>Leveraging Apple's Off-Site Diagnostic Tools for iPhone Technical Analysis</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ottimizza-i-tuoi-pc-windows-10-o-11-con-le-funzionalche-del-prompt-dei-comandi/"><u>Ottimizza I Tuoi PC Windows 10 O 11 Con Le Funzionalche Del Prompt Dei Comandi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-bluetooth-not-detected-problem-fast-and-easy-step-by-step-guide/"><u>Resolve Your Windows 11 Bluetooth Not Detected Problem Fast and Easy - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/the-use-of-jigs-and-fixtures-can-greatly-reduce-the-risk-of-deformation-by-holding-parts-firmly-in-place/"><u>The Use of Jigs and Fixtures Can Greatly Reduce the Risk of Deformation by Holding Parts Firmly in Place.</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/trasforma-i-tuoi-file-mpeg-in-formato-flac-senza-costi-con-il-servizio-online-di-movavi/"><u>Trasforma I Tuoi File MPEG in Formato FLAC Senza Costi Con Il Servizio Online Di Movavi</u></a></li>
-<li><a href="https://win-superb.techidaily.com/ultimate-windows-10/"><u>Ultimateガイド: Windows 10におけるフリーなパーティション修復手順</u></a></li>
-<li><a href="https://win-superb.techidaily.com/wie-sie-hyper-v-auf-einem-windows-pc-oder-windows-server-deinstallieren/"><u>Wie Sie Hyper-V Auf Einem Windows PC Oder Windows Server Deinstallieren</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-video-mastery-for-professional-vimeo-users-for-2024/"><u>[New] Ultimate Video Mastery for Professional Vimeo Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-the-way-in-iphonecomputer-video-format-conversion/"><u>[Updated] Leading the Way in iPhone/Computer Video Format Conversion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-revolutionize-your-online-audio-with-these-5-methods/"><u>[Updated] Revolutionize Your Online Audio with These 5 Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-precisioncapture-w10-pro/"><u>2024 Approved PrecisionCapture W10 Pro</u></a></li>
+<li><a href="https://win-superb.techidaily.com/august-2016s-top-50-chart-topping-music-videos-download-now-from-the-video-pool/"><u>August 2016'S Top 50 Chart-Topping Music Videos - Download Now From The Video Pool</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-success-understanding-youtube-insights-for-2024/"><u>Charting Success Understanding YouTube Insights for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/configuring-systems-and-networks-made-easy-tips-from-the-experts-at-yl-computing/"><u>Configuring Systems and Networks Made Easy: Tips From the Experts at YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easily-discover-your-graphics-cards-make-and-model-with-our-quick-troubleshooting-tips-digital-solutions-blog/"><u>Easily Discover Your Graphics Card's Make and Model with Our Quick Troubleshooting Tips - Digital Solutions Blog</u></a></li>
+<li><a href="https://win-superb.techidaily.com/expert-advice-on-resolving-hard-drive-problems-from-yl-softwares-troubleshooting-series/"><u>Expert Advice on Resolving Hard Drive Problems From YL Software's Troubleshooting Series</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-sculptors-of-immersive-digital-universes/"><u>In 2024, Sculptors of Immersive Digital Universes</u></a></li>
+<li><a href="https://win-superb.techidaily.com/navigating-the-cryptocurrency-job-market-strategies-for-securing-opportunities-in-digital-assets-tips-from-yl-tech-experts/"><u>Navigating the Cryptocurrency Job Market: Strategies for Securing Opportunities in Digital Assets - Tips From YL Tech Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-troubleshooting-for-tales-of-arise-on-unreal-engine-4/"><u>Navigating Troubleshooting for Tales of Arise on Unreal Engine 4</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210458193-9781722527181-the-journey-beyond-enlightenment/"><u>The Journey Beyond Enlightenment | Free Book</u></a></li>
+<li><a href="https://win-superb.techidaily.com/the-upswing-of-precious-metals-and-energy-commodities-amidst-geopolitical-uncertainty-expert-analysis-by-yl-computing-yl-software/"><u>The Upswing of Precious Metals and Energy Commodities Amidst Geopolitical Uncertainty: Expert Analysis by YL Computing, YL Software</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/transform-paperwork-into-digital-format-on-ios-mastering-the-art-of-ocr-with-iscanbook-go/"><u>Transform Paperwork Into Digital Format on iOS: Mastering the Art of OCR with iScanBook Go!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-usb-port-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: How To Fix a Non-Responsive USB Port - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/ultimate-guide-to-accessing-copy-free-song-conclusions-for-2024/"><u>Ultimate Guide to Accessing Copy-Free Song Conclusions for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/verifying-your-graphics-card-functionality-a-step-by-step-guide-tips-from-yl-computing/"><u>Verifying Your Graphics Card Functionality: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-software-guide-resolving-installation-errors-for-your-video-card-driver-expert-advice/"><u>YL Software Guide: Resolving Installation Errors for Your Video Card Driver - Expert Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Clipboard Actions: How to Utilize Copy/Paste Functions in VMware and Hyper-V Environments"
-date: 2025-01-25T18:16:26.940Z
-updated: 2025-01-31T19:39:10.675Z
+date: 2025-02-27T22:07:55.660Z
+updated: 2025-03-03T20:06:20.081Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec402ad379c10e0f3eea750a806.jpg
@@ -24,10 +24,6 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
@@ -42,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -59,10 +51,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -96,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -114,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -137,10 +113,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -183,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -202,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,14 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-made-easy-your-guide-to-adding-and-sharing-gifs/"><u>[New] In 2024, Snapchat Made Easy Your Guide to Adding and Sharing Gifs</u></a></li>
-<li><a href="https://win-superb.techidaily.com/compatibility-guide-can-your-pcs-sound-card-work-with-windows-10-insights-by-yl-computing/"><u>Compatibility Guide: Can Your PC's Sound Card Work With Windows 10? - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721464188281-fix-an-iphones-charge-alert-when-on-call-discover-8-key-strategies/"><u>Fix an iPhone's Charge Alert When On Call: Discover 8 Key Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-the-complete-guide-to-greenscreen-in-kinemaster-for-2024/"><u>From Novice to Pro The Complete Guide to Greenscreen in KineMaster for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/identifying-affected-memory-systems-ram-vs-rom-insights-by-yl-software-experts/"><u>Identifying Affected Memory Systems: RAM Vs. ROM Insights by YL Software Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-talking-the-talk-mastering-viewer-communication/"><u>In 2024, Talking the Talk Mastering Viewer Communication</u></a></li>
-<li><a href="https://win-superb.techidaily.com/is-your-hard-drive-on-the-brink-of-collapse-learn-key-indicators-with-yls-expertise/"><u>Is Your Hard Drive on the Brink of Collapse? Learn Key Indicators with YL's Expertise</u></a></li>
-<li><a href="https://win-superb.techidaily.com/simple-steps-to-streamline-file-management-get-quick-and-efficient-access-with-yl-computing-tools/"><u>Simple Steps to Streamline File Management: Get Quick & Efficient Access with YL Computing Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/loggers-guide-to-choosing-camgear-the-top-9-innovations-for-2024/"><u>The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-apex-gk-quizmasters-video-channel-list/"><u>[New] Apex GK Quizmasters' Video Channel List</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-diving-into-hololens-technology-the-visionary-glimpse/"><u>[Updated] 2024 Approved Diving Into HoloLens Technology – The Visionary Glimpse</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-video-capture-tools-for-windows-10-users/"><u>[Updated] Essential Video Capture Tools for Windows 10 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-art-of-audio-alteration-for-stories-and-reels-on-ig-for-2024/"><u>[Updated] The Art of Audio Alteration For Stories and Reels on IG for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/chinas-new-anti-spying-law-raises-concerns-exploring-rule-of-law-amidst-legislative-actions-insights-by-yl-computing/"><u>China's New Anti-Spying Law Raises Concerns: Exploring Rule of Law Amidst Legislative Actions - Insights by YL Computing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/effective-steps-for-removing-programs-via-the-windows-management-console-insights-from-yl-software/"><u>Effective Steps for Removing Programs via the Windows Management Console - Insights From YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-curve-with-vital-details-on-teslas-revolutionary-robotaxi-news-update-price-forecasts-and-more-hearsay-released/"><u>Get Ahead of the Curve with Vital Details on Tesla's Revolutionary Robotaxi - News Update, Price Forecasts and More Hearsay Released</u></a></li>
+<li><a href="https://win-updates.techidaily.com/recuperation-eclairee-8-techniques-essentielles-pour-recuperer-des-fichiers-detruits-sur-google-drive/"><u>Récupération Éclairée: 8 Techniques Essentielles Pour Récupérer Des Fichiers Détruits Sur Google Drive</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/risks-and-benefits-leveraging-windows-system-restore-for-file-restoration-guidance-from-yl-software-experts/"><u>Risks and Benefits: Leveraging Windows System Restore for File Restoration - Guidance From YL Software Experts</u></a></li>
+<li><a href="https://win-superb.techidaily.com/solving-network-card-problems-in-windows-with-yl-softwares-guidance/"><u>Solving Network Card Problems in Windows with YL Software's Guidance</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-protecting-your-data-with-windows-backups-and-restores-yl-software-solutions/"><u>Step-by-Step Guide to Protecting Your Data with Windows Backups & Restores - YL Software Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/superior-video-coding-is-av1-the-futures-answer-to-outperforming-hevc-in-streaming-quality-and-efficiency/"><u>Superior Video Coding: Is AV1 the Future's Answer to Outperforming HEVC in Streaming Quality and Efficiency?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/the-ultimate-guide-to-hard-drive-defragmentation-with-expert-advice-from-yl-software/"><u>The Ultimate Guide to Hard Drive Defragmentation with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-strategies-to-enhance-your-gaming-experience-by-boosting-pc-performance-insights-from-yl-software/"><u>Top Strategies to Enhance Your Gaming Experience by Boosting PC Performance - Insights From YL Software</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-guide-fixing-windows-pcs-failed-internet-connection-tips-by-yl-computing/"><u>Troubleshooting Guide: Fixing Windows PC's Failed Internet Connection - Tips by YL Computing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-print-colored-images/"><u>Unable to Print Colored Images</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/updating-gpu-drivers-made-easy-with-yl-computings-ultimate-tutorial/"><u>Updating GPU Drivers Made Easy with YL Computing's Ultimate Tutorial</u></a></li>
+<li><a href="https://win-superb.techidaily.com/upgrade-your-mixing-game-with-numarks-fx-supported-dj-controllers-experience-the-power-of-pcdj-mixtrack-pro-dex-er-and-platinum-models/"><u>Upgrade Your Mixing Game with Numark's FX-Supported DJ Controllers: Experience the Power of PCDJ Mixtrack Pro DEX Er & Platinum Models</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-computing-series-organize-with-unique-season-icon-sets/"><u>YL Computing Series: Organize with Unique Season Icon Sets</u></a></li>
 </ul></div>
 
